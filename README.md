@@ -21,7 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Is Learning Sass Worthwhile?](https://dev.to/littlegrapeguy/is-learning-sass-worthwhile-207f)
+- [Day 2](https://dev.to/ahmedhossamdev/day-2-340)
+- [Higher-Order Components in React Hooks era](https://dev.to/adevnadia/higher-order-components-in-react-hooks-era-3d9b)
+- [Using modulo to shift a value and keep it inside a range](https://dev.to/timothee/using-modulo-to-shift-a-value-and-keep-it-inside-a-range-8fm)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
