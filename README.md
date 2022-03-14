@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Level-Up Your Flask Logging](https://dev.to/darrah/level-up-your-flask-logging-h27)
-- [Programming Languages And Their Purpose](https://dev.to/unofficialdxnny/programming-languages-and-their-purpose-1pih)
-- [Generating Simulated Streaming Data](https://dev.to/tspannhw/generating-simulated-streaming-data-2j7g)
-- [OpenLiteSpeed VS Nginx honest comparison.](https://dev.to/maximking1/openlitespeed-vs-nginx-honest-comparison-hkl)
+- [Authentication Cookies HTTP, HTTP Only, JWT, ReactJs Context API and Node on Backend Industry Structure](https://dev.to/guillerbr/authentication-cookies-http-http-only-jwt-reactjs-context-api-and-node-on-backend-industry-structure-3f8e)
+- [Deploy ReactJS on Firebase Hosting](https://dev.to/guillerbr/deploy-reactjs-on-firebase-hosting-4mpj)
+- [Vercel Site Deployment](https://dev.to/taylormorini/vercel-based-development-workflows-4efl)
+- [Compliance Checking in AWS](https://dev.to/aws-builders/compliance-checking-in-aws-3ode)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
