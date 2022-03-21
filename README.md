@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Authentication Cookies HTTP, HTTP Only, JWT, ReactJs Context API and Node on Backend Industry Structure](https://dev.to/guillerbr/authentication-cookies-http-http-only-jwt-reactjs-context-api-and-node-on-backend-industry-structure-3f8e)
-- [Deploy ReactJS on Firebase Hosting](https://dev.to/guillerbr/deploy-reactjs-on-firebase-hosting-4mpj)
-- [Vercel Site Deployment](https://dev.to/taylormorini/vercel-based-development-workflows-4efl)
-- [Compliance Checking in AWS](https://dev.to/aws-builders/compliance-checking-in-aws-3ode)
+- [Linked List in JavaScript](https://dev.to/fig781/linked-list-in-javascript-4a19)
+- [Learning Rails #2 - Migrations](https://dev.to/jessesousa/learning-rails-2-migrations-2952)
+- [Tales of the Autistic Developer – The Politician](https://dev.to/baweaver/tales-of-the-autistic-developer-the-politician-5aid)
+- [The Rust Programming Language](https://dev.to/ahmedgouda/the-rust-programming-language-18b0)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
