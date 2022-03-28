@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Linked List in JavaScript](https://dev.to/fig781/linked-list-in-javascript-4a19)
-- [Learning Rails #2 - Migrations](https://dev.to/jessesousa/learning-rails-2-migrations-2952)
-- [Tales of the Autistic Developer – The Politician](https://dev.to/baweaver/tales-of-the-autistic-developer-the-politician-5aid)
-- [The Rust Programming Language](https://dev.to/ahmedgouda/the-rust-programming-language-18b0)
+- [Can streaming be cheaper?](https://dev.to/noriller/can-streaming-be-cheaper-m2m)
+- [Google Apps Script で doc や sheet の作成をする](https://dev.to/kaede_io/google-apps-script-de-doc-ya-sheet-nozuo-cheng-wosuru-4mja)
+- [Dashboards de Produção Industrial](https://dev.to/leodnascimento/dashboards-de-producao-industrial-2i1k)
+- [Dashboards de Vendas no PBI](https://dev.to/leodnascimento/dashboards-de-vendas-no-pbi-jhg)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
