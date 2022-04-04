@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Can streaming be cheaper?](https://dev.to/noriller/can-streaming-be-cheaper-m2m)
-- [Google Apps Script で doc や sheet の作成をする](https://dev.to/kaede_io/google-apps-script-de-doc-ya-sheet-nozuo-cheng-wosuru-4mja)
-- [Dashboards de Produção Industrial](https://dev.to/leodnascimento/dashboards-de-producao-industrial-2i1k)
-- [Dashboards de Vendas no PBI](https://dev.to/leodnascimento/dashboards-de-vendas-no-pbi-jhg)
+- [Build a search application with React and Typesense](https://dev.to/itz_salemm/build-a-search-application-with-react-and-typesense-3037)
+- [Pizza Code](https://dev.to/besworks/pizza-code-3gc6)
+- [12 Tips to Self-host Renovate Bot](https://dev.to/jerrynsh/12-tips-to-self-host-renovate-bot-446l)
+- [Creating a Simple Weather App with Python and Flask](https://dev.to/cscarpitta/creating-a-simple-weather-app-with-python-and-flask-5bpd)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
