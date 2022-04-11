@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a search application with React and Typesense](https://dev.to/itz_salemm/build-a-search-application-with-react-and-typesense-3037)
-- [Pizza Code](https://dev.to/besworks/pizza-code-3gc6)
-- [12 Tips to Self-host Renovate Bot](https://dev.to/jerrynsh/12-tips-to-self-host-renovate-bot-446l)
-- [Creating a Simple Weather App with Python and Flask](https://dev.to/cscarpitta/creating-a-simple-weather-app-with-python-and-flask-5bpd)
+- [In Swedish, are HTML elements &quot;i&quot; or &quot;på&quot; eachother?](https://dev.to/baenencalin/in-swedish-are-html-elements-i-or-pa-eachother-5067)
+- [8 Must-Have GitHub Repos for Front-end Developers](https://dev.to/waldronmatt/8-must-have-github-repos-for-front-end-developers-50d0)
+- [Trabalhando com JsPdf com React](https://dev.to/jumaschion/trabalhando-com-jspdf-1gki)
+- [RedwoodJS - Create a full stack application in minutes](https://dev.to/pacholoamit/redwoodjs-create-a-full-stack-application-in-minutes-2hff)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
