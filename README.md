@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [In Swedish, are HTML elements &quot;i&quot; or &quot;på&quot; eachother?](https://dev.to/baenencalin/in-swedish-are-html-elements-i-or-pa-eachother-5067)
-- [8 Must-Have GitHub Repos for Front-end Developers](https://dev.to/waldronmatt/8-must-have-github-repos-for-front-end-developers-50d0)
-- [Trabalhando com JsPdf com React](https://dev.to/jumaschion/trabalhando-com-jspdf-1gki)
-- [RedwoodJS - Create a full stack application in minutes](https://dev.to/pacholoamit/redwoodjs-create-a-full-stack-application-in-minutes-2hff)
+- [The Best Programming Language For App Development In 2022](https://dev.to/hnodes/the-best-programming-language-for-app-development-in-2022-4ibk)
+- [Miniexcel Dynamic Query Totuial](https://dev.to/shps951023/miniexcel-dynamic-query-totuial-7d6)
+- [Operator &quot;as&quot; in Rust / Operador &quot;as&quot; en Rust](https://dev.to/mateolafalce/operador-as-en-rust-5k1)
+- [Using Redis Cloud in your NextJS application](https://dev.to/rainforss/using-redis-cloud-in-your-nextjs-application-39f2)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
