@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best Programming Language For App Development In 2022](https://dev.to/hnodes/the-best-programming-language-for-app-development-in-2022-4ibk)
-- [Miniexcel Dynamic Query Totuial](https://dev.to/shps951023/miniexcel-dynamic-query-totuial-7d6)
-- [Operator &quot;as&quot; in Rust / Operador &quot;as&quot; en Rust](https://dev.to/mateolafalce/operador-as-en-rust-5k1)
-- [Using Redis Cloud in your NextJS application](https://dev.to/rainforss/using-redis-cloud-in-your-nextjs-application-39f2)
+- [What 2 years at Expedia Taught Me](https://dev.to/kaydacode/what-2-years-at-expedia-taught-me-7k8)
+- [JavaScript arrow functions](https://dev.to/fig781/javascript-arrow-functions-43h4)
+- [Strings 💫 🌌 ✨](https://dev.to/gulsenkeskin/strings-4268)
+- [DOM nima va u qanday ishlaydi?](https://dev.to/dawroun/dom-nima-va-u-qanday-ishlaydi-20k0)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
