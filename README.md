@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [What 2 years at Expedia Taught Me](https://dev.to/kaydacode/what-2-years-at-expedia-taught-me-7k8)
-- [JavaScript arrow functions](https://dev.to/fig781/javascript-arrow-functions-43h4)
-- [Strings 💫 🌌 ✨](https://dev.to/gulsenkeskin/strings-4268)
-- [DOM nima va u qanday ishlaydi?](https://dev.to/dawroun/dom-nima-va-u-qanday-ishlaydi-20k0)
+- [Block3 Project](https://dev.to/mateolafalce/block3-project-1fa8)
+- [Svelte: Labeled Statements](https://dev.to/aryakris/svelte-labeled-statements-1c6n)
+- [Getting hired as a software engineer in Poland vs UK](https://dev.to/beetlehope/getting-hired-as-a-software-engineer-in-poland-vs-uk-5bae)
+- [How to prepare for the GCP Professional Data Engineer certification](https://dev.to/gabrielosluz/how-to-prepare-for-the-gcp-professional-data-engineer-certification-gek)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
