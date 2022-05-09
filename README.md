@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Block3 Project](https://dev.to/mateolafalce/block3-project-1fa8)
-- [Svelte: Labeled Statements](https://dev.to/aryakris/svelte-labeled-statements-1c6n)
-- [Getting hired as a software engineer in Poland vs UK](https://dev.to/beetlehope/getting-hired-as-a-software-engineer-in-poland-vs-uk-5bae)
-- [How to prepare for the GCP Professional Data Engineer certification](https://dev.to/gabrielosluz/how-to-prepare-for-the-gcp-professional-data-engineer-certification-gek)
+- [Running a Single Test with Spaces in Minitest](https://dev.to/software_writer/running-a-single-test-with-spaces-in-minitest-12l8)
+- [You’re Doing Environment Variables All Wrong - A Node.js Perspective](https://dev.to/saikojosh/youre-doing-environment-variables-all-wrong-a-nodejs-perspective-20g0)
+- [What’s your placeholder name?](https://dev.to/noriller/whats-your-placeholder-name-3g7d)
+- [TOTAL POS - Table Control](https://dev.to/ushieru/total-pos-table-control-57a1)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
