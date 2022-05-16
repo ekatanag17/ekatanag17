@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Running a Single Test with Spaces in Minitest](https://dev.to/software_writer/running-a-single-test-with-spaces-in-minitest-12l8)
-- [You’re Doing Environment Variables All Wrong - A Node.js Perspective](https://dev.to/saikojosh/youre-doing-environment-variables-all-wrong-a-nodejs-perspective-20g0)
-- [What’s your placeholder name?](https://dev.to/noriller/whats-your-placeholder-name-3g7d)
-- [TOTAL POS - Table Control](https://dev.to/ushieru/total-pos-table-control-57a1)
+- [Elixir: Consumindo dados de uma API externa](https://dev.to/maiquitome/elixir-consumindo-dados-de-uma-api-externa-3g78)
+- [How to Drive Free Traffic to your Website](https://dev.to/jessicaagorye/how-to-drive-free-traffic-to-your-website-4f75)
+- [Understanding Data Transfer Objects &lpar;DTO&rpar; and Data Validation in TypeScript &lpar;NestJS&rpar;](https://dev.to/davidekete/understanding-data-transfer-objects-dto-and-data-validation-in-typescript-nestjs-1j2b)
+- [Web3 and the future of finance.](https://dev.to/firdavs_kasymov/web3-and-the-future-of-finance-2601)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
