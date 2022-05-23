@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Elixir: Consumindo dados de uma API externa](https://dev.to/maiquitome/elixir-consumindo-dados-de-uma-api-externa-3g78)
-- [How to Drive Free Traffic to your Website](https://dev.to/jessicaagorye/how-to-drive-free-traffic-to-your-website-4f75)
-- [Understanding Data Transfer Objects &lpar;DTO&rpar; and Data Validation in TypeScript &lpar;NestJS&rpar;](https://dev.to/davidekete/understanding-data-transfer-objects-dto-and-data-validation-in-typescript-nestjs-1j2b)
-- [Web3 and the future of finance.](https://dev.to/firdavs_kasymov/web3-and-the-future-of-finance-2601)
+- [What tools do you use?](https://dev.to/virtualcoffee/what-tools-do-you-use-785)
+- [SaaS Insight for Building a Real-time CRM Application](https://dev.to/ossinsight/saas-insight-for-building-a-real-time-crm-application-4bp4)
+- [I Made 100 CSS Buttons For Your Next Big Project 🚀️](https://dev.to/eludadev/i-made-100-css-buttons-for-your-next-big-project-m55)
+- [Sell me on Turborepo](https://dev.to/codemaster747/sell-me-on-turbo-repo-4i0h)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
