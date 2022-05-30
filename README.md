@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [What tools do you use?](https://dev.to/virtualcoffee/what-tools-do-you-use-785)
-- [SaaS Insight for Building a Real-time CRM Application](https://dev.to/ossinsight/saas-insight-for-building-a-real-time-crm-application-4bp4)
-- [I Made 100 CSS Buttons For Your Next Big Project 🚀️](https://dev.to/eludadev/i-made-100-css-buttons-for-your-next-big-project-m55)
-- [Sell me on Turborepo](https://dev.to/codemaster747/sell-me-on-turbo-repo-4i0h)
+- [100+ Project Idea Resources for Web Developers](https://dev.to/asheeshh/100-project-ideas-web-developers-2fn8)
+- [Demystifying Consensus Mechanisms in Blockchains](https://dev.to/desmondsanctity/demystifying-consensus-mechanisms-in-blockchains-161)
+- [Elixir, Kubernetes, and minikube](https://dev.to/miguelcoba/elixir-kubernetes-and-minikube-4fb9)
+- [Problem&#39;s faced in Dijkstra&#39;s Java Code || Leetcode](https://dev.to/nihalagarwal/dijkstras-java-code-5can)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
