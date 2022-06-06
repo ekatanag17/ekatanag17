@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [100+ Project Idea Resources for Web Developers](https://dev.to/asheeshh/100-project-ideas-web-developers-2fn8)
-- [Demystifying Consensus Mechanisms in Blockchains](https://dev.to/desmondsanctity/demystifying-consensus-mechanisms-in-blockchains-161)
-- [Elixir, Kubernetes, and minikube](https://dev.to/miguelcoba/elixir-kubernetes-and-minikube-4fb9)
-- [Problem&#39;s faced in Dijkstra&#39;s Java Code || Leetcode](https://dev.to/nihalagarwal/dijkstras-java-code-5can)
+- [Response validation with Yup](https://dev.to/hurricaneinteractive/response-validation-with-yup-2018)
+- [Level Up Your Skills By Mastering Git, Github, and The Terminal.](https://dev.to/resourcefulmind/level-up-your-skills-by-mastering-git-github-and-the-terminal-1h6)
+- [A Complete Juniper Certifications Guide](https://dev.to/ahzoardder/a-complete-juniper-certifications-guide-c4e)
+- [What are you testing?](https://dev.to/noriller/what-are-you-testing-35jd)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
