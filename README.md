@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Response validation with Yup](https://dev.to/hurricaneinteractive/response-validation-with-yup-2018)
-- [Level Up Your Skills By Mastering Git, Github, and The Terminal.](https://dev.to/resourcefulmind/level-up-your-skills-by-mastering-git-github-and-the-terminal-1h6)
-- [A Complete Juniper Certifications Guide](https://dev.to/ahzoardder/a-complete-juniper-certifications-guide-c4e)
-- [What are you testing?](https://dev.to/noriller/what-are-you-testing-35jd)
+- [How To Install And Configure The AWS CLI On Linux OS](https://dev.to/sholaumakhihe/how-to-install-and-configure-the-aws-cli-on-linux-os-2dma)
+- [3 actions to improve my English and the tools I must have - Dev Advocate Journey #DAJ 2](https://dev.to/mafermazu/3-actions-to-improve-my-english-and-the-tools-i-must-have-dev-advocate-journey-daj-2-1n80)
+- [The Perfect Development Environment 2022](https://dev.to/sagikazarmark/the-perfect-development-environment-2022-enf)
+- [React Component Lifecycle](https://dev.to/vkton115/react-component-lifecycle-13c9)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
