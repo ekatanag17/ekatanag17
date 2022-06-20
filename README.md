@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Install And Configure The AWS CLI On Linux OS](https://dev.to/sholaumakhihe/how-to-install-and-configure-the-aws-cli-on-linux-os-2dma)
-- [3 actions to improve my English and the tools I must have - Dev Advocate Journey #DAJ 2](https://dev.to/mafermazu/3-actions-to-improve-my-english-and-the-tools-i-must-have-dev-advocate-journey-daj-2-1n80)
-- [The Perfect Development Environment 2022](https://dev.to/sagikazarmark/the-perfect-development-environment-2022-enf)
-- [React Component Lifecycle](https://dev.to/vkton115/react-component-lifecycle-13c9)
+- [Como eu criei em algumas horas um site que busca propostas de freelas](https://dev.to/jnaraujo/como-eu-criei-em-algumas-horas-um-site-que-busca-propostas-de-freelas-4nh5)
+- [Best Practices for Successful Data Quality](https://dev.to/bpb_online/best-practices-for-successful-data-quality-dif)
+- [Stateful vs Stateless Architecture](https://dev.to/nyctonio/stateful-vs-stateless-architecture-1ao2)
+- [Data Structures and Algorithms-Intro](https://dev.to/tim254/data-structures-and-algorithms-intro-3ofn)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
