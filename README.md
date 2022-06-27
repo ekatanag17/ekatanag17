@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Como eu criei em algumas horas um site que busca propostas de freelas](https://dev.to/jnaraujo/como-eu-criei-em-algumas-horas-um-site-que-busca-propostas-de-freelas-4nh5)
-- [Best Practices for Successful Data Quality](https://dev.to/bpb_online/best-practices-for-successful-data-quality-dif)
-- [Stateful vs Stateless Architecture](https://dev.to/nyctonio/stateful-vs-stateless-architecture-1ao2)
-- [Data Structures and Algorithms-Intro](https://dev.to/tim254/data-structures-and-algorithms-intro-3ofn)
+- [React - You might not need that many states!](https://dev.to/noriller/react-you-might-not-need-that-many-states-5el)
+- [Golang e Rust: Qual é melhor?](https://dev.to/feministech/golang-e-rust-qual-e-melhor-4559)
+- [Asynchronous CRUD Operations in Node js](https://dev.to/crackingdemon/asynchronous-crud-operations-in-node-js-lgj)
+- [Find Your Balance to Help Prevent Burnout...](https://dev.to/dfeliciano3/find-your-balance-to-help-prevent-burnout-4ebm)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
