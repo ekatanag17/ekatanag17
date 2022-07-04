@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [React - You might not need that many states!](https://dev.to/noriller/react-you-might-not-need-that-many-states-5el)
-- [Golang e Rust: Qual é melhor?](https://dev.to/feministech/golang-e-rust-qual-e-melhor-4559)
-- [Asynchronous CRUD Operations in Node js](https://dev.to/crackingdemon/asynchronous-crud-operations-in-node-js-lgj)
-- [Find Your Balance to Help Prevent Burnout...](https://dev.to/dfeliciano3/find-your-balance-to-help-prevent-burnout-4ebm)
+- [Glassmorphism Login Form using CSS in 2022](https://dev.to/codewithayan10/glassmorphism-login-form-using-css-in-2022-272k)
+- [Consistency between Cache and Database, Part 1](https://dev.to/lazypro/consistency-between-cache-and-database-part-1-2e97)
+- [This is how I would learn web development If starting today in 2022 + get a job &lpar;Roadmap&rpar;](https://dev.to/justaashir/this-is-how-would-i-learn-web-development-if-starting-today-in-2022-get-a-job-roadmap-5dj8)
+- [Leetcode solutions in golang](https://dev.to/akanksha/leetcode-solutions-in-golang-41oj)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
