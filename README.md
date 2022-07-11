@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Glassmorphism Login Form using CSS in 2022](https://dev.to/codewithayan10/glassmorphism-login-form-using-css-in-2022-272k)
-- [Consistency between Cache and Database, Part 1](https://dev.to/lazypro/consistency-between-cache-and-database-part-1-2e97)
-- [This is how I would learn web development If starting today in 2022 + get a job &lpar;Roadmap&rpar;](https://dev.to/justaashir/this-is-how-would-i-learn-web-development-if-starting-today-in-2022-get-a-job-roadmap-5dj8)
-- [Leetcode solutions in golang](https://dev.to/akanksha/leetcode-solutions-in-golang-41oj)
+- [[PT-BR] Tirando faixa de audio OBS Studio nativamente &lpar;Twitch VOD Track&rpar;](https://dev.to/neiesc/pt-br-tirando-faixa-de-audio-obs-studio-nativamente-twitch-vod-track-2k1m)
+- [Hello World!](https://dev.to/teixtarcio/hello-world-50bj)
+- [AbcDB - Dead Simple Database for your JAMStack](https://dev.to/obedtandadjaja/abcdb-dead-simple-database-for-your-jamstack-flb)
+- [How to create Google Maps clone with Next.js, Prisma, and Postgres.](https://dev.to/isaacdyor/how-to-create-google-maps-clone-with-nextjs-prisma-and-postgres-305h)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
