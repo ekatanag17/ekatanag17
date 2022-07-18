@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [[PT-BR] Tirando faixa de audio OBS Studio nativamente &lpar;Twitch VOD Track&rpar;](https://dev.to/neiesc/pt-br-tirando-faixa-de-audio-obs-studio-nativamente-twitch-vod-track-2k1m)
-- [Hello World!](https://dev.to/teixtarcio/hello-world-50bj)
-- [AbcDB - Dead Simple Database for your JAMStack](https://dev.to/obedtandadjaja/abcdb-dead-simple-database-for-your-jamstack-flb)
-- [How to create Google Maps clone with Next.js, Prisma, and Postgres.](https://dev.to/isaacdyor/how-to-create-google-maps-clone-with-nextjs-prisma-and-postgres-305h)
+- [Personalizando o Windows Terminal](https://dev.to/danicaus/personalizando-o-windows-terminal-50ca)
+- [Introducing Pagefind: Static Low-bandwidth Search at Scale](https://dev.to/cloudcannon/introducing-pagefind-static-low-bandwidth-search-at-scale-59of)
+- [SOLIDITY - 101 &lpar;PART 1&rpar;](https://dev.to/taniskannpurna/solidity-101-part-1-2md8)
+- [Enviar correos desde Gmail usando tu propio dominio](https://dev.to/rooyca/enviar-correos-desde-gmail-usando-tu-propio-dominio-599)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
