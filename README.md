@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Personalizando o Windows Terminal](https://dev.to/danicaus/personalizando-o-windows-terminal-50ca)
-- [Introducing Pagefind: Static Low-bandwidth Search at Scale](https://dev.to/cloudcannon/introducing-pagefind-static-low-bandwidth-search-at-scale-59of)
-- [SOLIDITY - 101 &lpar;PART 1&rpar;](https://dev.to/taniskannpurna/solidity-101-part-1-2md8)
-- [Enviar correos desde Gmail usando tu propio dominio](https://dev.to/rooyca/enviar-correos-desde-gmail-usando-tu-propio-dominio-599)
+- [Introduction to Domain Driven Design](https://dev.to/thegreytangent/introduction-to-domain-driven-design-63a)
+- [Looking toward Multiplatform Settings 1.0.0](https://dev.to/russhwolf/looking-toward-multiplatform-settings-100-10aa)
+- [Go-lang Gorilla API + MongoDB in 30 minutes](https://dev.to/myk_okoth_ogodo/go-lang-gorilla-api-mongodb-in-30-minutes-54hk)
+- [What&#39;s the difference between OLAP and OLTP Systems?](https://dev.to/ibrahimesseddyq/whats-the-difference-between-olap-and-oltp-systems-5f51)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
