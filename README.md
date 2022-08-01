@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Domain Driven Design](https://dev.to/thegreytangent/introduction-to-domain-driven-design-63a)
-- [Looking toward Multiplatform Settings 1.0.0](https://dev.to/russhwolf/looking-toward-multiplatform-settings-100-10aa)
-- [Go-lang Gorilla API + MongoDB in 30 minutes](https://dev.to/myk_okoth_ogodo/go-lang-gorilla-api-mongodb-in-30-minutes-54hk)
-- [What&#39;s the difference between OLAP and OLTP Systems?](https://dev.to/ibrahimesseddyq/whats-the-difference-between-olap-and-oltp-systems-5f51)
+- [Data Files in SvelteKit](https://dev.to/cloudcannon/data-files-in-sveltekit-242e)
+- [The best collection of ECE Notes you&#39;ll ever find!](https://dev.to/kunalkeshan/the-best-collection-of-ece-notes-youll-ever-find-5e5d)
+- [Blogging in SvelteKit](https://dev.to/cloudcannon/blogging-in-sveltekit-1da)
+- [Templating in SvelteKit](https://dev.to/cloudcannon/templating-in-sveltekit-3ikm)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
