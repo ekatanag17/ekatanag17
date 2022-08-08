@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Files in SvelteKit](https://dev.to/cloudcannon/data-files-in-sveltekit-242e)
-- [The best collection of ECE Notes you&#39;ll ever find!](https://dev.to/kunalkeshan/the-best-collection-of-ece-notes-youll-ever-find-5e5d)
-- [Blogging in SvelteKit](https://dev.to/cloudcannon/blogging-in-sveltekit-1da)
-- [Templating in SvelteKit](https://dev.to/cloudcannon/templating-in-sveltekit-3ikm)
+- [Top 10 mistakes Junior Devs do](https://dev.to/waleedhcoder/top-10-mistakes-junior-devs-do-24ad)
+- [5 JavaScript Console Methods That will Improve your Debugging Skills🚀](https://dev.to/qbentil/5-javascript-console-methods-that-will-improve-your-debugging-skills-147b)
+- [How to build a tech product fast](https://dev.to/dherault/how-to-build-a-tech-product-fast-igh)
+- [Complete guide to kickstart your Open Source journey🚀](https://dev.to/iarchitsharma/complete-guide-to-kickstart-your-open-source-journey-2dm5)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
