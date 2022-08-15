@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 mistakes Junior Devs do](https://dev.to/waleedhcoder/top-10-mistakes-junior-devs-do-24ad)
-- [5 JavaScript Console Methods That will Improve your Debugging Skills🚀](https://dev.to/qbentil/5-javascript-console-methods-that-will-improve-your-debugging-skills-147b)
-- [How to build a tech product fast](https://dev.to/dherault/how-to-build-a-tech-product-fast-igh)
-- [Complete guide to kickstart your Open Source journey🚀](https://dev.to/iarchitsharma/complete-guide-to-kickstart-your-open-source-journey-2dm5)
+- [JavaScript - How to create beautiful fireworks effects with tsParticles](https://dev.to/tsparticles/javascript-create-beautiful-fireworks-effects-with-tsparticles-1ali)
+- [Automated Backups with cron and RClone](https://dev.to/itsbetma/automated-backups-with-cron-and-rclone-3do4)
+- [Process Management](https://dev.to/ravi_sankar/process-management-3gca)
+- [How to Self Host your own Website Analytics With Umami](https://dev.to/sachinchaurasiya/how-to-self-host-your-own-website-analytics-with-umami-co9)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
