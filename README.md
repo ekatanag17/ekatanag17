@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript - How to create beautiful fireworks effects with tsParticles](https://dev.to/tsparticles/javascript-create-beautiful-fireworks-effects-with-tsparticles-1ali)
-- [Automated Backups with cron and RClone](https://dev.to/itsbetma/automated-backups-with-cron-and-rclone-3do4)
-- [Process Management](https://dev.to/ravi_sankar/process-management-3gca)
-- [How to Self Host your own Website Analytics With Umami](https://dev.to/sachinchaurasiya/how-to-self-host-your-own-website-analytics-with-umami-co9)
+- [VS Code Tip of the Week: Tree Find Control](https://dev.to/vscodetips/vs-code-tip-of-the-week-tree-find-control-fg7)
+- [The Ultimate Guide to SaaS](https://dev.to/shittu_olumide_/the-ultimate-guide-to-saas-4j4j)
+- [O que é ORM - Mapeamento objeto-relacional](https://dev.to/biosbug/o-que-e-orm-mapeamento-objeto-relacional-2m8n)
+- [From Java 8 to Kotlin, Clojure and Java 17](https://dev.to/jorgetovar621/from-java-8-to-java-11-kotlin-and-clojure-5384)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
