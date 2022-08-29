@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [VS Code Tip of the Week: Tree Find Control](https://dev.to/vscodetips/vs-code-tip-of-the-week-tree-find-control-fg7)
-- [The Ultimate Guide to SaaS](https://dev.to/shittu_olumide_/the-ultimate-guide-to-saas-4j4j)
-- [O que é ORM - Mapeamento objeto-relacional](https://dev.to/biosbug/o-que-e-orm-mapeamento-objeto-relacional-2m8n)
-- [From Java 8 to Kotlin, Clojure and Java 17](https://dev.to/jorgetovar621/from-java-8-to-java-11-kotlin-and-clojure-5384)
+- [Hosting a Python Discord Bot for Free with Fly.io](https://dev.to/denvercoder1/hosting-a-python-discord-bot-for-free-with-flyio-3k19)
+- [I Built an Online Collaborative Canvas using Redis as my Primary Database 🎨](https://dev.to/eludadev/i-built-an-online-collaborative-canvas-using-redis-as-my-primary-database-2001)
+- [Disco.pics - Free and open source image hosting service](https://dev.to/dhravya/discopics-free-and-open-source-image-hosting-service-ia9)
+- [file validation in python Much easier and more reliable](https://dev.to/rzashakeri/file-validation-in-python-much-easier-and-more-reliable-5f3p)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
