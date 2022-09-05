@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Hosting a Python Discord Bot for Free with Fly.io](https://dev.to/denvercoder1/hosting-a-python-discord-bot-for-free-with-flyio-3k19)
-- [I Built an Online Collaborative Canvas using Redis as my Primary Database 🎨](https://dev.to/eludadev/i-built-an-online-collaborative-canvas-using-redis-as-my-primary-database-2001)
-- [Disco.pics - Free and open source image hosting service](https://dev.to/dhravya/discopics-free-and-open-source-image-hosting-service-ia9)
-- [file validation in python Much easier and more reliable](https://dev.to/rzashakeri/file-validation-in-python-much-easier-and-more-reliable-5f3p)
+- [How to implement login in React](https://dev.to/logify/how-to-implement-login-in-react-10gm)
+- [Como eu lidei com a ansiedade pra estudar?](https://dev.to/hugaomarques/como-eu-lidei-com-a-ansiedade-pra-estudar-22oi)
+- [Os desafios de ser DevRel](https://dev.to/feministech/os-desafios-de-ser-devrel-24po)
+- [How to make Git ignore file permission &lpar;chmod&rpar; changes](https://dev.to/smpnjn/how-to-make-git-ignore-file-permission-chmod-changes-352b)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
