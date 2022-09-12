@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [How to implement login in React](https://dev.to/logify/how-to-implement-login-in-react-10gm)
-- [Como eu lidei com a ansiedade pra estudar?](https://dev.to/hugaomarques/como-eu-lidei-com-a-ansiedade-pra-estudar-22oi)
-- [Os desafios de ser DevRel](https://dev.to/feministech/os-desafios-de-ser-devrel-24po)
-- [How to make Git ignore file permission &lpar;chmod&rpar; changes](https://dev.to/smpnjn/how-to-make-git-ignore-file-permission-chmod-changes-352b)
+- [How to Create a Full Autocomplete Search Application with Elasticsearch, Kibana and NestJS - The Concluding Part](https://dev.to/airscholar/how-to-create-a-full-autocomplete-search-application-with-elasticsearch-kibana-and-nestjs-the-concluding-part-23lb)
+- [tsParticles 2.3.0 Released](https://dev.to/tsparticles/tsparticles-230-released-32np)
+- [How to build Reduct Storage on MacOs](https://dev.to/reduct-storage/how-to-build-reduct-storage-on-macos-2f6d)
+- [RaspberryPi cloud backup Part 3](https://dev.to/mrscripting/raspberrypi-cloud-backup-part-3-1f29)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
