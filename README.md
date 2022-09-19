@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Full Autocomplete Search Application with Elasticsearch, Kibana and NestJS - The Concluding Part](https://dev.to/airscholar/how-to-create-a-full-autocomplete-search-application-with-elasticsearch-kibana-and-nestjs-the-concluding-part-23lb)
-- [tsParticles 2.3.0 Released](https://dev.to/tsparticles/tsparticles-230-released-32np)
-- [How to build Reduct Storage on MacOs](https://dev.to/reduct-storage/how-to-build-reduct-storage-on-macos-2f6d)
-- [RaspberryPi cloud backup Part 3](https://dev.to/mrscripting/raspberrypi-cloud-backup-part-3-1f29)
+- [All things SvelteKit](https://dev.to/nickytonline/all-things-sveltekit-7ei)
+- [Build a number guessing game in Ruby](https://dev.to/desmondowusudev/build-a-number-guessing-game-in-ruby-4b2i)
+- [Learning Rust - Merkel Tree](https://dev.to/msedzins/learning-rust-merkel-tree-9p)
+- [palpatine - SSG Release1.0.0](https://dev.to/batunpc/palpatine-release10-350g)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
