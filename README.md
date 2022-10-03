@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [create a football detection system through artificial intelligence using python](https://dev.to/codingteam/create-a-football-detection-system-through-artificial-intelligence-using-python-4g7m)
-- [Quickly Create a Responsive Sales Data Table with Vue and Vuetify](https://dev.to/hackmamba/quickly-create-a-responsive-sales-data-table-with-vue-and-vuetify-i3d)
-- [I Am A Web3 Writer Who Doesn&#39;t Know Shit About Web3](https://dev.to/chizobaonorh/i-am-a-web3-writer-who-doesnt-know-shit-about-web3-3ig6)
-- [React CSS Grid](https://dev.to/raboomar/react-css-grid-47mb)
+- [Benefits of touch typing for developers](https://dev.to/shabzy1507/benefits-of-touch-typing-for-developers-hg6)
+- [How to Set Up a Web Server](https://dev.to/ericnanhu/how-to-set-up-a-web-server-39lm)
+- [Fast Real Time JavaScript Video Manipulation / Postprocessing](https://dev.to/thaunknown/fast-real-time-javascript-video-manipulation-postprocessing-4li1)
+- [App with self-contained infrastructure on AWS](https://dev.to/aws-builders/app-with-self-contained-infrastructure-on-aws-l22)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
