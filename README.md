@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Benefits of touch typing for developers](https://dev.to/shabzy1507/benefits-of-touch-typing-for-developers-hg6)
-- [How to Set Up a Web Server](https://dev.to/ericnanhu/how-to-set-up-a-web-server-39lm)
-- [Fast Real Time JavaScript Video Manipulation / Postprocessing](https://dev.to/thaunknown/fast-real-time-javascript-video-manipulation-postprocessing-4li1)
-- [App with self-contained infrastructure on AWS](https://dev.to/aws-builders/app-with-self-contained-infrastructure-on-aws-l22)
+- [Flutter + Dart Frog](https://dev.to/ushieru/flutter-dart-frog-2pbg)
+- [Writing your First End-to-End Test with Cypress 10](https://dev.to/monijesuloluwa/writing-your-first-end-to-end-test-with-cypress-10-4gl)
+- [Backend Boilerplate for NodeJs-ExpressJs-MongoDB](https://dev.to/prkskrs/backend-boilerplate-of-nodejs-expressjs-mongodb-21bn)
+- [SSH into your local VM as if it is a paid IaaS](https://dev.to/thammami01/ssh-into-your-local-vm-as-if-it-is-a-paid-iaas-4emm)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
