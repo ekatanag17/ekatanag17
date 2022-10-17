@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter + Dart Frog](https://dev.to/ushieru/flutter-dart-frog-2pbg)
-- [Writing your First End-to-End Test with Cypress 10](https://dev.to/monijesuloluwa/writing-your-first-end-to-end-test-with-cypress-10-4gl)
-- [Backend Boilerplate for NodeJs-ExpressJs-MongoDB](https://dev.to/prkskrs/backend-boilerplate-of-nodejs-expressjs-mongodb-21bn)
-- [SSH into your local VM as if it is a paid IaaS](https://dev.to/thammami01/ssh-into-your-local-vm-as-if-it-is-a-paid-iaas-4emm)
+- [Programação orientada a testes?!](https://dev.to/devs-jequie/programacao-orientada-a-testes-58dd)
+- [Deno: how to start use it](https://dev.to/ianoliv/deno-how-to-start-use-it-2n6m)
+- [Javascript Array Reduce Method](https://dev.to/smpnjn/javascript-array-reduce-method-3a3)
+- [Why We&#39;re Breaking Up with CSS-in-JS](https://dev.to/srmagura/why-were-breaking-up-wiht-css-in-js-4g9b)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
