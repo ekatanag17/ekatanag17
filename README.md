@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Programação orientada a testes?!](https://dev.to/devs-jequie/programacao-orientada-a-testes-58dd)
-- [Deno: how to start use it](https://dev.to/ianoliv/deno-how-to-start-use-it-2n6m)
-- [Javascript Array Reduce Method](https://dev.to/smpnjn/javascript-array-reduce-method-3a3)
-- [Why We&#39;re Breaking Up with CSS-in-JS](https://dev.to/srmagura/why-were-breaking-up-wiht-css-in-js-4g9b)
+- [O que significa o dia da Ada Lovelace?](https://dev.to/feministech/o-que-significa-o-dia-da-ada-lovelace-4o8n)
+- [Movin&#39; On Up: An Analysis of The Privilege Escalation Vulnerability CVE-2022-26923](https://dev.to/austinjhunt/movin-on-up-an-analysis-of-the-privilege-escalation-vulnerability-cve-2022-26923-2hf9)
+- [Start with one test](https://dev.to/noriller/start-with-one-test-57hb)
+- [Processing user input in Bubble Tea with a menu component](https://dev.to/andyhaskell/processing-user-input-in-bubble-tea-with-a-menu-component-222i)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
