@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [O que significa o dia da Ada Lovelace?](https://dev.to/feministech/o-que-significa-o-dia-da-ada-lovelace-4o8n)
-- [Movin&#39; On Up: An Analysis of The Privilege Escalation Vulnerability CVE-2022-26923](https://dev.to/austinjhunt/movin-on-up-an-analysis-of-the-privilege-escalation-vulnerability-cve-2022-26923-2hf9)
-- [Start with one test](https://dev.to/noriller/start-with-one-test-57hb)
-- [Processing user input in Bubble Tea with a menu component](https://dev.to/andyhaskell/processing-user-input-in-bubble-tea-with-a-menu-component-222i)
+- [Easter eggs in Hacktoberfest 🪺](https://dev.to/batunpc/easter-eggs-in-hacktoberfest-11ei)
+- [Waiting on a Promise.. Async and Await in JavaScript](https://dev.to/qsissler/waiting-on-a-promise-async-and-await-in-javascript-37ng)
+- [tsParticles 2.4.0 Released](https://dev.to/tsparticles/tsparticles-240-released-26ak)
+- [Start Terraform from zero](https://dev.to/garryxiao/start-terraform-from-zero-5gl6)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
