@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Easter eggs in Hacktoberfest 🪺](https://dev.to/batunpc/easter-eggs-in-hacktoberfest-11ei)
-- [Waiting on a Promise.. Async and Await in JavaScript](https://dev.to/qsissler/waiting-on-a-promise-async-and-await-in-javascript-37ng)
-- [tsParticles 2.4.0 Released](https://dev.to/tsparticles/tsparticles-240-released-26ak)
-- [Start Terraform from zero](https://dev.to/garryxiao/start-terraform-from-zero-5gl6)
+- [Counting to 1 Billion &lpar;Node vs. Bun&rpar;](https://dev.to/kunaljaydesai/counting-to-1-billion-node-vs-bun-5bm0)
+- [[ES] Git. Guía desde cero.](https://dev.to/davidrojom/es-git-guia-desde-cero-2jln)
+- [Building a GPT-3 Powered Discord Support Bot](https://dev.to/kunaljaydesai/building-a-gpt-3-powered-discord-support-bot-226o)
+- [Tailwind CSS tutorial #5: Alignment - Justify Items](https://dev.to/shubhicodes/tailwind-css-tutorial-5-alignment-justify-items-4mci)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
