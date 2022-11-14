@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Counting to 1 Billion &lpar;Node vs. Bun&rpar;](https://dev.to/kunaljaydesai/counting-to-1-billion-node-vs-bun-5bm0)
-- [[ES] Git. Guía desde cero.](https://dev.to/davidrojom/es-git-guia-desde-cero-2jln)
-- [Building a GPT-3 Powered Discord Support Bot](https://dev.to/kunaljaydesai/building-a-gpt-3-powered-discord-support-bot-226o)
-- [Tailwind CSS tutorial #5: Alignment - Justify Items](https://dev.to/shubhicodes/tailwind-css-tutorial-5-alignment-justify-items-4mci)
+- [🧪🐍✨Unit Testing Python Code With The unittest Framework](https://dev.to/saminarp/unit-testing-python-code-with-the-unittest-framework-21d8)
+- [How to use the Javascript Date Object to count days until a specific date](https://dev.to/spanglishgaby/how-to-use-the-javascript-date-object-to-count-days-until-a-specific-date-2bdo)
+- [Add Libraries and Packages to Your Coding Portfolio](https://dev.to/bootdotdev/add-libraries-and-packages-to-your-coding-portfolio-50fi)
+- [How to build an MP4 to GIF converter using Python + Shotstack API](https://dev.to/shotstack/how-to-build-a-mp4-to-gif-converting-app-using-python-shotstack-api-2kg7)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
