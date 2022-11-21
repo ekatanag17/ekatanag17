@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [🧪🐍✨Unit Testing Python Code With The unittest Framework](https://dev.to/saminarp/unit-testing-python-code-with-the-unittest-framework-21d8)
-- [How to use the Javascript Date Object to count days until a specific date](https://dev.to/spanglishgaby/how-to-use-the-javascript-date-object-to-count-days-until-a-specific-date-2bdo)
-- [Add Libraries and Packages to Your Coding Portfolio](https://dev.to/bootdotdev/add-libraries-and-packages-to-your-coding-portfolio-50fi)
-- [How to build an MP4 to GIF converter using Python + Shotstack API](https://dev.to/shotstack/how-to-build-a-mp4-to-gif-converting-app-using-python-shotstack-api-2kg7)
+- [You don’t need 100% coverage.](https://dev.to/noriller/you-dont-need-100-coverage-412p)
+- [Fun with console.log&lpar;&rpar; 💿](https://dev.to/lissy93/fun-with-consolelog-3i59)
+- [List, dictionary and set comprehension](https://dev.to/bashebr/list-dictionary-and-set-comprehension-255b)
+- [Mastodon tips](https://dev.to/jarvisscript/mastodon-tips-6p8)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
