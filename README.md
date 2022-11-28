@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [You don’t need 100% coverage.](https://dev.to/noriller/you-dont-need-100-coverage-412p)
-- [Fun with console.log&lpar;&rpar; 💿](https://dev.to/lissy93/fun-with-consolelog-3i59)
-- [List, dictionary and set comprehension](https://dev.to/bashebr/list-dictionary-and-set-comprehension-255b)
-- [Mastodon tips](https://dev.to/jarvisscript/mastodon-tips-6p8)
+- [Melhorando a acessibilidade das suas postagens nas redes sociais](https://dev.to/feministech/melhorando-a-acessibilidade-das-suas-postagens-nas-redes-sociais-27l5)
+- [New Reduct Storage v1.1.0 with Token API](https://dev.to/reduct-storage/new-reduct-storage-v110-with-token-api-24j8)
+- [DPS909 Blog: Planning Issues to Fix](https://dev.to/alexsam29/dps909-blog-planning-issues-to-fix-446n)
+- [Node.js visualized: promise, async/await and process.nextTick under the hood](https://dev.to/nodedoctors/nodejs-visualized-promise-asyncawait-and-processnexttick-under-the-hood-234c)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
