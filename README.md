@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Melhorando a acessibilidade das suas postagens nas redes sociais](https://dev.to/feministech/melhorando-a-acessibilidade-das-suas-postagens-nas-redes-sociais-27l5)
-- [New Reduct Storage v1.1.0 with Token API](https://dev.to/reduct-storage/new-reduct-storage-v110-with-token-api-24j8)
-- [DPS909 Blog: Planning Issues to Fix](https://dev.to/alexsam29/dps909-blog-planning-issues-to-fix-446n)
-- [Node.js visualized: promise, async/await and process.nextTick under the hood](https://dev.to/nodedoctors/nodejs-visualized-promise-asyncawait-and-processnexttick-under-the-hood-234c)
+- [Power up your web apps with TensorFlow.js](https://dev.to/360macky/power-up-your-web-apps-with-tensorflowjs-15o5)
+- [4 FREE Resources To Boost Your Node.js Developer Career ⚡](https://dev.to/nodedoctors/4-free-resources-to-boost-your-nodejs-developer-career-1bpe)
+- [Code Smell 184 - Exception Arrow Code](https://dev.to/mcsee/code-smell-184-exception-arrow-code-2cia)
+- [What The Facade?!](https://dev.to/juniordevforlife/what-the-facade-22d4)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
