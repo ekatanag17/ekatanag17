@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Power up your web apps with TensorFlow.js](https://dev.to/360macky/power-up-your-web-apps-with-tensorflowjs-15o5)
-- [4 FREE Resources To Boost Your Node.js Developer Career ⚡](https://dev.to/nodedoctors/4-free-resources-to-boost-your-nodejs-developer-career-1bpe)
-- [Code Smell 184 - Exception Arrow Code](https://dev.to/mcsee/code-smell-184-exception-arrow-code-2cia)
-- [What The Facade?!](https://dev.to/juniordevforlife/what-the-facade-22d4)
+- [Remove Blank Lines from a File with Python](https://dev.to/jd2r/remove-blank-lines-from-a-file-461a)
+- [8 practical tips to boost the on-page SEO in no time](https://dev.to/mohsenkamrani/8-practical-tips-to-boost-the-on-page-seo-in-no-time-43)
+- [Creating Smooth Animations in React with Framer-Motion](https://dev.to/aykacode/creating-smooth-animations-in-react-with-framer-motion-407k)
+- [Download videos and music from youtube via command line: youtube-dl](https://dev.to/israellopes/download-videos-and-music-from-youtube-via-command-line-youtube-dl-4j1h)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
