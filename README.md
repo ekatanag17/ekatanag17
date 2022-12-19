@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Remove Blank Lines from a File with Python](https://dev.to/jd2r/remove-blank-lines-from-a-file-461a)
-- [8 practical tips to boost the on-page SEO in no time](https://dev.to/mohsenkamrani/8-practical-tips-to-boost-the-on-page-seo-in-no-time-43)
-- [Creating Smooth Animations in React with Framer-Motion](https://dev.to/aykacode/creating-smooth-animations-in-react-with-framer-motion-407k)
-- [Download videos and music from youtube via command line: youtube-dl](https://dev.to/israellopes/download-videos-and-music-from-youtube-via-command-line-youtube-dl-4j1h)
+- [An open-source visual editor to build your websites and web apps like a pro in no time!](https://dev.to/mohsenkamrani/an-open-source-visual-editor-to-build-your-websites-and-web-apps-like-a-pro-in-no-time-1g4k)
+- [How To Send Message to Yourself on Whatsapp](https://dev.to/emeka212/how-to-send-message-to-yourself-on-whatsapp-5g38)
+- [Airflow Development with Docker](https://dev.to/gudata/airflow-development-with-docker-161o)
+- [16 Suggestions on Creating a Successful Career in Tech](https://dev.to/jcsmileyjr/16-suggestions-on-creating-a-successful-career-in-tech-4925)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
