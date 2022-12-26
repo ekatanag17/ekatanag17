@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [An open-source visual editor to build your websites and web apps like a pro in no time!](https://dev.to/mohsenkamrani/an-open-source-visual-editor-to-build-your-websites-and-web-apps-like-a-pro-in-no-time-1g4k)
-- [How To Send Message to Yourself on Whatsapp](https://dev.to/emeka212/how-to-send-message-to-yourself-on-whatsapp-5g38)
-- [Airflow Development with Docker](https://dev.to/gudata/airflow-development-with-docker-161o)
-- [16 Suggestions on Creating a Successful Career in Tech](https://dev.to/jcsmileyjr/16-suggestions-on-creating-a-successful-career-in-tech-4925)
+- [It is not widely known that Perl is one of the easiest languages to read like Python.](https://dev.to/yukikimoto/it-is-not-widely-known-that-perl-is-one-of-the-easiest-languages-to-read-like-python-23p9)
+- [Service workers tutorial](https://dev.to/uploadcare/service-workers-tutorial-1b7h)
+- [How to resolve a merge conflict in Git](https://dev.to/bcostaaa01/how-to-resolve-a-merge-conflict-in-git-54ag)
+- [How to Set Up Google Tag Manager &lpar;GTM&rpar; on Your Website Quickly](https://dev.to/analyticsinstitute/how-to-set-up-google-tag-manager-gtm-on-your-website-quickly-4c9o)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
