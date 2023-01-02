@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [It is not widely known that Perl is one of the easiest languages to read like Python.](https://dev.to/yukikimoto/it-is-not-widely-known-that-perl-is-one-of-the-easiest-languages-to-read-like-python-23p9)
-- [Service workers tutorial](https://dev.to/uploadcare/service-workers-tutorial-1b7h)
-- [How to resolve a merge conflict in Git](https://dev.to/bcostaaa01/how-to-resolve-a-merge-conflict-in-git-54ag)
-- [How to Set Up Google Tag Manager &lpar;GTM&rpar; on Your Website Quickly](https://dev.to/analyticsinstitute/how-to-set-up-google-tag-manager-gtm-on-your-website-quickly-4c9o)
+- [Top 7 Colour Schemes that Will Make Your Website Stand Out in 2023](https://dev.to/mohsenkamrani/top-7-colour-schemes-that-will-make-your-website-stand-out-in-2023-4038)
+- [Can I remove the &quot;DEBUG&quot; banner in Flutter?](https://dev.to/petrussola/can-i-remove-the-debug-banner-in-flutter-907)
+- [Adding Pinia to Nuxt 3 🍍 &lpar;2023&rpar;](https://dev.to/tao/adding-pinia-to-nuxt-3-2023-3l77)
+- [⚛Os 10 React Hooks Mais Úteis: 06 - useCallback⚛](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-06-usecallback-4di)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
