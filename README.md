@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Colour Schemes that Will Make Your Website Stand Out in 2023](https://dev.to/mohsenkamrani/top-7-colour-schemes-that-will-make-your-website-stand-out-in-2023-4038)
-- [Can I remove the &quot;DEBUG&quot; banner in Flutter?](https://dev.to/petrussola/can-i-remove-the-debug-banner-in-flutter-907)
-- [Adding Pinia to Nuxt 3 🍍 &lpar;2023&rpar;](https://dev.to/tao/adding-pinia-to-nuxt-3-2023-3l77)
-- [⚛Os 10 React Hooks Mais Úteis: 06 - useCallback⚛](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-06-usecallback-4di)
+- [🚀Top 9+ Node.js Templates and Dashboards to Boost Your Workflow🚀](https://dev.to/artborovik/top-9-nodejs-templates-and-dashboards-to-boost-your-workflow-42b1)
+- [Quick Start with the ReductStore Python SDK](https://dev.to/reductstore/quick-start-with-the-reductstore-python-sdk-n30)
+- [Build a reorderable list in react](https://dev.to/h8moss/build-a-reorderable-list-in-react-29on)
+- [A year in review &lpar;2022&rpar;](https://dev.to/enaughton/a-year-in-review-2022-232n)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
