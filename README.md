@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀Top 9+ Node.js Templates and Dashboards to Boost Your Workflow🚀](https://dev.to/artborovik/top-9-nodejs-templates-and-dashboards-to-boost-your-workflow-42b1)
-- [Quick Start with the ReductStore Python SDK](https://dev.to/reductstore/quick-start-with-the-reductstore-python-sdk-n30)
-- [Build a reorderable list in react](https://dev.to/h8moss/build-a-reorderable-list-in-react-29on)
-- [A year in review &lpar;2022&rpar;](https://dev.to/enaughton/a-year-in-review-2022-232n)
+- [Quick Start with the ReductStore JavaScript SDK](https://dev.to/reductstore/quick-start-with-the-reductstore-javascript-sdk-172a)
+- [Career Success: 5 Tips on How To Take It To The Next Level &lpar;with resources&rpar;](https://dev.to/jareechang/career-success-5-tips-on-how-to-take-it-to-the-next-level-with-resources-5796)
+- [Opening applications without knowing their paths in python...](https://dev.to/athrvvvv/opening-applications-without-knowing-their-paths-in-python-2k4b)
+- [The Productivity Rabbit Hole](https://dev.to/acromondx/the-productivity-rabbit-hole-33k9)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
