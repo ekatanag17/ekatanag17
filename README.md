@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Quick Start with the ReductStore JavaScript SDK](https://dev.to/reductstore/quick-start-with-the-reductstore-javascript-sdk-172a)
-- [Career Success: 5 Tips on How To Take It To The Next Level &lpar;with resources&rpar;](https://dev.to/jareechang/career-success-5-tips-on-how-to-take-it-to-the-next-level-with-resources-5796)
-- [Opening applications without knowing their paths in python...](https://dev.to/athrvvvv/opening-applications-without-knowing-their-paths-in-python-2k4b)
-- [The Productivity Rabbit Hole](https://dev.to/acromondx/the-productivity-rabbit-hole-33k9)
+- [Create an array of all values in an object](https://dev.to/juniordevforlife/create-an-array-of-all-values-in-an-object-2mop)
+- [What the heck is Tailwind CSS and should I use it?](https://dev.to/chasehuber/what-the-heck-is-tailwind-css-and-should-i-use-it-557d)
+- [Build your resume in React + SSG!](https://dev.to/jeckhummer/build-your-resume-in-react-ssg-10i4)
+- [DNS Basics Explained](https://dev.to/nskrypnik/dns-basics-explained-2mea)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
