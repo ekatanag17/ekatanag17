@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Create an array of all values in an object](https://dev.to/juniordevforlife/create-an-array-of-all-values-in-an-object-2mop)
-- [What the heck is Tailwind CSS and should I use it?](https://dev.to/chasehuber/what-the-heck-is-tailwind-css-and-should-i-use-it-557d)
-- [Build your resume in React + SSG!](https://dev.to/jeckhummer/build-your-resume-in-react-ssg-10i4)
-- [DNS Basics Explained](https://dev.to/nskrypnik/dns-basics-explained-2mea)
+- [Analysing which Mastodon apps I&#39;ve used](https://dev.to/andypiper/analysing-which-mastodon-apps-ive-used-30pb)
+- [chatGPT — Everything you need to know about chatGPT](https://dev.to/rutikkpatel/chatgpt-everything-you-need-to-know-about-chatgpt-4f44)
+- [Split messages from single SQS queue into Multiple SQS queues using EventBridge](https://dev.to/aws-builders/split-messages-from-single-sqs-queue-into-multiple-sqs-queues-using-eventbridge-g0p)
+- [From Good to Great: The Power of Empathy in Programming](https://dev.to/noriller/from-good-to-great-the-power-of-empathy-in-programming-162p)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
