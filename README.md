@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Version Control of git/github](https://dev.to/cromajetex/version-control-of-gitgithub-15e7)
-- [Best ideas from Clean Code by Robert C. Martin &lpar;with Typescript examples&rpar;](https://dev.to/turboninh/best-ideas-from-clean-code-by-robert-c-martin-with-typescript-examples-14of)
-- [Four More Tools You Can&#39;t Live Without](https://dev.to/sebastianccc/four-more-tools-you-cant-live-without-n3i)
-- [Time complexity of an algorithm](https://dev.to/olha_zadorozhna_892247299/time-complexity-of-an-algorithm-5dfk)
+- [Text Typing Effect Using HTML CSS Only](https://dev.to/rutikkpatel/text-typing-effect-using-html-css-only-11m0)
+- [CLI Client for ReductStore v0.7.0 has been released](https://dev.to/reductstore/cli-client-for-reductstore-v070-has-been-released-1jil)
+- [How to choose a Coding Language](https://dev.to/mrdanishsaleem/how-to-choose-a-coding-language-32hg)
+- [Web APIs : CRUD with .Net and EF Core](https://dev.to/rasheedmozaffar/web-apis-crud-with-net-and-ef-core-52dp)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
