@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Text Typing Effect Using HTML CSS Only](https://dev.to/rutikkpatel/text-typing-effect-using-html-css-only-11m0)
-- [CLI Client for ReductStore v0.7.0 has been released](https://dev.to/reductstore/cli-client-for-reductstore-v070-has-been-released-1jil)
-- [How to choose a Coding Language](https://dev.to/mrdanishsaleem/how-to-choose-a-coding-language-32hg)
-- [Web APIs : CRUD with .Net and EF Core](https://dev.to/rasheedmozaffar/web-apis-crud-with-net-and-ef-core-52dp)
+- [💰 Currency Formatting in JavaScript](https://dev.to/dhrn/currency-formatting-in-javascript-10h1)
+- [How we built This is Learning Community](https://dev.to/this-is-learning/how-we-built-this-is-learning-community-g34)
+- [How to Build an Answer-to-Earn Platform with React, Solidity, and CometChat](https://dev.to/daltonic/how-to-build-an-answer-to-earn-platform-with-react-solidity-and-cometchat-2hj2)
+- [Primeiros passos com WSL](https://dev.to/feministech/primeiros-passos-com-wsl-fk1)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
