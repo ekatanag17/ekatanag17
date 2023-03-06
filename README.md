@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [💰 Currency Formatting in JavaScript](https://dev.to/dhrn/currency-formatting-in-javascript-10h1)
-- [How we built This is Learning Community](https://dev.to/this-is-learning/how-we-built-this-is-learning-community-g34)
-- [How to Build an Answer-to-Earn Platform with React, Solidity, and CometChat](https://dev.to/daltonic/how-to-build-an-answer-to-earn-platform-with-react-solidity-and-cometchat-2hj2)
-- [Primeiros passos com WSL](https://dev.to/feministech/primeiros-passos-com-wsl-fk1)
+- [Building Maintainable User Interfaces with React and TypeScript](https://dev.to/haszankauna/building-maintainable-user-interfaces-with-react-and-typescript-21f7)
+- [Best Practices for Building React Apps with Code Splitting and Lazy Loading to Improve Performance and Maintainability](https://dev.to/haszankauna/best-practices-for-building-react-apps-with-code-splitting-and-lazy-loading-to-improve-performance-and-maintainability-11d8)
+- [Yet Another Newsletter LOL: Signals!](https://dev.to/nickytonline/yet-another-newsletter-lol-signals-4e60)
+- [Understanding the Difference Between props and state in React](https://dev.to/haszankauna/understanding-the-difference-between-props-and-state-in-react-2mg3)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
