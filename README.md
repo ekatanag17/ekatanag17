@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Maintainable User Interfaces with React and TypeScript](https://dev.to/haszankauna/building-maintainable-user-interfaces-with-react-and-typescript-21f7)
-- [Best Practices for Building React Apps with Code Splitting and Lazy Loading to Improve Performance and Maintainability](https://dev.to/haszankauna/best-practices-for-building-react-apps-with-code-splitting-and-lazy-loading-to-improve-performance-and-maintainability-11d8)
-- [Yet Another Newsletter LOL: Signals!](https://dev.to/nickytonline/yet-another-newsletter-lol-signals-4e60)
-- [Understanding the Difference Between props and state in React](https://dev.to/haszankauna/understanding-the-difference-between-props-and-state-in-react-2mg3)
+- [My Coding Journey So Far....](https://dev.to/blessing0024/my-coding-journey-so-far-2p8l)
+- [AWS and the 12 Factor App Methodology: Maximizing Efficiency and Scalability](https://dev.to/aws-builders/aws-and-the-12-factor-app-methodology-maximizing-efficiency-and-scalability-1cb6)
+- [TypeScript Mapped Union Type](https://dev.to/nartc/typescript-mapped-union-type-haf)
+- [Docusaurus: Create your project documentation simply and efficiently!](https://dev.to/jlgjosue/docusaurus-create-your-project-documentation-simply-and-efficiently-4edp)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
