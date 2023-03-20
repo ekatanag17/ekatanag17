@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [My Coding Journey So Far....](https://dev.to/blessing0024/my-coding-journey-so-far-2p8l)
-- [AWS and the 12 Factor App Methodology: Maximizing Efficiency and Scalability](https://dev.to/aws-builders/aws-and-the-12-factor-app-methodology-maximizing-efficiency-and-scalability-1cb6)
-- [TypeScript Mapped Union Type](https://dev.to/nartc/typescript-mapped-union-type-haf)
-- [Docusaurus: Create your project documentation simply and efficiently!](https://dev.to/jlgjosue/docusaurus-create-your-project-documentation-simply-and-efficiently-4edp)
+- [Top React UI Libraries for Simplifying Frontend Development and How to Implement Them](https://dev.to/david_bilsonn/top-react-ui-libraries-for-simplifying-frontend-development-and-how-to-implement-them-48g6)
+- [Finally decided on the pricing for my new product](https://dev.to/mariostopfer/finally-decided-on-the-pricing-for-my-new-product-4nab)
+- [How to Add Estimated Review Time and Context Labels to Pull Requests](https://dev.to/linearb/how-to-add-estimated-review-time-and-context-labels-to-pull-requests-327n)
+- [FLiPN-FLaNK Stack Weekly for 20 March 2023](https://dev.to/tspannhw/flipn-flank-stack-weekly-for-20-march-2023-5d5m)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
