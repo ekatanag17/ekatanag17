@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Top React UI Libraries for Simplifying Frontend Development and How to Implement Them](https://dev.to/david_bilsonn/top-react-ui-libraries-for-simplifying-frontend-development-and-how-to-implement-them-48g6)
-- [Finally decided on the pricing for my new product](https://dev.to/mariostopfer/finally-decided-on-the-pricing-for-my-new-product-4nab)
-- [How to Add Estimated Review Time and Context Labels to Pull Requests](https://dev.to/linearb/how-to-add-estimated-review-time-and-context-labels-to-pull-requests-327n)
-- [FLiPN-FLaNK Stack Weekly for 20 March 2023](https://dev.to/tspannhw/flipn-flank-stack-weekly-for-20-march-2023-5d5m)
+- [My takes on EsLint and Prettier against TypeScript](https://dev.to/ndohjapan/my-takes-on-eslint-and-prettier-against-typescript-4p27)
+- [What would you like to see in your browser&#39;s new tab?](https://dev.to/kimdontdoit/what-would-you-like-to-seein-your-browsers-new-tab-2j9k)
+- [Over 150,000 .NET Developers Hit by Harmful NuGet Packages](https://dev.to/bytehide/over-150000-net-developers-hit-by-harmful-nuget-packages-2157)
+- [An introduction to AI and ML for web developers](https://dev.to/bybydev/an-introduction-to-ai-and-ml-for-web-developers-24ge)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
