@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [My takes on EsLint and Prettier against TypeScript](https://dev.to/ndohjapan/my-takes-on-eslint-and-prettier-against-typescript-4p27)
-- [What would you like to see in your browser&#39;s new tab?](https://dev.to/kimdontdoit/what-would-you-like-to-seein-your-browsers-new-tab-2j9k)
-- [Over 150,000 .NET Developers Hit by Harmful NuGet Packages](https://dev.to/bytehide/over-150000-net-developers-hit-by-harmful-nuget-packages-2157)
-- [An introduction to AI and ML for web developers](https://dev.to/bybydev/an-introduction-to-ai-and-ml-for-web-developers-24ge)
+- [Have questions about ESLint?](https://dev.to/nickytonline/have-questions-about-eslint-2ahp)
+- [Beginner&#39;s Guide to Storybook](https://dev.to/zeeshanhshaheen/beginners-guide-to-storybook-59ib)
+- [You Don&#39;t Need to Sacrifice Developer Experience for Productivity](https://dev.to/linearb/you-dont-need-to-sacrifice-developer-experience-for-productivity-4abc)
+- [Filtering on DENSE_RANK&lpar;&rpar; optimized as pushed-down DISTINCT in YugabyteDB](https://dev.to/yugabyte/filtering-on-denserank-optimized-as-pushed-down-distinct-in-yugabytedb-5mp)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
