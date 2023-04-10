@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Have questions about ESLint?](https://dev.to/nickytonline/have-questions-about-eslint-2ahp)
-- [Beginner&#39;s Guide to Storybook](https://dev.to/zeeshanhshaheen/beginners-guide-to-storybook-59ib)
-- [You Don&#39;t Need to Sacrifice Developer Experience for Productivity](https://dev.to/linearb/you-dont-need-to-sacrifice-developer-experience-for-productivity-4abc)
-- [Filtering on DENSE_RANK&lpar;&rpar; optimized as pushed-down DISTINCT in YugabyteDB](https://dev.to/yugabyte/filtering-on-denserank-optimized-as-pushed-down-distinct-in-yugabytedb-5mp)
+- [User Authentication with JWT tokens in node js](https://dev.to/amann5153/user-authentication-with-jwt-tokens-in-node-js-1952)
+- [Project 2: Final Journal Entry](https://dev.to/fawaz1077/project-2-final-journal-entry-2o8a)
+- [Supabase AI Hackathon](https://dev.to/supabase/supabase-ai-hackathon-30ah)
+- [RDS MySQL Load Testing with Sysbench](https://dev.to/aws-builders/rds-mysql-load-testing-with-sysbench-3i26)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
