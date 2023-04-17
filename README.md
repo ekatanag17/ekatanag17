@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [User Authentication with JWT tokens in node js](https://dev.to/amann5153/user-authentication-with-jwt-tokens-in-node-js-1952)
-- [Project 2: Final Journal Entry](https://dev.to/fawaz1077/project-2-final-journal-entry-2o8a)
-- [Supabase AI Hackathon](https://dev.to/supabase/supabase-ai-hackathon-30ah)
-- [RDS MySQL Load Testing with Sysbench](https://dev.to/aws-builders/rds-mysql-load-testing-with-sysbench-3i26)
+- [gitStream vs Code Owners vs GitHub Actions](https://dev.to/linearb/gitstream-vs-code-owners-vs-github-actions-2j32)
+- [Colaboración Efectiva FrontEnd/BackEnd: Flujo de Trabajo Adecuado y Responsabilidades en el Desarrollo de Aplicaciones Web](https://dev.to/dennysjmarquez/colaboracion-efectiva-frontendbackend-flujo-de-trabajo-adecuado-y-responsabilidades-en-el-desarrollo-de-aplicaciones-web-3aeo)
+- [SOAP com TypeScript em pleno 2023](https://dev.to/marcopollivier/soap-com-typescript-em-pleno-2023-5ako)
+- [Creating Timeline Charts with Mermaid.js](https://dev.to/integerman/creating-timeline-charts-with-mermaidjs-2118)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
