@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [gitStream vs Code Owners vs GitHub Actions](https://dev.to/linearb/gitstream-vs-code-owners-vs-github-actions-2j32)
-- [Colaboración Efectiva FrontEnd/BackEnd: Flujo de Trabajo Adecuado y Responsabilidades en el Desarrollo de Aplicaciones Web](https://dev.to/dennysjmarquez/colaboracion-efectiva-frontendbackend-flujo-de-trabajo-adecuado-y-responsabilidades-en-el-desarrollo-de-aplicaciones-web-3aeo)
-- [SOAP com TypeScript em pleno 2023](https://dev.to/marcopollivier/soap-com-typescript-em-pleno-2023-5ako)
-- [Creating Timeline Charts with Mermaid.js](https://dev.to/integerman/creating-timeline-charts-with-mermaidjs-2118)
+- [Margin trading vs. Futures: What are the differences?](https://dev.to/bullishgopher/margin-trading-vs-futures-what-are-the-differences-3f5c)
+- [Web-Essentials Reminder](https://dev.to/cherypick/web-essentials-reminder-3fn5)
+- [Construye una arquitectura en AWS que se autodestruye sola](https://dev.to/aws-builders/construye-una-arquitectura-en-aws-que-se-autodestruye-sola-2m44)
+- [Automatically Document Your Database in Markdown](https://dev.to/sualeh/automatically-document-your-database-in-markdown-elf)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
