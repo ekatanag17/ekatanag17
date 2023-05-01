@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Margin trading vs. Futures: What are the differences?](https://dev.to/bullishgopher/margin-trading-vs-futures-what-are-the-differences-3f5c)
-- [Web-Essentials Reminder](https://dev.to/cherypick/web-essentials-reminder-3fn5)
-- [Construye una arquitectura en AWS que se autodestruye sola](https://dev.to/aws-builders/construye-una-arquitectura-en-aws-que-se-autodestruye-sola-2m44)
-- [Automatically Document Your Database in Markdown](https://dev.to/sualeh/automatically-document-your-database-in-markdown-elf)
+- [EquipAny with KlinterAI - Creative Art Published through the Hackathon](https://dev.to/aswinvk28/equipany-with-klinterai-creative-art-published-through-the-hackathon-2pg2)
+- [Getting Started with Flutter: A Practical Guide to Creating and Running Your First App](https://dev.to/bigdexter/getting-started-with-flutter-a-practical-guide-to-creating-and-running-your-first-app-5bmp)
+- [BigQuery deduplication strategies](https://dev.to/sagnikbanerjeesb/bigquery-deduplication-strategies-230)
+- [Download a file with react hook](https://dev.to/orkhanjafarovr/download-a-file-with-react-hook-13pp)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
