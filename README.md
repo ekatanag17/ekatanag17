@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [EquipAny with KlinterAI - Creative Art Published through the Hackathon](https://dev.to/aswinvk28/equipany-with-klinterai-creative-art-published-through-the-hackathon-2pg2)
-- [Getting Started with Flutter: A Practical Guide to Creating and Running Your First App](https://dev.to/bigdexter/getting-started-with-flutter-a-practical-guide-to-creating-and-running-your-first-app-5bmp)
-- [BigQuery deduplication strategies](https://dev.to/sagnikbanerjeesb/bigquery-deduplication-strategies-230)
-- [Download a file with react hook](https://dev.to/orkhanjafarovr/download-a-file-with-react-hook-13pp)
+- [Which Google apps are built with Flutter?](https://dev.to/fluttershark/which-google-apps-are-built-with-flutter-2b6a)
+- [Decoupling in Java](https://dev.to/ivangavlik/decoupling-using-example-in-java-4cgb)
+- [Strategy Design Pattern in Java with Enum](https://dev.to/pablocavalcanteh/strategy-design-pattern-in-java-with-enum-nc7)
+- [How Open Source Enabled Kubernetes’ Success](https://dev.to/linearb/how-open-source-enabled-kubernetes-success-mnc)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
