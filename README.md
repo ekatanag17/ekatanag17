@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Which Google apps are built with Flutter?](https://dev.to/fluttershark/which-google-apps-are-built-with-flutter-2b6a)
-- [Decoupling in Java](https://dev.to/ivangavlik/decoupling-using-example-in-java-4cgb)
-- [Strategy Design Pattern in Java with Enum](https://dev.to/pablocavalcanteh/strategy-design-pattern-in-java-with-enum-nc7)
-- [How Open Source Enabled Kubernetes’ Success](https://dev.to/linearb/how-open-source-enabled-kubernetes-success-mnc)
+- [Introduction to SQL set operators](https://dev.to/aviatorifeanyi/introduction-to-sql-set-operators-52m6)
+- [The actual usage of Python versions May 2023 by Mr. Bard](https://dev.to/nezirzahirovic/the-actual-usage-of-python-versions-may-2023-by-mr-bard-5ehb)
+- [Lessons while building a static website](https://dev.to/vidyasagarmsc/lessons-while-building-a-static-website-8g3)
+- [Quick Progress in Software Development](https://dev.to/snowman647/quick-progress-in-software-development-2fb2)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
