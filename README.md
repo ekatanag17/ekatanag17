@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to SQL set operators](https://dev.to/aviatorifeanyi/introduction-to-sql-set-operators-52m6)
-- [The actual usage of Python versions May 2023 by Mr. Bard](https://dev.to/nezirzahirovic/the-actual-usage-of-python-versions-may-2023-by-mr-bard-5ehb)
-- [Lessons while building a static website](https://dev.to/vidyasagarmsc/lessons-while-building-a-static-website-8g3)
-- [Quick Progress in Software Development](https://dev.to/snowman647/quick-progress-in-software-development-2fb2)
+- [The Real Imposter is The Inner Judge - On Imposter Symdrome](https://dev.to/jmfayard/the-real-imposter-is-the-inner-judge-3e01)
+- [SOLID explicado com TypeScript](https://dev.to/guiseek/solid-27jn)
+- [JSDoc 101](https://dev.to/noriller/jsdoc-101-218c)
+- [Integrating Payment Gateways in MERN Applications](https://dev.to/alimalim77/integrating-payment-gateways-in-mern-applications-482k)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
