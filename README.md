@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [The Real Imposter is The Inner Judge - On Imposter Symdrome](https://dev.to/jmfayard/the-real-imposter-is-the-inner-judge-3e01)
-- [SOLID explicado com TypeScript](https://dev.to/guiseek/solid-27jn)
-- [JSDoc 101](https://dev.to/noriller/jsdoc-101-218c)
-- [Integrating Payment Gateways in MERN Applications](https://dev.to/alimalim77/integrating-payment-gateways-in-mern-applications-482k)
+- [ROM.rb Custom Commands, Schemas, Upsert, and you](https://dev.to/cultureamp/romrb-custom-commands-schemas-upsert-and-you-36bj)
+- [Introduction to React.js](https://dev.to/haszankauna/introduction-to-reactjs-2ae1)
+- [Build a Quick Game using Amazon GameLift service](https://dev.to/aws-builders/build-a-quick-game-using-amazon-gamelift-service-58a0)
+- [How I Used Github API to Generate a Dynamic Name Updating Every Minute!](https://dev.to/abomisr/how-i-used-github-api-to-generate-a-dynamic-name-updating-every-minute-2790)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
