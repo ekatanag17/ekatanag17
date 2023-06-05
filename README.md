@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [ROM.rb Custom Commands, Schemas, Upsert, and you](https://dev.to/cultureamp/romrb-custom-commands-schemas-upsert-and-you-36bj)
-- [Introduction to React.js](https://dev.to/haszankauna/introduction-to-reactjs-2ae1)
-- [Build a Quick Game using Amazon GameLift service](https://dev.to/aws-builders/build-a-quick-game-using-amazon-gamelift-service-58a0)
-- [How I Used Github API to Generate a Dynamic Name Updating Every Minute!](https://dev.to/abomisr/how-i-used-github-api-to-generate-a-dynamic-name-updating-every-minute-2790)
+- [How to build your own data platform. Episode 2: authorization layer. Data Warehouse implementation.](https://dev.to/adevintaspain/how-to-build-your-own-data-platform-episode-2-authorization-layer-data-warehouse-implementation-e0c)
+- [How to visualize data with a bar chart using d3](https://dev.to/ifeolwaisaiah/how-to-visualize-data-with-a-bar-chart-using-d3-1m8e)
+- [How to use file templates in vim](https://dev.to/cherryramatis/how-to-use-file-templates-in-vim-3gcf)
+- [The Two Pillars of Algorithm Performance: Time and Space Complexity](https://dev.to/guaregua19/the-two-pillars-of-algorithm-performance-time-and-space-complexity-1118)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
