@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build your own data platform. Episode 2: authorization layer. Data Warehouse implementation.](https://dev.to/adevintaspain/how-to-build-your-own-data-platform-episode-2-authorization-layer-data-warehouse-implementation-e0c)
-- [How to visualize data with a bar chart using d3](https://dev.to/ifeolwaisaiah/how-to-visualize-data-with-a-bar-chart-using-d3-1m8e)
-- [How to use file templates in vim](https://dev.to/cherryramatis/how-to-use-file-templates-in-vim-3gcf)
-- [The Two Pillars of Algorithm Performance: Time and Space Complexity](https://dev.to/guaregua19/the-two-pillars-of-algorithm-performance-time-and-space-complexity-1118)
+- [Comece hoje a estudar web development](https://dev.to/oderco/comece-hoje-a-estudar-688)
+- [How to Master Front-End Development with JavaScript 🚀](https://dev.to/codexam/how-to-master-front-end-development-with-javascript-na5)
+- [SSH Keys, GitHub..](https://dev.to/olacoder/ssh-keys-github-2bmd)
+- [Git vs. GitHub: Understanding the Key Differences](https://dev.to/vedantsp/git-vs-github-understanding-the-key-differences-o07)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
