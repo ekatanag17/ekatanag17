@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Comece hoje a estudar web development](https://dev.to/oderco/comece-hoje-a-estudar-688)
-- [How to Master Front-End Development with JavaScript 🚀](https://dev.to/codexam/how-to-master-front-end-development-with-javascript-na5)
-- [SSH Keys, GitHub..](https://dev.to/olacoder/ssh-keys-github-2bmd)
-- [Git vs. GitHub: Understanding the Key Differences](https://dev.to/vedantsp/git-vs-github-understanding-the-key-differences-o07)
+- [How to Launch Your Open Source Product in Just 3 Weeks &lpar;And Only Spend $10!&rpar;](https://dev.to/johnrushx/how-to-launch-your-open-source-product-in-just-3-weeks-and-only-spend-10-213c)
+- [Streamlining Frontend Testing: A Comprehensive Guide to the Best Tools](https://dev.to/josematoswork/streamlining-frontend-testing-a-comprehensive-guide-to-the-best-tools-ic)
+- [Is Your Community Accessible?](https://dev.to/colabottles/is-your-community-accessible-464b)
+- [If more than half of your commits are “feat” ones, you&#39;re doing something wrong](https://dev.to/noriller/if-more-than-half-of-your-commits-are-feat-ones-youre-doing-something-wrong-m7j)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
