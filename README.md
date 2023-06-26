@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Launch Your Open Source Product in Just 3 Weeks &lpar;And Only Spend $10!&rpar;](https://dev.to/johnrushx/how-to-launch-your-open-source-product-in-just-3-weeks-and-only-spend-10-213c)
-- [Streamlining Frontend Testing: A Comprehensive Guide to the Best Tools](https://dev.to/josematoswork/streamlining-frontend-testing-a-comprehensive-guide-to-the-best-tools-ic)
-- [Is Your Community Accessible?](https://dev.to/colabottles/is-your-community-accessible-464b)
-- [If more than half of your commits are “feat” ones, you&#39;re doing something wrong](https://dev.to/noriller/if-more-than-half-of-your-commits-are-feat-ones-youre-doing-something-wrong-m7j)
+- [FLaNK Stack Weekly on 26 June 2023](https://dev.to/tspannhw/flank-stack-weekly-on-26-june-2023-3082)
+- [5 Free AI Tools for Everyone and Anyone : Part 2](https://dev.to/varshithvhegde/5-free-ai-tools-for-everyone-and-anyone-part-2-7f9)
+- [How to create your own completion for vim](https://dev.to/cherryramatis/how-to-create-your-own-completion-for-vim-20h2)
+- [Streamlining Database Connectivity and Oracle Compatibility with EDB Postgres Advanced Server](https://dev.to/abdulsamad4068/streamlining-database-connectivity-and-oracle-compatibility-with-edb-postgres-advanced-server-5b89)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
