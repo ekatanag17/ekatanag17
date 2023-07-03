@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [FLaNK Stack Weekly on 26 June 2023](https://dev.to/tspannhw/flank-stack-weekly-on-26-june-2023-3082)
-- [5 Free AI Tools for Everyone and Anyone : Part 2](https://dev.to/varshithvhegde/5-free-ai-tools-for-everyone-and-anyone-part-2-7f9)
-- [How to create your own completion for vim](https://dev.to/cherryramatis/how-to-create-your-own-completion-for-vim-20h2)
-- [Streamlining Database Connectivity and Oracle Compatibility with EDB Postgres Advanced Server](https://dev.to/abdulsamad4068/streamlining-database-connectivity-and-oracle-compatibility-with-edb-postgres-advanced-server-5b89)
+- [Exploring Amazon Elasticache to Accelerate Application Speed and Scalability](https://dev.to/brandondamue/exploring-amazon-elasticache-to-accelerate-application-speed-and-scalability-1m6g)
+- [Junior need rules, senior guidelines](https://dev.to/noriller/junior-need-rules-senior-guidelines-55ma)
+- [ReductStore v1.5.0 has been released](https://dev.to/reductstore/reductstore-v150-has-been-released-hkj)
+- [Cypress Workshop Part 11: Reporting - Qase, Github Actions](https://dev.to/viktorijafilipov/cypress-workshop-part-11-reporting-qase-github-actions-dbi)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
