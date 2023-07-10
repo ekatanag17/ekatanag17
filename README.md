@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Amazon Elasticache to Accelerate Application Speed and Scalability](https://dev.to/brandondamue/exploring-amazon-elasticache-to-accelerate-application-speed-and-scalability-1m6g)
-- [Junior need rules, senior guidelines](https://dev.to/noriller/junior-need-rules-senior-guidelines-55ma)
-- [ReductStore v1.5.0 has been released](https://dev.to/reductstore/reductstore-v150-has-been-released-hkj)
-- [Cypress Workshop Part 11: Reporting - Qase, Github Actions](https://dev.to/viktorijafilipov/cypress-workshop-part-11-reporting-qase-github-actions-dbi)
+- [API&#39;s, MUI, PERN, &amp; more...](https://dev.to/fetterollie/apis-mui-pern-more-2i19)
+- [NestJS tip: how to inject multiple versions of the same provider into one module &lpar;e.g.: many Axios instances&rpar;](https://dev.to/micalevisk/nestjs-tip-how-to-inject-multiple-versions-of-the-same-provider-into-one-module-eg-many-axios-instances-5agc)
+- [Introducing Starter-Repos.com](https://dev.to/char_greenman/introducing-starter-reposcom-2gg4)
+- [Phase 1](https://dev.to/aosorio10/phase-1-54nn)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
