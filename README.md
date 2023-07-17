@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [API&#39;s, MUI, PERN, &amp; more...](https://dev.to/fetterollie/apis-mui-pern-more-2i19)
-- [NestJS tip: how to inject multiple versions of the same provider into one module &lpar;e.g.: many Axios instances&rpar;](https://dev.to/micalevisk/nestjs-tip-how-to-inject-multiple-versions-of-the-same-provider-into-one-module-eg-many-axios-instances-5agc)
-- [Introducing Starter-Repos.com](https://dev.to/char_greenman/introducing-starter-reposcom-2gg4)
-- [Phase 1](https://dev.to/aosorio10/phase-1-54nn)
+- [The Art of Clean Code: Mastering the Betty Style 🧑🏾‍💻](https://dev.to/angelotheman/the-art-of-clean-code-mastering-the-betty-style-30mo)
+- [Configurando Neovim para Java](https://dev.to/eronalves1996/configurando-neovim-para-java-7c4)
+- [Get Geolocation By IP Address API In 2023](https://dev.to/gabriela_avi/get-geolocation-by-ip-address-api-in-2023-1e0g)
+- [Building Serverless Applications with AWS – Compute](https://dev.to/aws-builders/building-serverless-applications-with-aws-compute-2704)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
