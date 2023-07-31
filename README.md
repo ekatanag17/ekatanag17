@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Networking: Servers](https://dev.to/cwprogram/python-networking-servers-4jm1)
-- [Clean Code 101: Variable Naming Conventions - Part 1](https://dev.to/mohitsinghchauhan/clean-code-101-variable-naming-conventions-part-1-1c1a)
-- [Embarking on the Frontend Development Journey in 2023](https://dev.to/wizarddeveloper/embarking-on-the-frontend-development-journey-in-2023-39am)
-- [Using Postgresql pg_vector for AI: Part 2, Using vectors For Natural Language Processing](https://dev.to/jjn1056/using-postgresql-pgvector-for-ai-part-2-using-vectors-for-natural-language-processing-b40)
+- [Cocaptain new Features](https://dev.to/ayyoubessadeq/cocaptain-new-features-1fbj)
+- [Building a User-Friendly URL Shortener Using Spring Boot, Postgres, and FL0](https://dev.to/fl0/building-a-user-friendly-url-shortener-using-spring-boot-postgres-and-fl0-d70)
+- [Forum Import rev MySQL](https://dev.to/leviackr/forum-import-rev-mysql-agh)
+- [6 Proven Strategies For Being A Great Platform Engineer](https://dev.to/linearb/6-proven-strategies-for-being-a-great-platform-engineer-1jk2)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
