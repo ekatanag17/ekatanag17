@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Cocaptain new Features](https://dev.to/ayyoubessadeq/cocaptain-new-features-1fbj)
-- [Building a User-Friendly URL Shortener Using Spring Boot, Postgres, and FL0](https://dev.to/fl0/building-a-user-friendly-url-shortener-using-spring-boot-postgres-and-fl0-d70)
-- [Forum Import rev MySQL](https://dev.to/leviackr/forum-import-rev-mysql-agh)
-- [6 Proven Strategies For Being A Great Platform Engineer](https://dev.to/linearb/6-proven-strategies-for-being-a-great-platform-engineer-1jk2)
+- [Mastering JavaScript Shorthand Techniques: Code Faster and Cleaner Part 2](https://dev.to/abidullah786/mastering-javascript-shorthand-techniques-code-faster-and-cleaner-part-2-4n2n)
+- [Building an AI-Powered, Decentralized App for Time Management](https://dev.to/github/building-an-ai-powered-decentralized-app-for-time-management-88l)
+- [Loki: Getting Started](https://dev.to/joachim8675309/loki-getting-started-n8o)
+- [Typescript Utility Types](https://dev.to/kevin-uehara/typescript-utility-types-7nm)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
