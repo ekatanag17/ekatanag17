@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering JavaScript Shorthand Techniques: Code Faster and Cleaner Part 2](https://dev.to/abidullah786/mastering-javascript-shorthand-techniques-code-faster-and-cleaner-part-2-4n2n)
-- [Building an AI-Powered, Decentralized App for Time Management](https://dev.to/github/building-an-ai-powered-decentralized-app-for-time-management-88l)
-- [Loki: Getting Started](https://dev.to/joachim8675309/loki-getting-started-n8o)
-- [Typescript Utility Types](https://dev.to/kevin-uehara/typescript-utility-types-7nm)
+- [Learn Vue: List and Conditional Rendering.](https://dev.to/kingowisdom/learn-vue-list-and-conditional-rendering-203j)
+- [Injecting Micro-Frontend CSS in single-spa](https://dev.to/webjose/injecting-micro-frontend-css-in-single-spa-oe8)
+- [Complementing exceptions - Introducing monads for error handling in ruby](https://dev.to/cherryramatis/complementing-exceptions-introducing-monads-on-ruby-5fip)
+- [No Framework - Eps#1: I am Bored!](https://dev.to/darkterminal/no-framework-eps1-i-am-bored-4ki)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
