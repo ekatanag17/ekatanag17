@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn Vue: List and Conditional Rendering.](https://dev.to/kingowisdom/learn-vue-list-and-conditional-rendering-203j)
-- [Injecting Micro-Frontend CSS in single-spa](https://dev.to/webjose/injecting-micro-frontend-css-in-single-spa-oe8)
-- [Complementing exceptions - Introducing monads for error handling in ruby](https://dev.to/cherryramatis/complementing-exceptions-introducing-monads-on-ruby-5fip)
-- [No Framework - Eps#1: I am Bored!](https://dev.to/darkterminal/no-framework-eps1-i-am-bored-4ki)
+- [Lets #HackTogether: Javascript On Azure Keynote](https://dev.to/azure/lets-hacktogether-javascript-on-azure-keynote-nml)
+- [The Paradox of Passion](https://dev.to/inovak/the-paradox-of-passion-3op7)
+- [React Props vs State](https://dev.to/imevanc/react-props-vs-state-jn)
+- [React Custom Hook: useLongPress](https://dev.to/sergeyleschev/react-custom-hook-uselongpress-5c0j)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
