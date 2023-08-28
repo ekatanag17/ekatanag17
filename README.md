@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Lets #HackTogether: Javascript On Azure Keynote](https://dev.to/azure/lets-hacktogether-javascript-on-azure-keynote-nml)
-- [The Paradox of Passion](https://dev.to/inovak/the-paradox-of-passion-3op7)
-- [React Props vs State](https://dev.to/imevanc/react-props-vs-state-jn)
-- [React Custom Hook: useLongPress](https://dev.to/sergeyleschev/react-custom-hook-uselongpress-5c0j)
+- [How to use the useCallback hook in React](https://dev.to/imevanc/how-to-use-the-usecallback-hook-in-react-3hkj)
+- [🎲🎲 Build a simple web game in 10 steps 🚀](https://dev.to/dumebii/build-a-simple-web-game-in-10-steps-1jb8)
+- [PoC x MVP x Prototipo: diferentes técnicas.](https://dev.to/valterlobo/poc-x-mvp-x-prototipo-diferentes-tecnicas-3695)
+- [React TS- How to Use React Contexts for State Management](https://dev.to/brdnicolas/react-ts-how-to-use-react-contexts-for-state-management-4mh3)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
