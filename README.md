@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use the useCallback hook in React](https://dev.to/imevanc/how-to-use-the-usecallback-hook-in-react-3hkj)
-- [🎲🎲 Build a simple web game in 10 steps 🚀](https://dev.to/dumebii/build-a-simple-web-game-in-10-steps-1jb8)
-- [PoC x MVP x Prototipo: diferentes técnicas.](https://dev.to/valterlobo/poc-x-mvp-x-prototipo-diferentes-tecnicas-3695)
-- [React TS- How to Use React Contexts for State Management](https://dev.to/brdnicolas/react-ts-how-to-use-react-contexts-for-state-management-4mh3)
+- [Calling All Node.js Developers : Create Generic Upload Controller ⭐ Weekly Issue to Solve](https://dev.to/idurar/calling-all-nodejs-developers-create-new-generic-upload-controller-weekly-issue-to-solve-53a4)
+- [Creating a React Loader: Adding a Dash of Style to Your Website](https://dev.to/samy/creating-a-react-loader-adding-a-dash-of-style-to-your-website-4f5l)
+- [Enhancing development with REPLs - A practical guide](https://dev.to/cherryramatis/enhancing-development-with-repls-a-practical-guide-2fij)
+- [Build a multiple unit converter with JavaScript](https://dev.to/ensamuel/build-a-multiple-unit-converter-with-javascript-1hja)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
