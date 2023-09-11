@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Calling All Node.js Developers : Create Generic Upload Controller ⭐ Weekly Issue to Solve](https://dev.to/idurar/calling-all-nodejs-developers-create-new-generic-upload-controller-weekly-issue-to-solve-53a4)
-- [Creating a React Loader: Adding a Dash of Style to Your Website](https://dev.to/samy/creating-a-react-loader-adding-a-dash-of-style-to-your-website-4f5l)
-- [Enhancing development with REPLs - A practical guide](https://dev.to/cherryramatis/enhancing-development-with-repls-a-practical-guide-2fij)
-- [Build a multiple unit converter with JavaScript](https://dev.to/ensamuel/build-a-multiple-unit-converter-with-javascript-1hja)
+- [Dark Mode with Next.js, TypeScript, Styled Components and Redux Toolkit🔯🔮](https://dev.to/koyablue/dark-mode-with-nextjs-typescript-styled-components-and-redux-toolkit-3863)
+- [DynamoDB Streams EventBridge Pipes Multiple Items](https://dev.to/aws-builders/dynamodb-streams-eventbridge-pipes-multiple-items-4657)
+- [Code Smell 224 - Deodorant Comments](https://dev.to/mcsee/code-smell-224-deodorant-comments-3nfk)
+- [Principles for Scaling Frontend Application Developments](https://dev.to/hashcode01/principles-for-scaling-frontend-application-developments-2kja)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
