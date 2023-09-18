@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Dark Mode with Next.js, TypeScript, Styled Components and Redux Toolkit🔯🔮](https://dev.to/koyablue/dark-mode-with-nextjs-typescript-styled-components-and-redux-toolkit-3863)
-- [DynamoDB Streams EventBridge Pipes Multiple Items](https://dev.to/aws-builders/dynamodb-streams-eventbridge-pipes-multiple-items-4657)
-- [Code Smell 224 - Deodorant Comments](https://dev.to/mcsee/code-smell-224-deodorant-comments-3nfk)
-- [Principles for Scaling Frontend Application Developments](https://dev.to/hashcode01/principles-for-scaling-frontend-application-developments-2kja)
+- [React Js Developers ⭐ Create a Email Editor with React-Quill](https://dev.to/idurar/react-js-developers-create-a-email-editor-with-react-quill-1edl)
+- [Top 6 Most Popular API Architecture Styles You Need to Know &lpar;with Pros, Cons, and Use Cases&rpar;](https://dev.to/kanani_nirav/top-6-most-popular-api-architecture-styles-you-need-to-know-with-pros-cons-and-use-cases-564j)
+- [CodeIgniter vs Laravel : Introduction To PHP Frameworks](https://dev.to/domfive/codeigniter-vs-laravel-introduction-to-php-frameworks-3f2o)
+- [The Entire Process Of Handling URL Requests.](https://dev.to/code_lover/the-entire-process-of-handling-url-requests-1nbd)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
