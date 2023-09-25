@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [React Js Developers ⭐ Create a Email Editor with React-Quill](https://dev.to/idurar/react-js-developers-create-a-email-editor-with-react-quill-1edl)
-- [Top 6 Most Popular API Architecture Styles You Need to Know &lpar;with Pros, Cons, and Use Cases&rpar;](https://dev.to/kanani_nirav/top-6-most-popular-api-architecture-styles-you-need-to-know-with-pros-cons-and-use-cases-564j)
-- [CodeIgniter vs Laravel : Introduction To PHP Frameworks](https://dev.to/domfive/codeigniter-vs-laravel-introduction-to-php-frameworks-3f2o)
-- [The Entire Process Of Handling URL Requests.](https://dev.to/code_lover/the-entire-process-of-handling-url-requests-1nbd)
+- [Connecting Multiple Kafka Clusters in ClickHouse Using Named Collections](https://dev.to/ranjbaryshahab/connecting-multiple-kafka-clusters-in-clickhouse-using-named-collections-4i79)
+- [Is There a Developer Shortage?](https://dev.to/devteam/is-there-a-developer-shortage-2l56)
+- [Hacktoberfest is coming](https://dev.to/jarvisscript/hacktoberfest-is-coming-58a4)
+- [OpenMP Notes](https://dev.to/winstonpuckett/openmp-notes-1cfa)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
