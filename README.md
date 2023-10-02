@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Connecting Multiple Kafka Clusters in ClickHouse Using Named Collections](https://dev.to/ranjbaryshahab/connecting-multiple-kafka-clusters-in-clickhouse-using-named-collections-4i79)
-- [Is There a Developer Shortage?](https://dev.to/devteam/is-there-a-developer-shortage-2l56)
-- [Hacktoberfest is coming](https://dev.to/jarvisscript/hacktoberfest-is-coming-58a4)
-- [OpenMP Notes](https://dev.to/winstonpuckett/openmp-notes-1cfa)
+- [Monolithic Apps in Containers: Viable or Not?](https://dev.to/devteam/monolithic-apps-in-containers-viable-or-not-11pm)
+- [I stopped using Google and here&#39;s why.](https://dev.to/alessandrofoglia07/i-stopped-using-google-and-heres-why-421l)
+- [I made Simba using pure CSS](https://dev.to/melnik909/i-made-simba-using-pure-css-2p4f)
+- [Introdução ao Python: parte 2](https://dev.to/eduardoromeiro_/introducao-ao-python-parte-2-e8g)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
