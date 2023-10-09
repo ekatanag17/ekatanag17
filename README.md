@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Monolithic Apps in Containers: Viable or Not?](https://dev.to/devteam/monolithic-apps-in-containers-viable-or-not-11pm)
-- [I stopped using Google and here&#39;s why.](https://dev.to/alessandrofoglia07/i-stopped-using-google-and-heres-why-421l)
-- [I made Simba using pure CSS](https://dev.to/melnik909/i-made-simba-using-pure-css-2p4f)
-- [Introdução ao Python: parte 2](https://dev.to/eduardoromeiro_/introducao-ao-python-parte-2-e8g)
+- [Basic Python Project Layout](https://dev.to/cwprogram/basic-python-project-layout-1pg2)
+- [Exploratory Data Analysis &lpar;EDA&rpar;and visualization Techniques](https://dev.to/lornam12/exploratory-data-analysis-edaand-visualization-techniques-5gdp)
+- [Exploratory Data Analysis using Data Visualization Techniques](https://dev.to/bradleydaudi/exploratory-data-analysis-using-data-visualization-techniques-ea0)
+- [Scalable range sharding to avoid hotspots on indexes](https://dev.to/yugabyte/scalable-range-sharding-with-yugabytedb-1o51)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
