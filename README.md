@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Basic Python Project Layout](https://dev.to/cwprogram/basic-python-project-layout-1pg2)
-- [Exploratory Data Analysis &lpar;EDA&rpar;and visualization Techniques](https://dev.to/lornam12/exploratory-data-analysis-edaand-visualization-techniques-5gdp)
-- [Exploratory Data Analysis using Data Visualization Techniques](https://dev.to/bradleydaudi/exploratory-data-analysis-using-data-visualization-techniques-ea0)
-- [Scalable range sharding to avoid hotspots on indexes](https://dev.to/yugabyte/scalable-range-sharding-with-yugabytedb-1o51)
+- [Mastering Binary Search](https://dev.to/cleancodestudio/mastering-binary-search-3li6)
+- [[off-topic] Top 5 Playlists Que Eu Escuto Enquanto Estou Programando](https://dev.to/analaura/off-topic-top-5-playlists-que-eu-escuto-enquanto-programo-537e)
+- [Unveiling the Power of K-Nearest Neighbors &lpar;KNN&rpar; in Machine Learning](https://dev.to/edelapaz/unveiling-the-power-of-k-nearest-neighbors-knn-in-machine-learning-5b0a)
+- [Get involved: Your guide to contributing to WebCrumbs](https://dev.to/opensourcee/get-involved-your-guide-to-contributing-to-webcrumbs-30p7)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
