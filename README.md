@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Binary Search](https://dev.to/cleancodestudio/mastering-binary-search-3li6)
-- [[off-topic] Top 5 Playlists Que Eu Escuto Enquanto Estou Programando](https://dev.to/analaura/off-topic-top-5-playlists-que-eu-escuto-enquanto-programo-537e)
-- [Unveiling the Power of K-Nearest Neighbors &lpar;KNN&rpar; in Machine Learning](https://dev.to/edelapaz/unveiling-the-power-of-k-nearest-neighbors-knn-in-machine-learning-5b0a)
-- [Get involved: Your guide to contributing to WebCrumbs](https://dev.to/opensourcee/get-involved-your-guide-to-contributing-to-webcrumbs-30p7)
+- [Make a rotating circular text button](https://dev.to/developedbyluke/make-a-rotating-circular-text-button-1nlh)
+- [Tailwind CSS Linear Gradient Utility Tool](https://dev.to/rudolfolah/tailwind-css-linear-gradient-utility-tool-1448)
+- [NeobrutalismCSS - A Classless CSS Library](https://dev.to/matifandy8/neobrutalismcss-a-classless-css-library-13e9)
+- [AWS ECS: How does it work?](https://dev.to/ltcavalcanti/aws-ecs-how-does-it-work-ikd)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
