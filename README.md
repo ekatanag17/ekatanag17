@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Make a rotating circular text button](https://dev.to/developedbyluke/make-a-rotating-circular-text-button-1nlh)
-- [Tailwind CSS Linear Gradient Utility Tool](https://dev.to/rudolfolah/tailwind-css-linear-gradient-utility-tool-1448)
-- [NeobrutalismCSS - A Classless CSS Library](https://dev.to/matifandy8/neobrutalismcss-a-classless-css-library-13e9)
-- [AWS ECS: How does it work?](https://dev.to/ltcavalcanti/aws-ecs-how-does-it-work-ikd)
+- [Reading Docusaurus code](https://dev.to/avelynhc/reading-docusaurus-code-ggm)
+- [How to setup and configure TURN server using coTURN?](https://dev.to/alakkadshaw/how-to-setup-and-configure-turn-server-using-coturn-4oec)
+- [Deep Q Learning with PyTorch](https://dev.to/akshayballal/deep-q-learnig-with-pytorch-5bl1)
+- [Implement a Simple Version Control with JavaScript to Understand Git Better!](https://dev.to/pshaddel/implement-a-simple-version-control-with-javascript-to-understand-git-better-48i6)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
