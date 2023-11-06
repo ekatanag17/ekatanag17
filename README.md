@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Reading Docusaurus code](https://dev.to/avelynhc/reading-docusaurus-code-ggm)
-- [How to setup and configure TURN server using coTURN?](https://dev.to/alakkadshaw/how-to-setup-and-configure-turn-server-using-coturn-4oec)
-- [Deep Q Learning with PyTorch](https://dev.to/akshayballal/deep-q-learnig-with-pytorch-5bl1)
-- [Implement a Simple Version Control with JavaScript to Understand Git Better!](https://dev.to/pshaddel/implement-a-simple-version-control-with-javascript-to-understand-git-better-48i6)
+- [How To Write Better and Quality Code](https://dev.to/brojenuel/how-to-write-better-and-quality-code-gf7)
+- [Don&#39;t Eat the 🍪 [All In One Bite]](https://dev.to/cleancodestudio/dont-eat-the-all-in-one-bite-7l0)
+- [Tuto: Create tabs in Svelte](https://dev.to/barim/tuto-create-tabs-in-svelte-n82)
+- [Como deixar o Swagger com tema dark mode usando NestJS](https://dev.to/wiliamvj/como-deixar-o-swagger-com-o-tema-dark-mode-com-nestjs-405o)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
