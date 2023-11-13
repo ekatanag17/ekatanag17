@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Write Better and Quality Code](https://dev.to/brojenuel/how-to-write-better-and-quality-code-gf7)
-- [Don&#39;t Eat the 🍪 [All In One Bite]](https://dev.to/cleancodestudio/dont-eat-the-all-in-one-bite-7l0)
-- [Tuto: Create tabs in Svelte](https://dev.to/barim/tuto-create-tabs-in-svelte-n82)
-- [Como deixar o Swagger com tema dark mode usando NestJS](https://dev.to/wiliamvj/como-deixar-o-swagger-com-o-tema-dark-mode-com-nestjs-405o)
+- [How I Learned Generics in Go](https://dev.to/calvinmclean/how-i-learned-generics-in-go-3nc6)
+- [🚀 Mastering Website Previews: A Step by Step Guide to Playwright and Chromium! ✨](https://dev.to/joshuaamaju/mastering-website-previews-a-step-by-step-guide-to-playwright-and-chromium-2a8p)
+- [Breaking Down SQL Syntax Guide to Using Quotes](https://dev.to/salmazz/breaking-down-sql-syntax-guide-to-using-quotes-8ic)
+- [Create a streaming AI assistant with ChatGPT, FastAPI, WebSockets and React ✨🤖🚀](https://dev.to/dpills/create-a-streaming-ai-assistant-with-chatgpt-fastapi-websockets-and-react-3ehf)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
