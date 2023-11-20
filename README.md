@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Learned Generics in Go](https://dev.to/calvinmclean/how-i-learned-generics-in-go-3nc6)
-- [🚀 Mastering Website Previews: A Step by Step Guide to Playwright and Chromium! ✨](https://dev.to/joshuaamaju/mastering-website-previews-a-step-by-step-guide-to-playwright-and-chromium-2a8p)
-- [Breaking Down SQL Syntax Guide to Using Quotes](https://dev.to/salmazz/breaking-down-sql-syntax-guide-to-using-quotes-8ic)
-- [Create a streaming AI assistant with ChatGPT, FastAPI, WebSockets and React ✨🤖🚀](https://dev.to/dpills/create-a-streaming-ai-assistant-with-chatgpt-fastapi-websockets-and-react-3ehf)
+- [Advent of Code en JavaScript Chile](https://dev.to/javascriptchile/advent-of-code-en-javascript-chile-11jc)
+- [TypeError: ‘Win’ and ‘NotTyped’ have no overlap](https://dev.to/noriller/typeerror-win-and-nottyped-have-no-overlap-g4i)
+- [VueJS part 12: Exposing methods and data in components](https://dev.to/hi_iam_chris/vuejs-part-12-exposing-methods-and-data-in-components-33mc)
+- [Creating a Sidebar with Active Links](https://dev.to/ciscovlahakis/creating-a-sidebar-with-active-links-1j3d)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
