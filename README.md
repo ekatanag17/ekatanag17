@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Advent of Code en JavaScript Chile](https://dev.to/javascriptchile/advent-of-code-en-javascript-chile-11jc)
-- [TypeError: ‘Win’ and ‘NotTyped’ have no overlap](https://dev.to/noriller/typeerror-win-and-nottyped-have-no-overlap-g4i)
-- [VueJS part 12: Exposing methods and data in components](https://dev.to/hi_iam_chris/vuejs-part-12-exposing-methods-and-data-in-components-33mc)
-- [Creating a Sidebar with Active Links](https://dev.to/ciscovlahakis/creating-a-sidebar-with-active-links-1j3d)
+- [Replace Your Authentication System with Face Recognition using FACEIO&#39;s fio.js, &amp; Tailwind.css](https://dev.to/pixlab/replace-your-authentication-system-with-face-recognition-using-faceios-fiojs-tailwindcss-4985)
+- [Can You Transform Your Life in 6 Months?](https://dev.to/devteam/can-you-transform-your-life-in-6-months-2imb)
+- [VueJS part 13: Introduction to slots](https://dev.to/hi_iam_chris/vuejs-part-13-introduction-to-slots-52o0)
+- [Disrupting the Status Quo: PR-Agents Reimagined](https://dev.to/devrx/disrupting-the-status-quo-pr-agents-reimagined-1ila)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
