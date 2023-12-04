@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Replace Your Authentication System with Face Recognition using FACEIO&#39;s fio.js, &amp; Tailwind.css](https://dev.to/pixlab/replace-your-authentication-system-with-face-recognition-using-faceios-fiojs-tailwindcss-4985)
-- [Can You Transform Your Life in 6 Months?](https://dev.to/devteam/can-you-transform-your-life-in-6-months-2imb)
-- [VueJS part 13: Introduction to slots](https://dev.to/hi_iam_chris/vuejs-part-13-introduction-to-slots-52o0)
-- [Disrupting the Status Quo: PR-Agents Reimagined](https://dev.to/devrx/disrupting-the-status-quo-pr-agents-reimagined-1ila)
+- [VueJS part 14: Scoped slots and conditional slot rendering](https://dev.to/hi_iam_chris/vuejs-part-14-scoped-slots-and-conditional-slot-rendering-2088)
+- [Advanced Value Objects in PHP 8](https://dev.to/cnastasi/advanced-value-objects-in-php-8-1lp0)
+- [Advent of Code Automation for Javascript/Typescript](https://dev.to/this-is-learning/advent-of-code-automation-for-javascripttypescript-4111)
+- [Learn Resend in 2 hours — Full course 4k 2023](https://dev.to/guillaumeduhan/learn-resend-in-2-hours-full-course-4k-2023-4gc7)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
