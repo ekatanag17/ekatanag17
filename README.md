@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [VueJS part 14: Scoped slots and conditional slot rendering](https://dev.to/hi_iam_chris/vuejs-part-14-scoped-slots-and-conditional-slot-rendering-2088)
-- [Advanced Value Objects in PHP 8](https://dev.to/cnastasi/advanced-value-objects-in-php-8-1lp0)
-- [Advent of Code Automation for Javascript/Typescript](https://dev.to/this-is-learning/advent-of-code-automation-for-javascripttypescript-4111)
-- [Learn Resend in 2 hours — Full course 4k 2023](https://dev.to/guillaumeduhan/learn-resend-in-2-hours-full-course-4k-2023-4gc7)
+- [How to Serve Laravel Apps With Valet on MacOS](https://dev.to/martinsonuoha/how-to-serve-laravel-apps-with-valet-on-macos-5014)
+- [How to Get Audio Transcriptions from Whisper without a File System](https://dev.to/ajones_codes/how-to-get-audio-transcriptions-from-whisper-without-a-file-system-21ek)
+- [Making a single line break in markdown](https://dev.to/cassidoo/making-a-single-line-break-in-markdown-3db1)
+- [How to Deploy a Dockerized App to Amazon EKS](https://dev.to/ken_mwaura1/how-to-deploy-a-dockerized-app-to-amazon-eks-5e1)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
