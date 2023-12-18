@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Serve Laravel Apps With Valet on MacOS](https://dev.to/martinsonuoha/how-to-serve-laravel-apps-with-valet-on-macos-5014)
-- [How to Get Audio Transcriptions from Whisper without a File System](https://dev.to/ajones_codes/how-to-get-audio-transcriptions-from-whisper-without-a-file-system-21ek)
-- [Making a single line break in markdown](https://dev.to/cassidoo/making-a-single-line-break-in-markdown-3db1)
-- [How to Deploy a Dockerized App to Amazon EKS](https://dev.to/ken_mwaura1/how-to-deploy-a-dockerized-app-to-amazon-eks-5e1)
+- [#Bitcoin fee hits $37👀](https://dev.to/irmakork/bitcoin-fee-hits-37-3gc3)
+- [Advent of Code #14 &lpar;in Crystal&rpar;](https://dev.to/sethcalebweeks/advent-of-code-14-in-crystal-4dmm)
+- [Advent of Code 2023 Day 16](https://dev.to/nickymeuleman/advent-of-code-2023-day-16-2gg6)
+- [SQL Server &amp; MongoDB sync &lpar;Kafka + Kubernetes + Debezium&rpar;](https://dev.to/gustavo_gordillo_aec0b580/sql-server-mongodb-sync-kafka-kubernetes-debezium-1alc)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
