@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [#Bitcoin fee hits $37👀](https://dev.to/irmakork/bitcoin-fee-hits-37-3gc3)
-- [Advent of Code #14 &lpar;in Crystal&rpar;](https://dev.to/sethcalebweeks/advent-of-code-14-in-crystal-4dmm)
-- [Advent of Code 2023 Day 16](https://dev.to/nickymeuleman/advent-of-code-2023-day-16-2gg6)
-- [SQL Server &amp; MongoDB sync &lpar;Kafka + Kubernetes + Debezium&rpar;](https://dev.to/gustavo_gordillo_aec0b580/sql-server-mongodb-sync-kafka-kubernetes-debezium-1alc)
+- [Retrospective 2023](https://dev.to/dionarodrigues/retrospective-2023-387h)
+- [Happy celebrations! Enjoy with your loved ones ❤️](https://dev.to/opensourcee/happy-celebrations-enjoy-with-your-loved-ones-4pd8)
+- [Building a Conversational AI Interface with AWS Bedrock and Claude 2.1](https://dev.to/msveshnikov/building-a-conversational-ai-interface-with-aws-bedrock-and-claude-21-4lc2)
+- [JavaScript Just Changed Forever](https://dev.to/aarvinr/javascript-just-changed-forever-with-bun-bpj)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
