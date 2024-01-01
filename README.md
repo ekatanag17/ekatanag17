@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Retrospective 2023](https://dev.to/dionarodrigues/retrospective-2023-387h)
-- [Happy celebrations! Enjoy with your loved ones ❤️](https://dev.to/opensourcee/happy-celebrations-enjoy-with-your-loved-ones-4pd8)
-- [Building a Conversational AI Interface with AWS Bedrock and Claude 2.1](https://dev.to/msveshnikov/building-a-conversational-ai-interface-with-aws-bedrock-and-claude-21-4lc2)
-- [JavaScript Just Changed Forever](https://dev.to/aarvinr/javascript-just-changed-forever-with-bun-bpj)
+- [Let&#39;s Test Your CSS skill](https://dev.to/melnik909/lets-test-your-css-skill-5d3m)
+- [Securing Your App: TOTP Authentication with Spring Boot and Angular — Part One — Overview &amp; Project Setup](https://dev.to/amailath/securing-your-app-totp-authentication-with-spring-boot-and-angular-part-one-overview-project-setup-1f3f)
+- [Will AI also replace automation testers? 🤖💭](https://dev.to/gpiechnik/will-ai-also-replace-automation-testers-5eoe)
+- [The DevRel Digest December 2023: DevRel You Should Know Part Two and Reflections on 2023](https://dev.to/lizzzzz/the-devrel-digest-december-2023-devrel-you-should-know-part-two-and-reflections-on-2023-5fk5)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
