@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s Test Your CSS skill](https://dev.to/melnik909/lets-test-your-css-skill-5d3m)
-- [Securing Your App: TOTP Authentication with Spring Boot and Angular — Part One — Overview &amp; Project Setup](https://dev.to/amailath/securing-your-app-totp-authentication-with-spring-boot-and-angular-part-one-overview-project-setup-1f3f)
-- [Will AI also replace automation testers? 🤖💭](https://dev.to/gpiechnik/will-ai-also-replace-automation-testers-5eoe)
-- [The DevRel Digest December 2023: DevRel You Should Know Part Two and Reflections on 2023](https://dev.to/lizzzzz/the-devrel-digest-december-2023-devrel-you-should-know-part-two-and-reflections-on-2023-5fk5)
+- [The Front End Essentials: Top 15 FREE APIs Every Developer Should Have in Their Arsenal](https://dev.to/aajinkya/the-front-end-essentials-top-15-free-apis-every-developer-should-have-in-their-arsenal-463l)
+- [12in24 - One language a month](https://dev.to/kaamkiya/12in24-one-language-a-month-105b)
+- [33 React Libraries Every React Developer Should Have In Their Arsenal](https://dev.to/mahmoudomaibnelkhattab/33-react-libraries-every-react-developer-should-have-in-their-arsenal-5c45)
+- [Type Annotation vs Type Inference](https://dev.to/harshit_senpai/type-annotation-vs-type-inference-521j)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
