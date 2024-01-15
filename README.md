@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [The Front End Essentials: Top 15 FREE APIs Every Developer Should Have in Their Arsenal](https://dev.to/aajinkya/the-front-end-essentials-top-15-free-apis-every-developer-should-have-in-their-arsenal-463l)
-- [12in24 - One language a month](https://dev.to/kaamkiya/12in24-one-language-a-month-105b)
-- [33 React Libraries Every React Developer Should Have In Their Arsenal](https://dev.to/mahmoudomaibnelkhattab/33-react-libraries-every-react-developer-should-have-in-their-arsenal-5c45)
-- [Type Annotation vs Type Inference](https://dev.to/harshit_senpai/type-annotation-vs-type-inference-521j)
+- [Seven Sites for Free Low-Code App Templates](https://dev.to/jamesmurdza/seven-sites-for-free-low-code-app-templates-4a1c)
+- [Missing at point blank range](https://dev.to/boblied/missing-at-point-blank-range-1di)
+- [End-to-End App Testing](https://dev.to/talenttinaapi/end-to-end-app-testing-44aj)
+- [C#, Dart, TypeScript , Python: side-by-side](https://dev.to/maximsaplin/c-dart-typescript-python-side-by-side-3j34)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
