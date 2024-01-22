@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Seven Sites for Free Low-Code App Templates](https://dev.to/jamesmurdza/seven-sites-for-free-low-code-app-templates-4a1c)
-- [Missing at point blank range](https://dev.to/boblied/missing-at-point-blank-range-1di)
-- [End-to-End App Testing](https://dev.to/talenttinaapi/end-to-end-app-testing-44aj)
-- [C#, Dart, TypeScript , Python: side-by-side](https://dev.to/maximsaplin/c-dart-typescript-python-side-by-side-3j34)
+- [Utilizando o CustomPaint para criar assinatura.](https://dev.to/luisgustavoo/utilizando-o-custompaint-para-criar-assinatura-de-nome-2mii)
+- [Making Web Component properties behave closer to the platform](https://dev.to/tbroyer/making-web-component-properties-behave-closer-to-the-platform-c1n)
+- [Noob learns Asynchronous Rust.](https://dev.to/kinxyo/noob-learns-asynchronous-rust-2452)
+- [Understanding AWS Instance Metadata Service: A Closer Look](https://dev.to/aws-builders/understanding-aws-instance-metadata-service-a-closer-look-69h)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
