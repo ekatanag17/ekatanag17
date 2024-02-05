@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Next Level SD 1.5 Based Models Training - Took Me 70+ Empirical Trainings To Find Out](https://dev.to/furkangozukara/next-level-sd-15-based-models-training-took-me-70-empirical-trainings-to-find-out-5362)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-ol6)
-- [Make layout with bidirectional text has never been so easy 🙌](https://dev.to/dhutaryan/make-layout-with-bidirectional-text-has-never-been-so-easy-bac)
-- [Deploying an E-commerce Website on Amazon EKS Using Terraform](https://dev.to/gbenga700/deploying-an-e-commerce-website-on-amazon-eks-using-terraform-23df)
+- [How Do You Shift the Focus from Individual to Collective Success?](https://dev.to/devteam/how-do-you-shift-the-focus-from-individual-to-collective-success-433l)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-2n8e)
+- [My Redemption Arc](https://dev.to/lessthan3/my-redemption-arc-4ebc)
+- [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 7 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-3nnd)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
