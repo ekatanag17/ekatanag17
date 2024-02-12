@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [How Do You Shift the Focus from Individual to Collective Success?](https://dev.to/devteam/how-do-you-shift-the-focus-from-individual-to-collective-success-433l)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-2n8e)
-- [My Redemption Arc](https://dev.to/lessthan3/my-redemption-arc-4ebc)
-- [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 7 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-3nnd)
+- [Optimizing Codebases for AI Development Era](https://dev.to/sip/optimizing-codebases-for-ai-development-era-2ajn)
+- [Resolving Memory Fragmentation for Linkedlist Heap Allocator](https://dev.to/raineyanguoft/resolving-memory-fragmentation-for-linkedlist-heap-allocator-3j4a)
+- [Harnessing the Power of React: Unveiling its Strengths Over Other JavaScript Frameworks](https://dev.to/rukundoprince/harnessing-the-power-of-react-unveiling-its-strengths-over-other-javascript-frameworks-5fpa)
+- [Vector Database and Spring IA](https://dev.to/lucasnscr/vector-database-and-spring-ia-4dll)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
