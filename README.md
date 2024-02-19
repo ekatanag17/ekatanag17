@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Codebases for AI Development Era](https://dev.to/sip/optimizing-codebases-for-ai-development-era-2ajn)
-- [Resolving Memory Fragmentation for Linkedlist Heap Allocator](https://dev.to/raineyanguoft/resolving-memory-fragmentation-for-linkedlist-heap-allocator-3j4a)
-- [Harnessing the Power of React: Unveiling its Strengths Over Other JavaScript Frameworks](https://dev.to/rukundoprince/harnessing-the-power-of-react-unveiling-its-strengths-over-other-javascript-frameworks-5fpa)
-- [Vector Database and Spring IA](https://dev.to/lucasnscr/vector-database-and-spring-ia-4dll)
+- [Kentico Xperience 13: 5 tips on how to ace the Kentico Certified Developer exam](https://dev.to/michael419/kentico-xperience-13-5-tips-on-how-to-ace-the-kentico-certified-developer-exam-3dkh)
+- [Assign alias to your long togo git commands!](https://dev.to/busycaesar/assign-alias-to-your-long-togo-git-commands-3i9j)
+- [Setting Headers with Axios in Node JS](https://dev.to/alakkadshaw/setting-headers-with-axios-in-node-js-p01)
+- [Career Switching........](https://dev.to/mrmatt1010/career-switching-mbi)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
