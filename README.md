@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Kentico Xperience 13: 5 tips on how to ace the Kentico Certified Developer exam](https://dev.to/michael419/kentico-xperience-13-5-tips-on-how-to-ace-the-kentico-certified-developer-exam-3dkh)
-- [Assign alias to your long togo git commands!](https://dev.to/busycaesar/assign-alias-to-your-long-togo-git-commands-3i9j)
-- [Setting Headers with Axios in Node JS](https://dev.to/alakkadshaw/setting-headers-with-axios-in-node-js-p01)
-- [Career Switching........](https://dev.to/mrmatt1010/career-switching-mbi)
+- [SPL - a database language featuring easy writing and fast running](https://dev.to/vivi9876/spl-a-database-language-featuring-easy-writing-and-fast-running-267b)
+- [How to receive email with NodeJS](https://dev.to/yatsenkolesh/how-to-receive-email-with-nodejs-g1a)
+- [What time of day is peak energy and focus for you?](https://dev.to/ben/what-time-of-day-is-peak-energy-and-focus-for-you-2okn)
+- [😲 5000 Followers! | What I&#39;ve Learned 📚📖](https://dev.to/best_codes/5000-followers-what-ive-learned-4abg)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
