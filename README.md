@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [SPL - a database language featuring easy writing and fast running](https://dev.to/vivi9876/spl-a-database-language-featuring-easy-writing-and-fast-running-267b)
-- [How to receive email with NodeJS](https://dev.to/yatsenkolesh/how-to-receive-email-with-nodejs-g1a)
-- [What time of day is peak energy and focus for you?](https://dev.to/ben/what-time-of-day-is-peak-energy-and-focus-for-you-2okn)
-- [😲 5000 Followers! | What I&#39;ve Learned 📚📖](https://dev.to/best_codes/5000-followers-what-ive-learned-4abg)
+- [How I Write Clean Code As A Develeoper : Step By Step](https://dev.to/durgesh4993/how-i-write-clean-code-as-a-develeoper-step-by-step-5l9)
+- [Guide to building a side project — Without a Tutorial](https://dev.to/jcsmileyjr/guide-to-building-a-side-project-without-a-tutorial-34e6)
+- [Awk: A beginners guide for humans](https://dev.to/jpmcb/awk-a-beginners-guide-for-humans-3l25)
+- [Typed Objects in v-for - Vue3 with TypeScript](https://dev.to/schalkneethling/typed-objects-in-v-for-vue3-with-typescript-6l8)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
