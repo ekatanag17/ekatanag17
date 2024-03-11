@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Write Clean Code As A Develeoper : Step By Step](https://dev.to/durgesh4993/how-i-write-clean-code-as-a-develeoper-step-by-step-5l9)
-- [Guide to building a side project — Without a Tutorial](https://dev.to/jcsmileyjr/guide-to-building-a-side-project-without-a-tutorial-34e6)
-- [Awk: A beginners guide for humans](https://dev.to/jpmcb/awk-a-beginners-guide-for-humans-3l25)
-- [Typed Objects in v-for - Vue3 with TypeScript](https://dev.to/schalkneethling/typed-objects-in-v-for-vue3-with-typescript-6l8)
+- [Why You Should Use a Database](https://dev.to/annoh_karlgusta/why-you-should-use-a-database-ccp)
+- [Browser-based Multiplayer Tic Tac Toe Game in React](https://dev.to/pubnub/browser-based-multiplayer-tic-tac-toe-game-in-react-1488)
+- [zsh: command not found: brew](https://dev.to/naalaryea/zsh-command-not-found-brew-4697)
+- [Sending out SMS messages via Twilio](https://dev.to/idadelveloper/sending-out-sms-messages-via-twilio-47fh)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
