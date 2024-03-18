@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Should Use a Database](https://dev.to/annoh_karlgusta/why-you-should-use-a-database-ccp)
-- [Browser-based Multiplayer Tic Tac Toe Game in React](https://dev.to/pubnub/browser-based-multiplayer-tic-tac-toe-game-in-react-1488)
-- [zsh: command not found: brew](https://dev.to/naalaryea/zsh-command-not-found-brew-4697)
-- [Sending out SMS messages via Twilio](https://dev.to/idadelveloper/sending-out-sms-messages-via-twilio-47fh)
+- [Fastest way to learn a programming language](https://dev.to/annoh_karlgusta/fastest-way-to-learn-a-programming-language-16pa)
+- [22 JavaScript Functions You&#39;ll Use 99% of The Time 💯🔥](https://dev.to/safdarali/22-javascript-functions-youll-use-99-of-the-time-1om2)
+- [CSS Parent &amp; Previous-Sibling Selectors are here!](https://dev.to/brycehowitson/css-parent-previous-sibling-selectors-are-here-48hm)
+- [CSS Box Model &lpar;intro&rpar; 🚀](https://dev.to/modulo_script/css-box-model-intro-h68)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
