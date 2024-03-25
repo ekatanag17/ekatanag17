@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Fastest way to learn a programming language](https://dev.to/annoh_karlgusta/fastest-way-to-learn-a-programming-language-16pa)
-- [22 JavaScript Functions You&#39;ll Use 99% of The Time 💯🔥](https://dev.to/safdarali/22-javascript-functions-youll-use-99-of-the-time-1om2)
-- [CSS Parent &amp; Previous-Sibling Selectors are here!](https://dev.to/brycehowitson/css-parent-previous-sibling-selectors-are-here-48hm)
-- [CSS Box Model &lpar;intro&rpar; 🚀](https://dev.to/modulo_script/css-box-model-intro-h68)
+- [A New Gold Tutorial For RunPod &amp; Linux Users : How To Use Storage Network Volume In RunPod &amp; Latest Version Of Automatic1111](https://dev.to/furkangozukara/a-new-gold-tutorial-for-runpod-linux-users-how-to-use-storage-network-volume-in-runpod-latest-version-of-automatic1111-2cje)
+- [Linux Commands &lpar;Trying Out Linux commands with Directories and Files&rpar;](https://dev.to/clouddiadem/linux-commands-trying-out-linux-commands-with-directories-and-files-5dhh)
+- [Lexical Scope, Lexical Environment, Execution Context, Closure in JavaScript](https://dev.to/antonzo/lexical-scope-lexical-environment-execution-context-closure-in-javascript-5bn6)
+- [OpenTelemetry Journey #01 - Important concepts](https://dev.to/luizhlelis/opentelemetry-journey-01-important-concepts-2l54)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
