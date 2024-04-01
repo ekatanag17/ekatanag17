@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [A New Gold Tutorial For RunPod &amp; Linux Users : How To Use Storage Network Volume In RunPod &amp; Latest Version Of Automatic1111](https://dev.to/furkangozukara/a-new-gold-tutorial-for-runpod-linux-users-how-to-use-storage-network-volume-in-runpod-latest-version-of-automatic1111-2cje)
-- [Linux Commands &lpar;Trying Out Linux commands with Directories and Files&rpar;](https://dev.to/clouddiadem/linux-commands-trying-out-linux-commands-with-directories-and-files-5dhh)
-- [Lexical Scope, Lexical Environment, Execution Context, Closure in JavaScript](https://dev.to/antonzo/lexical-scope-lexical-environment-execution-context-closure-in-javascript-5bn6)
-- [OpenTelemetry Journey #01 - Important concepts](https://dev.to/luizhlelis/opentelemetry-journey-01-important-concepts-2l54)
+- [How to restrict default access to KMS via key policy with Terraform](https://dev.to/aws-builders/how-to-restrict-default-access-to-kms-via-key-policy-with-terraform-3lc1)
+- [A Junior DevOps Engr should be an ex-IT Operations Engineer or SysAdmin](https://dev.to/stanleyogada/a-junior-devops-engr-should-be-an-ex-it-operations-engineer-or-sysadmin-324g)
+- [Implementing SSO in React with GitHub OAuth2](https://dev.to/srssh/implementing-sso-in-react-with-github-oauth2-35c1)
+- [The Frontend Challenge: Glammed Up Camp Activities](https://dev.to/rafajrg21/the-frontend-challenge-glammed-up-camp-activities-3j6j)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
