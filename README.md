@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [How to restrict default access to KMS via key policy with Terraform](https://dev.to/aws-builders/how-to-restrict-default-access-to-kms-via-key-policy-with-terraform-3lc1)
-- [A Junior DevOps Engr should be an ex-IT Operations Engineer or SysAdmin](https://dev.to/stanleyogada/a-junior-devops-engr-should-be-an-ex-it-operations-engineer-or-sysadmin-324g)
-- [Implementing SSO in React with GitHub OAuth2](https://dev.to/srssh/implementing-sso-in-react-with-github-oauth2-35c1)
-- [The Frontend Challenge: Glammed Up Camp Activities](https://dev.to/rafajrg21/the-frontend-challenge-glammed-up-camp-activities-3j6j)
+- [Unveiling the Mechanics Behind Next.js Path Matching](https://dev.to/yhshanto/unveiling-the-mechanics-behind-nextjs-path-matching-4ia8)
+- [Microsoft Upcoming Events!! Join Now](https://dev.to/rani4849/microsoft-upcoming-events-join-now-1eal)
+- [Microsoft Upcoming Events!! Join Now](https://dev.to/ankita482/microsoft-upcoming-events-join-now-2d3k)
+- [Microsoft Upcoming Events!! Join Now](https://dev.to/radhika59/microsoft-upcoming-events-join-now-38ng)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
