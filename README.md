@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling the Mechanics Behind Next.js Path Matching](https://dev.to/yhshanto/unveiling-the-mechanics-behind-nextjs-path-matching-4ia8)
-- [Microsoft Upcoming Events!! Join Now](https://dev.to/rani4849/microsoft-upcoming-events-join-now-1eal)
-- [Microsoft Upcoming Events!! Join Now](https://dev.to/ankita482/microsoft-upcoming-events-join-now-2d3k)
-- [Microsoft Upcoming Events!! Join Now](https://dev.to/radhika59/microsoft-upcoming-events-join-now-38ng)
+- [Developer’s Guide : Modular, Flexible, Scalable Prod ready RAG](https://dev.to/exploredataaiml/developers-guide-modular-flexible-scalable-prod-ready-rag-1n83)
+- [３章２０](https://dev.to/aaattt/3zhang-20-38o2)
+- [Implementing Microfrontends](https://dev.to/kartikmehta8/implementing-microfrontends-4age)
+- [Zip command for Terminal 🤐](https://dev.to/sh20raj/zip-command-for-terminal-5e2l)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
