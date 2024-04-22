@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Developer’s Guide : Modular, Flexible, Scalable Prod ready RAG](https://dev.to/exploredataaiml/developers-guide-modular-flexible-scalable-prod-ready-rag-1n83)
-- [３章２０](https://dev.to/aaattt/3zhang-20-38o2)
-- [Implementing Microfrontends](https://dev.to/kartikmehta8/implementing-microfrontends-4age)
-- [Zip command for Terminal 🤐](https://dev.to/sh20raj/zip-command-for-terminal-5e2l)
+- [chunk&lpar;&rpar; and dsplit&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/chunk-and-dsplit-in-pytorch-5hd2)
+- [unbind&lpar;&rpar; and tensor_split&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/unbind-and-tensorsplit-in-pytorch-4b9a)
+- [Usando NextDNS CLI en tu red.](https://dev.to/alvarosdev/usando-nextdns-cli-en-tu-red-1o6n)
+- [How to Implement a LangGraph &lpar;LangChainJS&rpar; in TypeScript &lpar;in 5 minutes&rpar;](https://dev.to/fabrikapp/how-to-implement-a-langchain-langgraph-in-typescript-in-5-minutes-21mh)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
