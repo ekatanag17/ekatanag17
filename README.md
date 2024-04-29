@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [chunk&lpar;&rpar; and dsplit&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/chunk-and-dsplit-in-pytorch-5hd2)
-- [unbind&lpar;&rpar; and tensor_split&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/unbind-and-tensorsplit-in-pytorch-4b9a)
-- [Usando NextDNS CLI en tu red.](https://dev.to/alvarosdev/usando-nextdns-cli-en-tu-red-1o6n)
-- [How to Implement a LangGraph &lpar;LangChainJS&rpar; in TypeScript &lpar;in 5 minutes&rpar;](https://dev.to/fabrikapp/how-to-implement-a-langchain-langgraph-in-typescript-in-5-minutes-21mh)
+- [Server-Side Rendering with Next.js](https://dev.to/kartikmehta8/server-side-rendering-with-nextjs-20np)
+- [Libraries.io Coze Plugin](https://dev.to/walter0/librariesio-coze-plugin-513h)
+- [CoderLogon: generate a logo for your GitHub repo🎨](https://dev.to/astrabert/coderlogon-generate-a-logo-for-your-github-repo-45a4)
+- [Why Do Higher Order Functions Make My Life Easier?](https://dev.to/danielle-goldberg/why-do-higher-order-functions-make-my-life-easier-5h9)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
