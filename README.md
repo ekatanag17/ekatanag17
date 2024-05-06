@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Server-Side Rendering with Next.js](https://dev.to/kartikmehta8/server-side-rendering-with-nextjs-20np)
-- [Libraries.io Coze Plugin](https://dev.to/walter0/librariesio-coze-plugin-513h)
-- [CoderLogon: generate a logo for your GitHub repo🎨](https://dev.to/astrabert/coderlogon-generate-a-logo-for-your-github-repo-45a4)
-- [Why Do Higher Order Functions Make My Life Easier?](https://dev.to/danielle-goldberg/why-do-higher-order-functions-make-my-life-easier-5h9)
+- [AWS — Properly delete messages between Lambdas and SQS Queues](https://dev.to/joehoppe/aws-properly-delete-messages-between-lambdas-and-sqs-queues-41md)
+- [How to Install Drozer using Docker](https://dev.to/olivestem/how-to-install-drozer-using-docker-nmm)
+- [Machine Learning with Scikit-Learn](https://dev.to/kartikmehta8/machine-learning-with-scikit-learn-1f1h)
+- [Rails Designer v0.11.0 released: new Command Menu](https://dev.to/railsdesigner/rails-designer-v0110-released-new-command-menu-1ih0)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
