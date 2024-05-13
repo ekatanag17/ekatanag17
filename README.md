@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS — Properly delete messages between Lambdas and SQS Queues](https://dev.to/joehoppe/aws-properly-delete-messages-between-lambdas-and-sqs-queues-41md)
-- [How to Install Drozer using Docker](https://dev.to/olivestem/how-to-install-drozer-using-docker-nmm)
-- [Machine Learning with Scikit-Learn](https://dev.to/kartikmehta8/machine-learning-with-scikit-learn-1f1h)
-- [Rails Designer v0.11.0 released: new Command Menu](https://dev.to/railsdesigner/rails-designer-v0110-released-new-command-menu-1ih0)
+- [Hey!Sound: Upload and Vote for the Best Audios on the Internet](https://dev.to/fazzaamiarso/heysound-upload-and-vote-for-the-best-audios-on-the-internet-57me)
+- [Why Python Is Easier &lpar;Loops edition&rpar;](https://dev.to/chaseteague/why-python-is-easier-loops-edition-8p3)
+- [Introduction to Zero Trust Security Models](https://dev.to/kartikmehta8/introduction-to-zero-trust-security-models-4g1n)
+- [Mastering Object Calisthenics in PHP 8: Crafting Cleaner Code](https://dev.to/razielrodrigues/mastering-object-calisthenics-in-php-8-crafting-cleaner-code-381l)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
