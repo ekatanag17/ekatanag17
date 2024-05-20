@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Hey!Sound: Upload and Vote for the Best Audios on the Internet](https://dev.to/fazzaamiarso/heysound-upload-and-vote-for-the-best-audios-on-the-internet-57me)
-- [Why Python Is Easier &lpar;Loops edition&rpar;](https://dev.to/chaseteague/why-python-is-easier-loops-edition-8p3)
-- [Introduction to Zero Trust Security Models](https://dev.to/kartikmehta8/introduction-to-zero-trust-security-models-4g1n)
-- [Mastering Object Calisthenics in PHP 8: Crafting Cleaner Code](https://dev.to/razielrodrigues/mastering-object-calisthenics-in-php-8-crafting-cleaner-code-381l)
+- [Enhancing LLMs through RAG Knowledge Integration](https://dev.to/asmisalan/enhancing-llms-through-rag-knowledge-integration-35e2)
+- [Building a Fort: Django Security Best Practices](https://dev.to/topunix/building-a-fort-django-security-best-practices-4fa4)
+- [I am thrilled to announce the completion of the Tssnif web application, which is based on Arabic article classification.](https://dev.to/yahiaslim12/i-am-thrilled-to-announce-the-completion-of-the-tssnif-web-application-which-is-based-on-arabic-article-classification-4852)
+- [Exploring the Use of WebSockets for Real-Time Applications](https://dev.to/kartikmehta8/exploring-the-use-of-websockets-for-real-time-applications-mak)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
