@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing LLMs through RAG Knowledge Integration](https://dev.to/asmisalan/enhancing-llms-through-rag-knowledge-integration-35e2)
-- [Building a Fort: Django Security Best Practices](https://dev.to/topunix/building-a-fort-django-security-best-practices-4fa4)
-- [I am thrilled to announce the completion of the Tssnif web application, which is based on Arabic article classification.](https://dev.to/yahiaslim12/i-am-thrilled-to-announce-the-completion-of-the-tssnif-web-application-which-is-based-on-arabic-article-classification-4852)
-- [Exploring the Use of WebSockets for Real-Time Applications](https://dev.to/kartikmehta8/exploring-the-use-of-websockets-for-real-time-applications-mak)
+- [Enhancing AWS VPC Security: Accessing Your Network with a Private Jumpbox using Tailscale](https://dev.to/tevindeale/enhancing-aws-vpc-security-accessing-your-network-with-a-private-jumpbox-using-tailscale-1k83)
+- [Dev na Gringa: Processos Seletivos e Onde Estudar Para Eles](https://dev.to/lucasheriques/dev-na-gringa-processos-seletivos-e-onde-estudar-para-eles-b9f)
+- [Introduction to Time Series Analysis with Python](https://dev.to/kartikmehta8/introduction-to-time-series-analysis-with-python-15o1)
+- [Say Goodbye to Flaky Rendering &amp; Animation Issues](https://dev.to/anurika_joy_c83cb5039b071/say-goodbye-to-flaky-rendering-animation-issues-h0)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
