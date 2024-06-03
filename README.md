@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing AWS VPC Security: Accessing Your Network with a Private Jumpbox using Tailscale](https://dev.to/tevindeale/enhancing-aws-vpc-security-accessing-your-network-with-a-private-jumpbox-using-tailscale-1k83)
-- [Dev na Gringa: Processos Seletivos e Onde Estudar Para Eles](https://dev.to/lucasheriques/dev-na-gringa-processos-seletivos-e-onde-estudar-para-eles-b9f)
-- [Introduction to Time Series Analysis with Python](https://dev.to/kartikmehta8/introduction-to-time-series-analysis-with-python-15o1)
-- [Say Goodbye to Flaky Rendering &amp; Animation Issues](https://dev.to/anurika_joy_c83cb5039b071/say-goodbye-to-flaky-rendering-animation-issues-h0)
+- [Mengenal Konsep MVC di Laravel: Panduan Lengkap untuk Pemula](https://dev.to/yogameleniawan/mengenal-konsep-mvc-di-laravel-panduan-lengkap-untuk-pemula-1h5o)
+- [Developers Need Practical Kubernetes Experience](https://dev.to/coddicat/developers-need-practical-kubernetes-experience-24oh)
+- [Ten Things I’ve Learned After Ten Years at Vets Who Code](https://dev.to/vetswhocode/ten-things-ive-learned-after-ten-years-at-vets-who-code-37dp)
+- [Building a Personal Finance Application with Python](https://dev.to/kartikmehta8/building-a-personal-finance-application-with-python-525e)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
