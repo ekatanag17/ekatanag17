@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Mengenal Konsep MVC di Laravel: Panduan Lengkap untuk Pemula](https://dev.to/yogameleniawan/mengenal-konsep-mvc-di-laravel-panduan-lengkap-untuk-pemula-1h5o)
-- [Developers Need Practical Kubernetes Experience](https://dev.to/coddicat/developers-need-practical-kubernetes-experience-24oh)
-- [Ten Things I’ve Learned After Ten Years at Vets Who Code](https://dev.to/vetswhocode/ten-things-ive-learned-after-ten-years-at-vets-who-code-37dp)
-- [Building a Personal Finance Application with Python](https://dev.to/kartikmehta8/building-a-personal-finance-application-with-python-525e)
+- [Lập trình web phải phân biệt được Session và Cookie](https://dev.to/duongphan/lap-trinh-web-phai-phan-biet-duoc-session-va-cookie-2mi0)
+- [Reading Laravel](https://dev.to/bruno_beghelli_210b82ca3b/reading-laravel-2j7p)
+- [Effective Methods to Secure Your Online Store Against Cyber Threats](https://dev.to/jchristopher0033/effective-methods-to-secure-your-online-store-against-cyber-threats-457e)
+- [Developing IoT Applications with Raspberry Pi](https://dev.to/kartikmehta8/developing-iot-applications-with-raspberry-pi-53el)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
