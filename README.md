@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Lập trình web phải phân biệt được Session và Cookie](https://dev.to/duongphan/lap-trinh-web-phai-phan-biet-duoc-session-va-cookie-2mi0)
-- [Reading Laravel](https://dev.to/bruno_beghelli_210b82ca3b/reading-laravel-2j7p)
-- [Effective Methods to Secure Your Online Store Against Cyber Threats](https://dev.to/jchristopher0033/effective-methods-to-secure-your-online-store-against-cyber-threats-457e)
-- [Developing IoT Applications with Raspberry Pi](https://dev.to/kartikmehta8/developing-iot-applications-with-raspberry-pi-53el)
+- [The loss functions for Neural Network in PyTorch](https://dev.to/hyperkai/the-loss-functions-for-neural-network-in-pytorch-hf9)
+- [Data Dynamics: Exploring Information Theory Essentials](https://dev.to/kevinbg012/data-dynamics-exploring-information-theory-essentials-1eoa)
+- [Building a Weather Application with OpenWeatherMap API](https://dev.to/kartikmehta8/building-a-weather-application-with-openweathermap-api-3ldh)
+- [Install PHP 8.3 and config Apache in Ubuntu 22.04](https://dev.to/automata/install-php-83-and-to-config-apache-in-ubuntu-2204-602)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
