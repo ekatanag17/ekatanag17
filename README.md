@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing Flexible and Extensible Software Systems with OOP](https://dev.to/muhammad_salem/designing-flexible-and-extensible-software-systems-with-oop-3a28)
-- [Advanced Networking Concepts with Cisco Packet Tracer](https://dev.to/kartikmehta8/advanced-networking-concepts-with-cisco-packet-tracer-35bc)
-- [[Help] [Telegram Bot] Can I get the user IP address with telegram bot?](https://dev.to/dev188007/help-telegram-bot-can-i-get-the-user-ip-address-with-telegram-bot-ke5)
-- [Why you didn&#39;t get that promotion](https://dev.to/gretchen/why-you-didnt-get-that-promotion-39el)
+- [Understanding Asynchronous JavaScript: Callbacks, Promises, and Async/Await](https://dev.to/buildwebcrumbs/understanding-asynchronous-javascript-callbacks-promises-and-asyncawait-cdc)
+- [Vue3 da &lpar; ref va reactive&rpar; farqi](https://dev.to/mukhriddinweb/vue3-da-ref-va-reactive-farqi-1bme)
+- [Exploring Advanced Features of TypeScript](https://dev.to/kartikmehta8/exploring-advanced-features-of-typescript-807)
+- [Building Flexible and Maintainable Go-Lang Apps](https://dev.to/dyaksaa_/building-flexible-and-maintainable-go-lang-apps-56kn)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
