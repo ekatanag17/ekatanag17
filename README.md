@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Asynchronous JavaScript: Callbacks, Promises, and Async/Await](https://dev.to/buildwebcrumbs/understanding-asynchronous-javascript-callbacks-promises-and-asyncawait-cdc)
-- [Vue3 da &lpar; ref va reactive&rpar; farqi](https://dev.to/mukhriddinweb/vue3-da-ref-va-reactive-farqi-1bme)
-- [Exploring Advanced Features of TypeScript](https://dev.to/kartikmehta8/exploring-advanced-features-of-typescript-807)
-- [Building Flexible and Maintainable Go-Lang Apps](https://dev.to/dyaksaa_/building-flexible-and-maintainable-go-lang-apps-56kn)
+- [Day6 of 100DaysOfJavaScript](https://dev.to/koichiarai/day6-of-100daysofjavascript-440o)
+- [Beating the Odds: The Mathematics Behind Casino Profits](https://dev.to/ezhillragesh/beating-the-odds-the-mathematics-behind-casino-profits-313o)
+- [Building Real-Time Applications with WebSockets and Reactive Streams](https://dev.to/tutorialq/building-real-time-applications-with-websockets-and-reactive-streams-1mo)
+- [CSS Container Queries:](https://dev.to/julianoalvescode/css-container-queries-44pm)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
