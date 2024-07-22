@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Day6 of 100DaysOfJavaScript](https://dev.to/koichiarai/day6-of-100daysofjavascript-440o)
-- [Beating the Odds: The Mathematics Behind Casino Profits](https://dev.to/ezhillragesh/beating-the-odds-the-mathematics-behind-casino-profits-313o)
-- [Building Real-Time Applications with WebSockets and Reactive Streams](https://dev.to/tutorialq/building-real-time-applications-with-websockets-and-reactive-streams-1mo)
-- [CSS Container Queries:](https://dev.to/julianoalvescode/css-container-queries-44pm)
+- [ChatGPT compared the memory usage with and without PHP generators for large datasets.](https://dev.to/saaberdev/chatgpt-explained-how-we-can-optimize-memory-usage-by-using-php-generators-for-large-datasets-4e5h)
+- [[Video] A Brief Introduction to Kafka &lpar;With Analogy&rpar;](https://dev.to/dishitdevasia/video-a-brief-introduction-to-kafka-with-analogy-1dc0)
+- [Increasing productivity by better managing multiple terminals in Emacs](https://dev.to/breno/increasing-productivity-by-better-managing-multiple-terminals-in-emacs-119c)
+- [Writing Efficient Python Code](https://dev.to/kartikmehta8/writing-efficient-python-code-582a)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
