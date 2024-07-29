@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT compared the memory usage with and without PHP generators for large datasets.](https://dev.to/saaberdev/chatgpt-explained-how-we-can-optimize-memory-usage-by-using-php-generators-for-large-datasets-4e5h)
-- [[Video] A Brief Introduction to Kafka &lpar;With Analogy&rpar;](https://dev.to/dishitdevasia/video-a-brief-introduction-to-kafka-with-analogy-1dc0)
-- [Increasing productivity by better managing multiple terminals in Emacs](https://dev.to/breno/increasing-productivity-by-better-managing-multiple-terminals-in-emacs-119c)
-- [Writing Efficient Python Code](https://dev.to/kartikmehta8/writing-efficient-python-code-582a)
+- [Keeping User-Uploaded Files Malware-Free: What’s Your Approach - Idea Validation](https://dev.to/areprabhu/keeping-user-uploaded-files-malware-free-whats-your-approach-idea-validation-37bj)
+- [Keeping User-Uploaded Files Malware-Free: What’s Your Approach - Idea Validation](https://dev.to/areprabhu/keeping-user-uploaded-files-malware-free-whats-your-approach-idea-validation-3nci)
+- [Princípios SOLID em GoLang - Liskov Substitution Principle &lpar;LSP&rpar;](https://dev.to/waliqueiroz/principios-solid-em-golang-liskov-substitution-principle-lsp-4a1)
+- [🧠 Comparing Human Brain Models and AI Parameters 🧠](https://dev.to/lakhera2015/comparing-human-brain-models-and-ai-parameters-33md)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
