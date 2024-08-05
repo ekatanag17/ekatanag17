@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Keeping User-Uploaded Files Malware-Free: What’s Your Approach - Idea Validation](https://dev.to/areprabhu/keeping-user-uploaded-files-malware-free-whats-your-approach-idea-validation-37bj)
-- [Keeping User-Uploaded Files Malware-Free: What’s Your Approach - Idea Validation](https://dev.to/areprabhu/keeping-user-uploaded-files-malware-free-whats-your-approach-idea-validation-3nci)
-- [Princípios SOLID em GoLang - Liskov Substitution Principle &lpar;LSP&rpar;](https://dev.to/waliqueiroz/principios-solid-em-golang-liskov-substitution-principle-lsp-4a1)
-- [🧠 Comparing Human Brain Models and AI Parameters 🧠](https://dev.to/lakhera2015/comparing-human-brain-models-and-ai-parameters-33md)
+- [How Proof of Concepts and Spikes Can Save Your Psyche](https://dev.to/sam_portelance/how-proof-of-concepts-and-spikes-can-save-your-psyche-2pp5)
+- [How to Submit an App on Google Play? Guide &amp; Checklist for Non-Developers](https://dev.to/koral/how-to-submit-an-app-on-google-play-guide-checklist-for-non-developers-5h77)
+- [Exploring Java&#39;s Stream API](https://dev.to/kartikmehta8/exploring-javas-stream-api-587m)
+- [The JavaScript Pre-Requisites for Seamless React Learning](https://dev.to/raju_dandigam/the-javascript-pre-requisites-for-seamless-react-learning-28g6)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
