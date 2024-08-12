@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [How Proof of Concepts and Spikes Can Save Your Psyche](https://dev.to/sam_portelance/how-proof-of-concepts-and-spikes-can-save-your-psyche-2pp5)
-- [How to Submit an App on Google Play? Guide &amp; Checklist for Non-Developers](https://dev.to/koral/how-to-submit-an-app-on-google-play-guide-checklist-for-non-developers-5h77)
-- [Exploring Java&#39;s Stream API](https://dev.to/kartikmehta8/exploring-javas-stream-api-587m)
-- [The JavaScript Pre-Requisites for Seamless React Learning](https://dev.to/raju_dandigam/the-javascript-pre-requisites-for-seamless-react-learning-28g6)
+- [Building an Efficient Jenkins + Docker + Vue Project Automated Deployment Environment](https://dev.to/zand/building-an-efficient-jenkins-docker-vue-project-automated-deployment-environment-2c0l)
+- [Test-Driven Development with Jest](https://dev.to/kartikmehta8/test-driven-development-with-jest-o12)
+- [Hello World!, Hello Dev!](https://dev.to/reezecodee/hello-world-hello-dev-1fo7)
+- [A Importância de Sistematizar a geração de Log nas Aplicações](https://dev.to/asouza/a-importancia-de-sistematizar-a-geracao-de-log-nas-aplicacoes-47o8)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
