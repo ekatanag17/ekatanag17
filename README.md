@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Efficient Jenkins + Docker + Vue Project Automated Deployment Environment](https://dev.to/zand/building-an-efficient-jenkins-docker-vue-project-automated-deployment-environment-2c0l)
-- [Test-Driven Development with Jest](https://dev.to/kartikmehta8/test-driven-development-with-jest-o12)
-- [Hello World!, Hello Dev!](https://dev.to/reezecodee/hello-world-hello-dev-1fo7)
-- [A Importância de Sistematizar a geração de Log nas Aplicações](https://dev.to/asouza/a-importancia-de-sistematizar-a-geracao-de-log-nas-aplicacoes-47o8)
+- [Git: Keeping your email safe in public repositories](https://dev.to/bad-logic/git-keeping-your-email-safe-in-public-repositories-16cg)
+- [Como hice dinero &lpar;USD 2.500&rpar; con Telegram en Chile](https://dev.to/ocarmora/como-hice-dinero-usd-2500-con-telegram-en-chile-4db4)
+- [One World Raise Center: decentralised fundraising with Stellar and Soroban](https://dev.to/stentorian-studio/one-world-raise-center-decentralised-fundraising-with-stellar-and-soroban-3kpk)
+- [Solusi MySQL 8.0 Error Cannot Start](https://dev.to/dhimaskirana/solusi-mysql-80-error-cannot-start-38jf)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
