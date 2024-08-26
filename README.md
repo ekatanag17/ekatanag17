@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Git: Keeping your email safe in public repositories](https://dev.to/bad-logic/git-keeping-your-email-safe-in-public-repositories-16cg)
-- [Como hice dinero &lpar;USD 2.500&rpar; con Telegram en Chile](https://dev.to/ocarmora/como-hice-dinero-usd-2500-con-telegram-en-chile-4db4)
-- [One World Raise Center: decentralised fundraising with Stellar and Soroban](https://dev.to/stentorian-studio/one-world-raise-center-decentralised-fundraising-with-stellar-and-soroban-3kpk)
-- [Solusi MySQL 8.0 Error Cannot Start](https://dev.to/dhimaskirana/solusi-mysql-80-error-cannot-start-38jf)
+- [Day 55 / 100 Days of Code: Exploring JavaScript Control Flow](https://dev.to/jacobsternx/day-55-100-days-of-code-exploring-javascript-control-flow-5g2g)
+- [Essential Monitoring Tools and Metrics for backend service health](https://dev.to/shieldstring/essential-monitoring-tools-and-metrics-for-backend-service-health-5bii)
+- [Simple Elegant Image Loader](https://dev.to/acronimax/simple-elegant-image-loader-4dl0)
+- [Learn How to Master Shell Scripting with GitHub API, Git Essentials, and AWS EC2 Deployment](https://dev.to/sharjil/mastering-shell-scripting-with-github-api-git-essentials-and-aws-ec2-deployment-44ne)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
