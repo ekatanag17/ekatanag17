@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 55 / 100 Days of Code: Exploring JavaScript Control Flow](https://dev.to/jacobsternx/day-55-100-days-of-code-exploring-javascript-control-flow-5g2g)
-- [Essential Monitoring Tools and Metrics for backend service health](https://dev.to/shieldstring/essential-monitoring-tools-and-metrics-for-backend-service-health-5bii)
-- [Simple Elegant Image Loader](https://dev.to/acronimax/simple-elegant-image-loader-4dl0)
-- [Learn How to Master Shell Scripting with GitHub API, Git Essentials, and AWS EC2 Deployment](https://dev.to/sharjil/mastering-shell-scripting-with-github-api-git-essentials-and-aws-ec2-deployment-44ne)
+- [The Singleton Pattern in C#: Why It’s a Classic Choice](https://dev.to/dazevedo/the-singleton-pattern-in-c-why-its-a-classic-choice-4cfl)
+- [Implementing a Visitor Counter on Azure Resume Challenge](https://dev.to/oluwatobi2001/implementing-a-visitor-counter-on-azure-resume-challenge-2i63)
+- [LocalStorage, SessionStorage e Cookies: Como funcionam e quando usar cada um](https://dev.to/gguife/localstorage-sessionstorage-e-cookies-como-funcionam-e-quando-utiliza-los-51fp)
+- [Why Design Patterns Matter in C# Development](https://dev.to/dazevedo/why-design-patterns-matter-in-c-development-2kp)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
