@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [The Singleton Pattern in C#: Why It’s a Classic Choice](https://dev.to/dazevedo/the-singleton-pattern-in-c-why-its-a-classic-choice-4cfl)
-- [Implementing a Visitor Counter on Azure Resume Challenge](https://dev.to/oluwatobi2001/implementing-a-visitor-counter-on-azure-resume-challenge-2i63)
-- [LocalStorage, SessionStorage e Cookies: Como funcionam e quando usar cada um](https://dev.to/gguife/localstorage-sessionstorage-e-cookies-como-funcionam-e-quando-utiliza-los-51fp)
-- [Why Design Patterns Matter in C# Development](https://dev.to/dazevedo/why-design-patterns-matter-in-c-development-2kp)
+- [Building Single Page Applications with Svelte](https://dev.to/kartikmehta8/building-single-page-applications-with-svelte-406j)
+- [Topic : Error Handling &amp; Debugging in Node.js 🔧🐛](https://dev.to/erasmuskotoka/topic-error-handling-debugging-in-nodejs-40e4)
+- [The Benchmarking Puzzle](https://dev.to/ocodista/the-benchmarking-puzzle-gbg)
+- [System Design - Uma introdução](https://dev.to/rodolfostark/system-design-uma-introducao-5469)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
