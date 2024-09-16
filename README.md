@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Single Page Applications with Svelte](https://dev.to/kartikmehta8/building-single-page-applications-with-svelte-406j)
-- [Topic : Error Handling &amp; Debugging in Node.js 🔧🐛](https://dev.to/erasmuskotoka/topic-error-handling-debugging-in-nodejs-40e4)
-- [The Benchmarking Puzzle](https://dev.to/ocodista/the-benchmarking-puzzle-gbg)
-- [System Design - Uma introdução](https://dev.to/rodolfostark/system-design-uma-introducao-5469)
+- [Django project with Docker and Kubernetes](https://dev.to/mrcaption49/django-project-with-docker-and-kubernetes-45o0)
+- [Symfony Station Communiqué - 13 September 2024. Your look at Symfony, Drupal, PHP, and programming news!](https://dev.to/reubenwalker64/symfony-station-communique-13-september-2024-your-look-at-symfony-drupal-php-and-programming-news-53eh)
+- [Useful commands for Helm](https://dev.to/raulnq/useful-commands-for-helm-41bg)
+- [Introduction to Next.js API Routes](https://dev.to/kartikmehta8/introduction-to-nextjs-api-routes-372)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
