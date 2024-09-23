@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Django project with Docker and Kubernetes](https://dev.to/mrcaption49/django-project-with-docker-and-kubernetes-45o0)
-- [Symfony Station Communiqué - 13 September 2024. Your look at Symfony, Drupal, PHP, and programming news!](https://dev.to/reubenwalker64/symfony-station-communique-13-september-2024-your-look-at-symfony-drupal-php-and-programming-news-53eh)
-- [Useful commands for Helm](https://dev.to/raulnq/useful-commands-for-helm-41bg)
-- [Introduction to Next.js API Routes](https://dev.to/kartikmehta8/introduction-to-nextjs-api-routes-372)
+- [Understanding Binary and Hexadecimal Numbers](https://dev.to/elen_voskanyan/understanding-binary-and-hexadecimal-numbers-hm5)
+- [How to create a Next.js PDF viewer to display PDFs from Azure Blob Storage](https://dev.to/stars_563bd77ba249f0b1f84/how-to-create-a-nextjs-pdf-viewer-to-display-pdfs-from-azure-blob-storage-1p3d)
+- [Building Web Applications with ASP.NET Core](https://dev.to/kartikmehta8/building-web-applications-with-aspnet-core-4d6h)
+- [Understanding State and Props in React 💻🌱](https://dev.to/anikakash/understanding-state-and-props-in-react-5b9j)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
