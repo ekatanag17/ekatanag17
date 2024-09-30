@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Binary and Hexadecimal Numbers](https://dev.to/elen_voskanyan/understanding-binary-and-hexadecimal-numbers-hm5)
-- [How to create a Next.js PDF viewer to display PDFs from Azure Blob Storage](https://dev.to/stars_563bd77ba249f0b1f84/how-to-create-a-nextjs-pdf-viewer-to-display-pdfs-from-azure-blob-storage-1p3d)
-- [Building Web Applications with ASP.NET Core](https://dev.to/kartikmehta8/building-web-applications-with-aspnet-core-4d6h)
-- [Understanding State and Props in React 💻🌱](https://dev.to/anikakash/understanding-state-and-props-in-react-5b9j)
+- [Serverless Cloud Pizzeria Shop](https://dev.to/rdarrylr/serverless-cloud-pizzeria-shop-539c)
+- [Triggering email in DataPower using SMTP server](https://dev.to/aditya_singh001/triggering-email-in-datapower-using-smtp-server-1p04)
+- [Building Real-Time Dashboards with Node.js](https://dev.to/kartikmehta8/building-real-time-dashboards-with-nodejs-5eoe)
+- [The Reality of Balancing Pregnancy in Developer Relations](https://dev.to/blackgirlbytes/the-reality-of-balancing-pregnancy-in-developer-relations-2anp)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
