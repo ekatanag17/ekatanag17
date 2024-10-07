@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Serverless Cloud Pizzeria Shop](https://dev.to/rdarrylr/serverless-cloud-pizzeria-shop-539c)
-- [Triggering email in DataPower using SMTP server](https://dev.to/aditya_singh001/triggering-email-in-datapower-using-smtp-server-1p04)
-- [Building Real-Time Dashboards with Node.js](https://dev.to/kartikmehta8/building-real-time-dashboards-with-nodejs-5eoe)
-- [The Reality of Balancing Pregnancy in Developer Relations](https://dev.to/blackgirlbytes/the-reality-of-balancing-pregnancy-in-developer-relations-2anp)
+- [3D Earth Visualization with Three.js: A GitHub-Inspired Approach](https://dev.to/chriisduran/3d-earth-visualization-with-threejs-a-github-inspired-approach-2jj9)
+- [SPO Week 3.1 - full lab](https://dev.to/krinskumar/spo-week-31-full-lab-2c83)
+- [SPO Week 2.2 - lab completed](https://dev.to/krinskumar/spo-week-22-lab-completed-5858)
+- [Choosing the Right Primary Key for the Database](https://dev.to/afiqiqmal/choosing-the-right-primary-key-for-the-database-3efd)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
