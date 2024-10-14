@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [3D Earth Visualization with Three.js: A GitHub-Inspired Approach](https://dev.to/chriisduran/3d-earth-visualization-with-threejs-a-github-inspired-approach-2jj9)
-- [SPO Week 3.1 - full lab](https://dev.to/krinskumar/spo-week-31-full-lab-2c83)
-- [SPO Week 2.2 - lab completed](https://dev.to/krinskumar/spo-week-22-lab-completed-5858)
-- [Choosing the Right Primary Key for the Database](https://dev.to/afiqiqmal/choosing-the-right-primary-key-for-the-database-3efd)
+- [What is Web Service](https://dev.to/gliimly/what-is-web-service-2d1k)
+- [Building an 🐝 OpenAI SWARM 🔍 Web Scraping and Content Analysis Streamlit Web App with 👥 Multi-Agent Systems](https://dev.to/jadouse5/building-an-openai-swarm-web-scraping-and-content-analysis-streamlit-web-app-with-multi-agent-systems-bl0)
+- [Key Cloud Computing Terms for Beginners](https://dev.to/gervaisamoah/key-cloud-computing-terms-for-beginners-3eln)
+- [Live_iy &lpar;Bring your static portraits to life&rpar;](https://dev.to/sarahokolo/liveiy-bring-your-static-portraits-to-life-39lc)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
