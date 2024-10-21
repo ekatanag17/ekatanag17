@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Web Service](https://dev.to/gliimly/what-is-web-service-2d1k)
-- [Building an 🐝 OpenAI SWARM 🔍 Web Scraping and Content Analysis Streamlit Web App with 👥 Multi-Agent Systems](https://dev.to/jadouse5/building-an-openai-swarm-web-scraping-and-content-analysis-streamlit-web-app-with-multi-agent-systems-bl0)
-- [Key Cloud Computing Terms for Beginners](https://dev.to/gervaisamoah/key-cloud-computing-terms-for-beginners-3eln)
-- [Live_iy &lpar;Bring your static portraits to life&rpar;](https://dev.to/sarahokolo/liveiy-bring-your-static-portraits-to-life-39lc)
+- [Cross-Posting and Portfolio Project Update: Optimizing API Calls and Implementing Best Practices](https://dev.to/jesse_chong_3bcc276c4f950/cross-posting-and-portfolio-project-update-optimizing-api-calls-and-implementing-best-practices-4c0c)
+- [Using workers in electron.js vite &lpar;typescript&rpar;&lpar;quick write up&rpar;](https://dev.to/danijelenoch/using-workers-in-electronjs-vite-typescriptquick-write-up-4f99)
+- [Introducing EnviroX: Your Go-To Dev Environment Setup Tool! 🛠️](https://dev.to/neelp03/introducing-envirox-your-go-to-dev-environment-setup-tool-281p)
+- [Building Mobile Games with Phaser](https://dev.to/kartikmehta8/building-mobile-games-with-phaser-5gmc)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
