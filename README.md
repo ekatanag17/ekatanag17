@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross-Posting and Portfolio Project Update: Optimizing API Calls and Implementing Best Practices](https://dev.to/jesse_chong_3bcc276c4f950/cross-posting-and-portfolio-project-update-optimizing-api-calls-and-implementing-best-practices-4c0c)
-- [Using workers in electron.js vite &lpar;typescript&rpar;&lpar;quick write up&rpar;](https://dev.to/danijelenoch/using-workers-in-electronjs-vite-typescriptquick-write-up-4f99)
-- [Introducing EnviroX: Your Go-To Dev Environment Setup Tool! 🛠️](https://dev.to/neelp03/introducing-envirox-your-go-to-dev-environment-setup-tool-281p)
-- [Building Mobile Games with Phaser](https://dev.to/kartikmehta8/building-mobile-games-with-phaser-5gmc)
+- [Adding a Signup Feature in Login Page &lpar;Issue #96&rpar;](https://dev.to/inderpreet/adding-a-signup-feature-in-login-page-issue-96-1ep9)
+- [&quot;Computer Use&quot; for UAT](https://dev.to/sualeh/computer-use-for-uat-4dkd)
+- [Spring Boot Annotations](https://dev.to/dhan/spring-boot-annotations-5hk0)
+- [How I Built a Music Lyric Finder App with CopilotKit and Next.js: A Step-by-Step Guide](https://dev.to/anni/how-i-built-a-music-lyric-finder-app-with-copilotkit-and-nextjs-a-step-by-step-guide-4k14)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
