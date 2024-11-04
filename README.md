@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Adding a Signup Feature in Login Page &lpar;Issue #96&rpar;](https://dev.to/inderpreet/adding-a-signup-feature-in-login-page-issue-96-1ep9)
-- [&quot;Computer Use&quot; for UAT](https://dev.to/sualeh/computer-use-for-uat-4dkd)
-- [Spring Boot Annotations](https://dev.to/dhan/spring-boot-annotations-5hk0)
-- [How I Built a Music Lyric Finder App with CopilotKit and Next.js: A Step-by-Step Guide](https://dev.to/anni/how-i-built-a-music-lyric-finder-app-with-copilotkit-and-nextjs-a-step-by-step-guide-4k14)
+- [Average Reads and &quot;Do It Anyway&quot;](https://dev.to/haleyelder/average-reads-and-do-it-anyway-e0)
+- [How to Improve Development Efficiency Through Automated API Testing](https://dev.to/cloudtestify/how-to-improve-development-efficiency-through-automated-api-testing-cml)
+- [Noob here](https://dev.to/fazeena_asmi_/noob-here-2mnm)
+- [Decoding 1D/2D Barcodes from Multi-Page PDFs Using C++ and Node.js](https://dev.to/yushulx/decoding-1d2d-barcodes-from-multi-page-pdfs-using-c-and-nodejs-4376)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
