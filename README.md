@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Average Reads and &quot;Do It Anyway&quot;](https://dev.to/haleyelder/average-reads-and-do-it-anyway-e0)
-- [How to Improve Development Efficiency Through Automated API Testing](https://dev.to/cloudtestify/how-to-improve-development-efficiency-through-automated-api-testing-cml)
-- [Noob here](https://dev.to/fazeena_asmi_/noob-here-2mnm)
-- [Decoding 1D/2D Barcodes from Multi-Page PDFs Using C++ and Node.js](https://dev.to/yushulx/decoding-1d2d-barcodes-from-multi-page-pdfs-using-c-and-nodejs-4376)
+- [高并发IPC通信实现：HarmonyOS中的异步调用与多线程处理](https://dev.to/xun_wang_6384a403f9817c2/gao-bing-fa-ipctong-xin-shi-xian-harmonyoszhong-de-yi-bu-diao-yong-yu-duo-xian-cheng-chu-li-2eb4)
+- [HarmonyOS IPC Kit Advanced: Basic Communication between Client and Server](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-ipc-kit-advanced-basic-communication-between-client-and-server-5c9m)
+- [FilmGuru: Your AI-Powered Movie Companion 🎬](https://dev.to/chijioke_osadebe_c6d2e7f7/filmguru-your-ai-powered-movie-companion-1p94)
+- [5 Essential JavaScript Methods Every Beginner Should Know](https://dev.to/boniface_gordian/5-essential-javascript-methods-every-beginner-should-know-4p7f)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
