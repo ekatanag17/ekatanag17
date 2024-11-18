@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [高并发IPC通信实现：HarmonyOS中的异步调用与多线程处理](https://dev.to/xun_wang_6384a403f9817c2/gao-bing-fa-ipctong-xin-shi-xian-harmonyoszhong-de-yi-bu-diao-yong-yu-duo-xian-cheng-chu-li-2eb4)
-- [HarmonyOS IPC Kit Advanced: Basic Communication between Client and Server](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-ipc-kit-advanced-basic-communication-between-client-and-server-5c9m)
-- [FilmGuru: Your AI-Powered Movie Companion 🎬](https://dev.to/chijioke_osadebe_c6d2e7f7/filmguru-your-ai-powered-movie-companion-1p94)
-- [5 Essential JavaScript Methods Every Beginner Should Know](https://dev.to/boniface_gordian/5-essential-javascript-methods-every-beginner-should-know-4p7f)
+- [iOS String to Kotlin ByteArray Performance Analysis](https://dev.to/arsenikavalchuk/ios-string-to-kotlin-bytearray-performance-analysis-4edi)
+- [The World of HarmonyOS Programming: Advantages of Asynchronous Programming and the Application of Promise](https://dev.to/xun_wang_6384a403f9817c2/the-world-of-harmonyos-programming-advantages-of-asynchronous-programming-and-the-application-of-3dh3)
+- [Capítulo 3 - Almacenamiento y Acceso a Datos](https://dev.to/pabloar/capitulo-3-almacenamiento-y-acceso-a-datos-84d)
+- [鸿蒙编程江湖：异步编程的优势及 Promise的应用](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-bian-cheng-jiang-hu-yi-bu-bian-cheng-de-you-shi-ji-promisede-ying-yong-4pkp)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
