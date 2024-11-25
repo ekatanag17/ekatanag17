@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [iOS String to Kotlin ByteArray Performance Analysis](https://dev.to/arsenikavalchuk/ios-string-to-kotlin-bytearray-performance-analysis-4edi)
-- [The World of HarmonyOS Programming: Advantages of Asynchronous Programming and the Application of Promise](https://dev.to/xun_wang_6384a403f9817c2/the-world-of-harmonyos-programming-advantages-of-asynchronous-programming-and-the-application-of-3dh3)
-- [Capítulo 3 - Almacenamiento y Acceso a Datos](https://dev.to/pabloar/capitulo-3-almacenamiento-y-acceso-a-datos-84d)
-- [鸿蒙编程江湖：异步编程的优势及 Promise的应用](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-bian-cheng-jiang-hu-yi-bu-bian-cheng-de-you-shi-ji-promisede-ying-yong-4pkp)
+- [Builting Automated Deployment for a Flask API Using GitHub Actions](https://dev.to/nirav_acharya_27743a61a33/builting-automated-deployment-for-a-flask-api-using-github-actions-b3c)
+- [Exploring AutoAPI: An Automation Tool to Simplify Frontend Development](https://dev.to/sxq/exploring-autoapi-an-automation-tool-to-simplify-frontend-development-1o9p)
+- [ArkWeb Page Loading and Browsing History Navigation - Basic Operations](https://dev.to/xun_wang_6384a403f9817c2/arkweb-page-loading-and-browsing-history-navigation-basic-operations-292i)
+- [The AI Hand Conundrum: Why Generative Models Struggle with Human Hands](https://dev.to/evanmarie/the-ai-hand-conundrum-why-generative-models-struggle-with-human-hands-21ib)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
