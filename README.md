@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Builting Automated Deployment for a Flask API Using GitHub Actions](https://dev.to/nirav_acharya_27743a61a33/builting-automated-deployment-for-a-flask-api-using-github-actions-b3c)
-- [Exploring AutoAPI: An Automation Tool to Simplify Frontend Development](https://dev.to/sxq/exploring-autoapi-an-automation-tool-to-simplify-frontend-development-1o9p)
-- [ArkWeb Page Loading and Browsing History Navigation - Basic Operations](https://dev.to/xun_wang_6384a403f9817c2/arkweb-page-loading-and-browsing-history-navigation-basic-operations-292i)
-- [The AI Hand Conundrum: Why Generative Models Struggle with Human Hands](https://dev.to/evanmarie/the-ai-hand-conundrum-why-generative-models-struggle-with-human-hands-21ib)
+- [OSD Final Chapter: Part 2](https://dev.to/amullagaliev/osd-final-chapter-part-2-584a)
+- [HarmonyOS Next Key Asset Storage Development: Performance Optimization and Precautions](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-key-asset-storage-development-performance-optimization-and-precautions-3f29)
+- [Building a Flutter VIN Scanner for Windows Using Dynamsoft Capture Vision C++ SDK](https://dev.to/yushulx/building-a-flutter-vin-scanner-for-windows-using-dynamsoft-capture-vision-c-sdk-4n18)
+- [HarmonyOS Next关键资产存储开发：性能优化与注意事项](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-nextguan-jian-zi-chan-cun-chu-kai-fa-xing-neng-you-hua-yu-zhu-yi-shi-xiang-559f)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
