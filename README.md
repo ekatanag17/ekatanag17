@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [OSD Final Chapter: Part 2](https://dev.to/amullagaliev/osd-final-chapter-part-2-584a)
-- [HarmonyOS Next Key Asset Storage Development: Performance Optimization and Precautions](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-key-asset-storage-development-performance-optimization-and-precautions-3f29)
-- [Building a Flutter VIN Scanner for Windows Using Dynamsoft Capture Vision C++ SDK](https://dev.to/yushulx/building-a-flutter-vin-scanner-for-windows-using-dynamsoft-capture-vision-c-sdk-4n18)
-- [HarmonyOS Next关键资产存储开发：性能优化与注意事项](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-nextguan-jian-zi-chan-cun-chu-kai-fa-xing-neng-you-hua-yu-zhu-yi-shi-xiang-559f)
+- [Simple prompt 2x latent upscaled FLUX — Fine Tuning / DreamBooth Images — Can be trained on as low as 6 GB GPUs](https://dev.to/furkangozukara/simple-prompt-2x-latent-upscaled-flux-fine-tuning-dreambooth-images-can-be-trained-on-as-low-4m7)
+- [Financial Post Mortem For The Commit Your Code Conference](https://dev.to/dthompsondev/financial-post-mortem-for-the-commit-your-code-conference-57of)
+- [DxDiag Windows 11 – What is it &amp; How to use it for Troubleshooting?](https://dev.to/winsides/dxdiag-windows-11-what-is-it-how-to-use-it-for-troubleshooting-48d0)
+- [The Future of Web Apps — “Offline-First” and “Peer-to-Peer” Design](https://dev.to/yujin/the-future-of-web-apps-offline-first-and-peer-to-peer-design-4nj2)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
