@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple prompt 2x latent upscaled FLUX — Fine Tuning / DreamBooth Images — Can be trained on as low as 6 GB GPUs](https://dev.to/furkangozukara/simple-prompt-2x-latent-upscaled-flux-fine-tuning-dreambooth-images-can-be-trained-on-as-low-4m7)
-- [Financial Post Mortem For The Commit Your Code Conference](https://dev.to/dthompsondev/financial-post-mortem-for-the-commit-your-code-conference-57of)
-- [DxDiag Windows 11 – What is it &amp; How to use it for Troubleshooting?](https://dev.to/winsides/dxdiag-windows-11-what-is-it-how-to-use-it-for-troubleshooting-48d0)
-- [The Future of Web Apps — “Offline-First” and “Peer-to-Peer” Design](https://dev.to/yujin/the-future-of-web-apps-offline-first-and-peer-to-peer-design-4nj2)
+- [Understanding the CAP Theorem Through a Hands-On Simulation in Golang](https://dev.to/tmwakalasya/understanding-the-cap-theorem-through-a-hands-on-simulation-in-golang-372h)
+- [The Forgotten Art of Enjoying Testing](https://dev.to/anil_csimplifyit_905c/the-forgotten-art-of-enjoying-testing-52i6)
+- [Breeding Practices and Their Impact on Teacup Yorkie Health](https://dev.to/colondavid3/breeding-practices-and-their-impact-on-teacup-yorkie-health-31lb)
+- [How Spring Boot and LangChain4J Enable Powerful Retrieval-Augmented Generation &lpar;RAG&rpar;](https://dev.to/dioarafi/how-spring-boot-and-langchain4j-enable-powerful-retrieval-augmented-generation-rag-31j7)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
