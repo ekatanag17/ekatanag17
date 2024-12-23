@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the CAP Theorem Through a Hands-On Simulation in Golang](https://dev.to/tmwakalasya/understanding-the-cap-theorem-through-a-hands-on-simulation-in-golang-372h)
-- [The Forgotten Art of Enjoying Testing](https://dev.to/anil_csimplifyit_905c/the-forgotten-art-of-enjoying-testing-52i6)
-- [Breeding Practices and Their Impact on Teacup Yorkie Health](https://dev.to/colondavid3/breeding-practices-and-their-impact-on-teacup-yorkie-health-31lb)
-- [How Spring Boot and LangChain4J Enable Powerful Retrieval-Augmented Generation &lpar;RAG&rpar;](https://dev.to/dioarafi/how-spring-boot-and-langchain4j-enable-powerful-retrieval-augmented-generation-rag-31j7)
+- [鸿蒙Next ArkTS语法适配背景概述](https://dev.to/freerain9/hong-meng-next-arktsyu-fa-gua-pei-bei-jing-gai-shu-168b)
+- [Python Tutorial - 3 Data Structure](https://dev.to/nadirbasalamah/python-tutorial-3-data-structure-567a)
+- [Data types in python](https://dev.to/aadarsh_ancha_bba80fa9cdf/data-types-in-python-451o)
+- [Rails View Helpers for Components](https://dev.to/naofumik/rails-view-helpers-for-components-481c)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
