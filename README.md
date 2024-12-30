@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [鸿蒙Next ArkTS语法适配背景概述](https://dev.to/freerain9/hong-meng-next-arktsyu-fa-gua-pei-bei-jing-gai-shu-168b)
-- [Python Tutorial - 3 Data Structure](https://dev.to/nadirbasalamah/python-tutorial-3-data-structure-567a)
-- [Data types in python](https://dev.to/aadarsh_ancha_bba80fa9cdf/data-types-in-python-451o)
-- [Rails View Helpers for Components](https://dev.to/naofumik/rails-view-helpers-for-components-481c)
+- [Will Your Marketing Email End Up in Spam? We Built a Tool to Find Out](https://dev.to/leapcell/will-your-marketing-email-end-up-in-spam-we-built-a-tool-to-find-out-4om4)
+- [Enhancing Event Listener Reusability in JavaScript](https://dev.to/aubreywhitford/enhancing-event-listener-reusability-in-javascript-1dpb)
+- [2024: Career Review](https://dev.to/raymathewdeveloper/2024-career-review-1p4)
+- [Building a Privacy-First Coding Activity Tracker for VS Code](https://dev.to/ernivani/building-a-privacy-first-coding-activity-tracker-for-vs-code-15g)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
