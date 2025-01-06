@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Will Your Marketing Email End Up in Spam? We Built a Tool to Find Out](https://dev.to/leapcell/will-your-marketing-email-end-up-in-spam-we-built-a-tool-to-find-out-4om4)
-- [Enhancing Event Listener Reusability in JavaScript](https://dev.to/aubreywhitford/enhancing-event-listener-reusability-in-javascript-1dpb)
-- [2024: Career Review](https://dev.to/raymathewdeveloper/2024-career-review-1p4)
-- [Building a Privacy-First Coding Activity Tracker for VS Code](https://dev.to/ernivani/building-a-privacy-first-coding-activity-tracker-for-vs-code-15g)
+- [Inheritance and Polymorphism in Java: Using Superclasses and Subclasses](https://dev.to/alex_ricciardi/inheritance-and-polymorphism-in-java-using-superclasses-and-subclasses-12jn)
+- [Best Dev Stacks to Learn in 2025](https://dev.to/holasoymalva/best-dev-stacks-to-learn-in-2025-2l6a)
+- [The Art of Programming: Beyond Code and Logic](https://dev.to/holasoymalva/the-art-of-programming-beyond-code-and-logic-4j45)
+- [Predicting 2025: A vision into future computing](https://dev.to/extinctsion/predicting-2025-a-vision-into-future-computing-19fl)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
