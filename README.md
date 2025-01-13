@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Inheritance and Polymorphism in Java: Using Superclasses and Subclasses](https://dev.to/alex_ricciardi/inheritance-and-polymorphism-in-java-using-superclasses-and-subclasses-12jn)
-- [Best Dev Stacks to Learn in 2025](https://dev.to/holasoymalva/best-dev-stacks-to-learn-in-2025-2l6a)
-- [The Art of Programming: Beyond Code and Logic](https://dev.to/holasoymalva/the-art-of-programming-beyond-code-and-logic-4j45)
-- [Predicting 2025: A vision into future computing](https://dev.to/extinctsion/predicting-2025-a-vision-into-future-computing-19fl)
+- [Cómo AWS Snow está transformando el edge computing: Historias de clientes](https://dev.to/briansuarezsantiago/como-aws-snow-esta-transformando-el-edge-computing-historias-de-clientes-5bif)
+- [6 Advanced Python Techniques for Efficient Text Processing and Analysis](https://dev.to/aaravjoshi/6-advanced-python-techniques-for-efficient-text-processing-and-analysis-1cg2)
+- [What is Blockchain?](https://dev.to/jamesbright/what-is-blockchain-2bfh)
+- [The Journey of Managing My First Open Source](https://dev.to/technoph1le/the-journey-of-managing-my-first-open-source-1a7l)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
