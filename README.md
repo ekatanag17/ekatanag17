@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Revolution: An Engineer&#39;s Perspective - Is Coding Still Relevant in the Age of AI?](https://dev.to/bazengdev/the-ai-revolution-an-engineers-perspective-is-coding-still-relevant-in-the-age-of-ai-4c8g)
-- [Distributed Validation: The Emergence of Truth in Network Consensus](https://dev.to/d1d4c/distributed-validation-the-emergence-of-truth-in-network-consensus-4cpf)
-- [Using cURL Inside a Docker Container](https://dev.to/box_protection/using-curl-inside-a-docker-container-302m)
-- [Testing is Believing: The Foundation of Trust in Software Quality](https://dev.to/anil_csimplifyit_905c/testing-is-believing-the-foundation-of-trust-in-software-quality-eao)
+- [How to setup Nomba checkout on Woocommerce](https://dev.to/nomba-financial-service/how-to-setup-nomba-checkout-on-woocommerce-4o05)
+- [Building a Command Line Physics Calculations Application with an IIFE Module Pattern](https://dev.to/chukwuma1976/building-a-command-line-physics-calculations-application-with-an-iife-module-pattern-dbk)
+- [Deep Research in Few Minutes with Agent.ai](https://dev.to/ifihan/deep-research-in-few-minutes-with-agentai-163f)
+- [Starting My Programming Journey: Learning Python and Building the Future!](https://dev.to/najm_dine454/starting-my-programming-journey-learning-python-and-building-the-future-j05)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
