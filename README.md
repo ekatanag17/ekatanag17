@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [How to setup Nomba checkout on Woocommerce](https://dev.to/nomba-financial-service/how-to-setup-nomba-checkout-on-woocommerce-4o05)
-- [Building a Command Line Physics Calculations Application with an IIFE Module Pattern](https://dev.to/chukwuma1976/building-a-command-line-physics-calculations-application-with-an-iife-module-pattern-dbk)
-- [Deep Research in Few Minutes with Agent.ai](https://dev.to/ifihan/deep-research-in-few-minutes-with-agentai-163f)
-- [Starting My Programming Journey: Learning Python and Building the Future!](https://dev.to/najm_dine454/starting-my-programming-journey-learning-python-and-building-the-future-j05)
+- [Untitled](https://dev.to/matiasprestesinformatica/untitled-23jg)
+- [📰 Ransomware attack hit Indian multinational Tata Technologies](https://dev.to/d_thiranjaya_6d3ec4552111/ransomware-attack-hit-indian-multinational-tata-technologies-38eg)
+- [Mastering TCPDump &amp; Python for Ethical Hacking: Network Packet Analysis](https://dev.to/sebos/mastering-tcpdump-python-for-ethical-hacking-network-packet-analysis-2945)
+- [SPO600: Lab 1 - Challenges](https://dev.to/amullagaliev/spo-lab-1-challenges-5bfa)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
