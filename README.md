@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Untitled](https://dev.to/matiasprestesinformatica/untitled-23jg)
-- [📰 Ransomware attack hit Indian multinational Tata Technologies](https://dev.to/d_thiranjaya_6d3ec4552111/ransomware-attack-hit-indian-multinational-tata-technologies-38eg)
-- [Mastering TCPDump &amp; Python for Ethical Hacking: Network Packet Analysis](https://dev.to/sebos/mastering-tcpdump-python-for-ethical-hacking-network-packet-analysis-2945)
-- [SPO600: Lab 1 - Challenges](https://dev.to/amullagaliev/spo-lab-1-challenges-5bfa)
+- [📰 Massive 7.6 magnitude earthquake rattles Caribbean, tsunami advisory issued](https://dev.to/d_thiranjaya_6d3ec4552111/massive-76-magnitude-earthquake-rattles-caribbean-tsunami-advisory-issued-1d24)
+- [Live Syncing to a Git Repository with a VS Code Extension](https://dev.to/bwfiq/live-syncing-to-a-git-repository-with-a-vs-code-extension-3p8m)
+- [In-Depth Tutorial: Multitable Queries &lpar;Joins&rpar; with Codes With Pankaj](https://dev.to/codeswithpankaj/in-depth-tutorial-multitable-queries-joins-with-codes-with-pankaj-2c8o)
+- [Using a Directed Acyclic Graph algorithm to predict productivity](https://dev.to/klaftech/using-a-directed-acyclic-graph-algorithm-to-predict-productivity-kkp)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
