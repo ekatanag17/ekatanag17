@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [📰 Massive 7.6 magnitude earthquake rattles Caribbean, tsunami advisory issued](https://dev.to/d_thiranjaya_6d3ec4552111/massive-76-magnitude-earthquake-rattles-caribbean-tsunami-advisory-issued-1d24)
-- [Live Syncing to a Git Repository with a VS Code Extension](https://dev.to/bwfiq/live-syncing-to-a-git-repository-with-a-vs-code-extension-3p8m)
-- [In-Depth Tutorial: Multitable Queries &lpar;Joins&rpar; with Codes With Pankaj](https://dev.to/codeswithpankaj/in-depth-tutorial-multitable-queries-joins-with-codes-with-pankaj-2c8o)
-- [Using a Directed Acyclic Graph algorithm to predict productivity](https://dev.to/klaftech/using-a-directed-acyclic-graph-algorithm-to-predict-productivity-kkp)
+- [🚀 Testing Strategies: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/testing-strategies-essential-tips-and-tricks-for-developers-h2f)
+- [Share authentication cookies between ASP.NET 4.x and ASP.NET Core](https://dev.to/roicp/share-authentication-cookies-between-aspnet-4x-and-aspnet-core-47gj)
+- [Always keep this hacking technique in mind](https://dev.to/blue_byte/always-keep-this-hacking-technique-in-mind-4mi0)
+- [Optimizing Amazon CloudWatch Costs for High-Traffic Lambda Functions with Advanced Logging Controls](https://dev.to/matheusdasmerces/optimizing-amazon-cloudwatch-costs-for-high-traffic-lambda-functions-with-advanced-logging-controls-5406)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
