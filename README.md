@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Testing Strategies: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/testing-strategies-essential-tips-and-tricks-for-developers-h2f)
-- [Share authentication cookies between ASP.NET 4.x and ASP.NET Core](https://dev.to/roicp/share-authentication-cookies-between-aspnet-4x-and-aspnet-core-47gj)
-- [Always keep this hacking technique in mind](https://dev.to/blue_byte/always-keep-this-hacking-technique-in-mind-4mi0)
-- [Optimizing Amazon CloudWatch Costs for High-Traffic Lambda Functions with Advanced Logging Controls](https://dev.to/matheusdasmerces/optimizing-amazon-cloudwatch-costs-for-high-traffic-lambda-functions-with-advanced-logging-controls-5406)
+- [CSS Art: February - Sunflower Month](https://dev.to/danilo_abramowicz/css-art-february-sunflower-month-4i89)
+- [🚀 Bootstrap vs. Tailwind CSS – Which One Should You Use? 🎨💻](https://dev.to/erasmuskotoka/bootstrap-vs-tailwind-css-which-one-should-you-use-24io)
+- [Withdrawing USDT from OKX to Kraken? Which network is the best deal?](https://dev.to/01kg/withdraw-usdt-from-okx-to-kraken-which-network-is-the-best-deal-2lal)
+- [📰 Elon Musk says federal employees must document work in email or be fired](https://dev.to/d_thiranjaya_6d3ec4552111/elon-musk-says-federal-employees-must-document-work-in-email-or-be-fired-fbh)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
