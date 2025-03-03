@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Art: February - Sunflower Month](https://dev.to/danilo_abramowicz/css-art-february-sunflower-month-4i89)
-- [🚀 Bootstrap vs. Tailwind CSS – Which One Should You Use? 🎨💻](https://dev.to/erasmuskotoka/bootstrap-vs-tailwind-css-which-one-should-you-use-24io)
-- [Withdrawing USDT from OKX to Kraken? Which network is the best deal?](https://dev.to/01kg/withdraw-usdt-from-okx-to-kraken-which-network-is-the-best-deal-2lal)
-- [📰 Elon Musk says federal employees must document work in email or be fired](https://dev.to/d_thiranjaya_6d3ec4552111/elon-musk-says-federal-employees-must-document-work-in-email-or-be-fired-fbh)
+- [Splitting Prisma Schema into Multiple Files: A Simple Guide](https://dev.to/tanzimhossain2/splitting-prisma-schema-into-multiple-files-a-simple-guide-ni1)
+- [Introducing SPIKE-RT: The C Language Software Platform for LEGO SPIKE Prime](https://dev.to/_ff41734170f7cc70ac79/introducing-spike-rt-the-c-language-software-platform-for-lego-spike-prime-4b73)
+- [Linux Display Brightness](https://dev.to/jacopo/linux-display-brightness-1ne5)
+- [The Rise of Self-Healing Software Systems](https://dev.to/kartikmehta8/the-rise-of-self-healing-software-systems-3gf8)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
