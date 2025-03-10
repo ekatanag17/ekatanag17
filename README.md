@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Splitting Prisma Schema into Multiple Files: A Simple Guide](https://dev.to/tanzimhossain2/splitting-prisma-schema-into-multiple-files-a-simple-guide-ni1)
-- [Introducing SPIKE-RT: The C Language Software Platform for LEGO SPIKE Prime](https://dev.to/_ff41734170f7cc70ac79/introducing-spike-rt-the-c-language-software-platform-for-lego-spike-prime-4b73)
-- [Linux Display Brightness](https://dev.to/jacopo/linux-display-brightness-1ne5)
-- [The Rise of Self-Healing Software Systems](https://dev.to/kartikmehta8/the-rise-of-self-healing-software-systems-3gf8)
+- [How to Create and Manage Computed Observables in Knockout.js?](https://dev.to/jordankeurope/how-to-create-and-manage-computed-observables-in-knockoutjs-1jj7)
+- [AWS EventBridge Transforms: Making Alerts Readable](https://dev.to/aws-builders/aws-eventbridge-transforms-making-alerts-readable-1pb5)
+- [03.12.25 ✨FREE✨ Career Mentoring: [ How to Get a Position as a Data Scientist ]](https://dev.to/h_metacode_74e90df0ee5da6/031225-free-career-mentoring-how-to-get-a-position-as-a-data-scientist--21ca)
+- [🔐 Authentication &amp; Authorization: Securing Your Web Applications Security isn’t optional—it’s essential! 🚀](https://dev.to/erasmuskotoka/authentication-authorization-securing-your-web-applications-security-isnt-optional-its-ae0)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
