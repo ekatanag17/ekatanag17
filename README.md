@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create and Manage Computed Observables in Knockout.js?](https://dev.to/jordankeurope/how-to-create-and-manage-computed-observables-in-knockoutjs-1jj7)
-- [AWS EventBridge Transforms: Making Alerts Readable](https://dev.to/aws-builders/aws-eventbridge-transforms-making-alerts-readable-1pb5)
-- [03.12.25 ✨FREE✨ Career Mentoring: [ How to Get a Position as a Data Scientist ]](https://dev.to/h_metacode_74e90df0ee5da6/031225-free-career-mentoring-how-to-get-a-position-as-a-data-scientist--21ca)
-- [🔐 Authentication &amp; Authorization: Securing Your Web Applications Security isn’t optional—it’s essential! 🚀](https://dev.to/erasmuskotoka/authentication-authorization-securing-your-web-applications-security-isnt-optional-its-ae0)
+- [KendoReact Project Management App](https://dev.to/aniruddhaadak/kendoreact-project-management-app-agf)
+- [Minha Jornada com Python: Aprendendo a Programar e Sonhando com Developer Advocacy](https://dev.to/mvcruzs/minha-jornada-com-python-aprendendo-a-programar-e-sonhando-com-developer-advocacy-mo3)
+- [Swine Transformers](https://dev.to/sanjidh090/swine-transformers-25k2)
+- [Balanceamento de Carga &lpar;Loading Balacing&rpar;](https://dev.to/yuripeixinho/balanceamento-de-carga-loading-balacing-4ap4)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
