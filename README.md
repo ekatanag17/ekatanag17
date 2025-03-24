@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [KendoReact Project Management App](https://dev.to/aniruddhaadak/kendoreact-project-management-app-agf)
-- [Minha Jornada com Python: Aprendendo a Programar e Sonhando com Developer Advocacy](https://dev.to/mvcruzs/minha-jornada-com-python-aprendendo-a-programar-e-sonhando-com-developer-advocacy-mo3)
-- [Swine Transformers](https://dev.to/sanjidh090/swine-transformers-25k2)
-- [Balanceamento de Carga &lpar;Loading Balacing&rpar;](https://dev.to/yuripeixinho/balanceamento-de-carga-loading-balacing-4ap4)
+- [The Bird&#39;s Way of Printing PDFs under the hood](https://dev.to/wari/the-birds-way-of-printing-pdfs-under-the-hood-1g2i)
+- [Explore BS 476 - 4 Non-combustibility test for building materials](https://dev.to/rebecca_zhang_53170276935/explore-bs-476-4-non-combustibility-test-for-building-materials-1j5b)
+- [Biomechanics of pitching &lpar;1&rpar;: an overview of ball dynamics during throwing](https://dev.to/ken_ohta_8690712348aeef88/biomechanics-of-pitching-1-an-overview-of-ball-dynamics-during-throwing-4n96)
+- [Como Aplicar o Princípio da Responsabilidade Única com Mais Precisão](https://dev.to/asouza/como-aplicar-o-principio-da-responsabilidade-unica-com-mais-precisao-pbi)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
