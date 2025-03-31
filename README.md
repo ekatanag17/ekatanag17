@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [The Bird&#39;s Way of Printing PDFs under the hood](https://dev.to/wari/the-birds-way-of-printing-pdfs-under-the-hood-1g2i)
-- [Explore BS 476 - 4 Non-combustibility test for building materials](https://dev.to/rebecca_zhang_53170276935/explore-bs-476-4-non-combustibility-test-for-building-materials-1j5b)
-- [Biomechanics of pitching &lpar;1&rpar;: an overview of ball dynamics during throwing](https://dev.to/ken_ohta_8690712348aeef88/biomechanics-of-pitching-1-an-overview-of-ball-dynamics-during-throwing-4n96)
-- [Como Aplicar o Princípio da Responsabilidade Única com Mais Precisão](https://dev.to/asouza/como-aplicar-o-principio-da-responsabilidade-unica-com-mais-precisao-pbi)
+- [Playing with The DOM](https://dev.to/jasec7/playing-with-the-dom-4lg)
+- [2551. Put Marbles in Bags](https://dev.to/mdarifulhaque/2551-put-marbles-in-bags-4mla)
+- [Building AI-Driven Augmented Reality Experiences](https://dev.to/kartikmehta8/building-ai-driven-augmented-reality-experiences-40k1)
+- [Terraform for DevOps: Variables, Outputs, and Dynamic Workflows &lpar;Part 4&rpar;](https://dev.to/rahimbtc1994/terraform-for-devops-variables-outputs-and-dynamic-workflows-part-4-dpc)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
