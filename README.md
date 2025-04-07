@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Playing with The DOM](https://dev.to/jasec7/playing-with-the-dom-4lg)
-- [2551. Put Marbles in Bags](https://dev.to/mdarifulhaque/2551-put-marbles-in-bags-4mla)
-- [Building AI-Driven Augmented Reality Experiences](https://dev.to/kartikmehta8/building-ai-driven-augmented-reality-experiences-40k1)
-- [Terraform for DevOps: Variables, Outputs, and Dynamic Workflows &lpar;Part 4&rpar;](https://dev.to/rahimbtc1994/terraform-for-devops-variables-outputs-and-dynamic-workflows-part-4-dpc)
+- [Gerando Testes Automatizados com IA para Códigos Mais Complexos](https://dev.to/asouza/gerando-testes-automatizados-com-ia-para-codigos-mais-complexos-42fh)
+- [Instalación de Node.js](https://dev.to/anthonybanion/instalacion-de-nodejs-4adi)
+- [Navigating Financial Sustainability in Open Source Projects: A Comprehensive Guide](https://dev.to/kallileiser/navigating-financial-sustainability-in-open-source-projects-a-comprehensive-guide-27gj)
+- [How to Cosplay 4: Newbies at Comic-Con](https://dev.to/gregg001/how-to-cosplay-4-newbies-at-comic-con-ffm)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
