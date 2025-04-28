@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js Multilingual Sitemap Optimization: Dodge Redirect Issues &amp; Boost SEO](https://dev.to/solomakerstudio/nextjs-multilingual-sitemap-optimization-dodge-redirect-issues-boost-seo-3b73)
-- [Startups vs Big Tech for Web Developers](https://dev.to/mikehtmlallthethings/startups-vs-big-tech-for-web-developers-3bf4)
-- [day-30: enumeration in java](https://dev.to/e00049/day-30-enumeration-in-java-mbe)
-- [Your GenAI-git trainer](https://dev.to/lucailvec/your-genai-git-trainer-17h)
+- [TE AMO](https://dev.to/tekashi_medbau_fd8fc4d5c/te-amo-45fi)
+- [Building End-to-End Business Workflows with Martini](https://dev.to/lonti-davidb/building-end-to-end-business-workflows-with-martini-mdc)
+- [Day 149/365 &lpar;Learning Full Stack&rpar;](https://dev.to/munin-1/day-149365-learning-full-stack-37db)
+- [Summarize Any Webpage Instantly While You Browse](https://dev.to/researchwize/summarize-any-webpage-instantly-while-you-browse-1bl0)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
