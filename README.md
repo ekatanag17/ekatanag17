@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [TE AMO](https://dev.to/tekashi_medbau_fd8fc4d5c/te-amo-45fi)
-- [Building End-to-End Business Workflows with Martini](https://dev.to/lonti-davidb/building-end-to-end-business-workflows-with-martini-mdc)
-- [Day 149/365 &lpar;Learning Full Stack&rpar;](https://dev.to/munin-1/day-149365-learning-full-stack-37db)
-- [Summarize Any Webpage Instantly While You Browse](https://dev.to/researchwize/summarize-any-webpage-instantly-while-you-browse-1bl0)
+- [Week 14: Momentum](https://dev.to/c6z3h/week-14-momentum-2bkm)
+- [Sharpening My Backend Skills](https://dev.to/vinayakgote2730/sharpening-my-backend-skills-1n9f)
+- [🧪 5 Surprisingly Useful Ways to Use Free APIs for Real Projects &lpar;Not Just Toy Demos&rpar;](https://dev.to/lonti-davidb/5-surprisingly-useful-ways-to-use-free-apis-for-real-projects-not-just-toy-demos-23o1)
+- [🐕 shortio — Secure Links for the Right People, Every Time](https://dev.to/wesleybertipaglia/shortio-my-submission-for-the-permitio-hackathon-5b1)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
