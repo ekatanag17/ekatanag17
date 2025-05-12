@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Week 14: Momentum](https://dev.to/c6z3h/week-14-momentum-2bkm)
-- [Sharpening My Backend Skills](https://dev.to/vinayakgote2730/sharpening-my-backend-skills-1n9f)
-- [🧪 5 Surprisingly Useful Ways to Use Free APIs for Real Projects &lpar;Not Just Toy Demos&rpar;](https://dev.to/lonti-davidb/5-surprisingly-useful-ways-to-use-free-apis-for-real-projects-not-just-toy-demos-23o1)
-- [🐕 shortio — Secure Links for the Right People, Every Time](https://dev.to/wesleybertipaglia/shortio-my-submission-for-the-permitio-hackathon-5b1)
+- [Uso da programação assíncrona em Python visando um sistema responsivo e performático](https://dev.to/wguii/uso-da-programacao-assincrona-em-python-visando-um-sistema-responsivo-e-performatico-20n)
+- [ARQUITETURA REST: PRINCÍPIOS, PADRÕES E APLICABILIDADE NO DESENVOLVIMENTO DE SISTEMAS DISTRIBUÍDOS](https://dev.to/mlaurajeronimo/arquitetura-rest-principios-padroes-e-aplicabilidade-no-desenvolvimento-de-sistemas-distribuidos-24i4)
+- [How to Efficiently Use JAX for Numerical Pipelines](https://dev.to/generatecodedev/how-to-efficiently-use-jax-for-numerical-pipelines-4hmb)
+- [5 Common Workflow Automation Mistakes &lpar;And How to Avoid Them&rpar;](https://dev.to/lonti-davidb/5-common-workflow-automation-mistakes-and-how-to-avoid-them-5hmn)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
