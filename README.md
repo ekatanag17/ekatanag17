@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Uso da programação assíncrona em Python visando um sistema responsivo e performático](https://dev.to/wguii/uso-da-programacao-assincrona-em-python-visando-um-sistema-responsivo-e-performatico-20n)
-- [ARQUITETURA REST: PRINCÍPIOS, PADRÕES E APLICABILIDADE NO DESENVOLVIMENTO DE SISTEMAS DISTRIBUÍDOS](https://dev.to/mlaurajeronimo/arquitetura-rest-principios-padroes-e-aplicabilidade-no-desenvolvimento-de-sistemas-distribuidos-24i4)
-- [How to Efficiently Use JAX for Numerical Pipelines](https://dev.to/generatecodedev/how-to-efficiently-use-jax-for-numerical-pipelines-4hmb)
-- [5 Common Workflow Automation Mistakes &lpar;And How to Avoid Them&rpar;](https://dev.to/lonti-davidb/5-common-workflow-automation-mistakes-and-how-to-avoid-them-5hmn)
+- [How I Built My Own Home Server for $150 &lpar;And Why I Ditched AWS for It&rpar;](https://dev.to/mayankdhingra02/how-i-built-my-own-home-server-for-150-and-why-i-ditched-aws-for-it-4ffi)
+- [🎯 Covercraft AI: A Smart Tool for Automated, Personalized Cover Letter Generation](https://dev.to/suvadip_chakraborty_0561a/covercraft-ai-a-smart-tool-for-automated-personalized-cover-letter-generation-baj)
+- [Terminal based Graphical Interface in NodeJs](https://dev.to/leonardopinezi/terminal-based-graphical-interface-in-nodejs-3f05)
+- [Unveiling the X Consortium License: Bridging Open Source Fairness and Legal Innovation](https://dev.to/laetitiaperraut/unveiling-the-x-consortium-license-bridging-open-source-fairness-and-legal-innovation-438b)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
