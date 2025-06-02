@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [My AI Agent Learning Kickoff : Day 0](https://dev.to/distalx/my-ai-agent-learning-kickoff-day-0-1a2i)
-- [We Couldn’t Find Free Business APIs to Prototype With — So We Built Them](https://dev.to/lonti-davidb/we-couldnt-find-free-business-apis-to-prototype-with-so-we-built-them-13e8)
-- [LibTracker VS Code Extension: Streamline Your Dependency Management](https://dev.to/windmillcode/libtracker-vs-code-extension-streamline-your-dependency-management-16mc)
-- [Anyone feel like working with me on this project? https://github.com/andyswings/EstiSketch](https://dev.to/andyswings/anyone-feel-like-working-with-me-on-this-projecthttpsgithubcomandyswingsestisketch-194n)
+- [Measuring Developer Productivity Gains with Low Code APIs](https://dev.to/lonti-davidb/measuring-developer-productivity-gains-with-low-code-apis-750)
+- [Blockchain and the Future of Data Collection: Trust in a Decentralized World Featuring William VerMeulen](https://dev.to/vermeulen/blockchain-and-the-future-of-data-collection-trust-in-a-decentralized-world-featuring-william-gij)
+- [Reddit Is Silencing a Legitimate Project and Spreading False Information — Here’s What You Need to Know](https://dev.to/oberst_murxes_93ab3a90a6e/reddit-is-silencing-a-legitimate-project-and-spreading-false-information-heres-what-you-need-to-13bj)
+- [🚀 React 19: A Cleaner, Smarter Developer Experience — Here’s What I Found](https://dev.to/siva_upadhyayula_f2e09ded/react-19-a-cleaner-smarter-developer-experience-heres-what-i-found-4914)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
