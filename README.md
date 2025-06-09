@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Measuring Developer Productivity Gains with Low Code APIs](https://dev.to/lonti-davidb/measuring-developer-productivity-gains-with-low-code-apis-750)
-- [Blockchain and the Future of Data Collection: Trust in a Decentralized World Featuring William VerMeulen](https://dev.to/vermeulen/blockchain-and-the-future-of-data-collection-trust-in-a-decentralized-world-featuring-william-gij)
-- [Reddit Is Silencing a Legitimate Project and Spreading False Information — Here’s What You Need to Know](https://dev.to/oberst_murxes_93ab3a90a6e/reddit-is-silencing-a-legitimate-project-and-spreading-false-information-heres-what-you-need-to-13bj)
-- [🚀 React 19: A Cleaner, Smarter Developer Experience — Here’s What I Found](https://dev.to/siva_upadhyayula_f2e09ded/react-19-a-cleaner-smarter-developer-experience-heres-what-i-found-4914)
+- [HealthSync Mail - Medical Appointment Coordination](https://dev.to/ariondev/healthsync-mail-medical-appointment-coordination-598c)
+- [Making Postr: Email-First App with Postmark&#39;s Inbound Parsing](https://dev.to/ansellmaximilian/making-postr-email-first-app-with-postmarks-inbound-parsing-3m9p)
+- [Hot Old Algorithms Looking for Features Near You!](https://dev.to/sarahmatta/hot-old-algorithms-looking-for-features-near-you-1g8a)
+- [Building API Clients Faster with apiexplorer.io and Martini](https://dev.to/lonti-davidb/building-api-clients-faster-with-apiexplorerio-and-martini-21pi)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
