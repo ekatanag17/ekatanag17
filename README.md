@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [HealthSync Mail - Medical Appointment Coordination](https://dev.to/ariondev/healthsync-mail-medical-appointment-coordination-598c)
-- [Making Postr: Email-First App with Postmark&#39;s Inbound Parsing](https://dev.to/ansellmaximilian/making-postr-email-first-app-with-postmarks-inbound-parsing-3m9p)
-- [Hot Old Algorithms Looking for Features Near You!](https://dev.to/sarahmatta/hot-old-algorithms-looking-for-features-near-you-1g8a)
-- [Building API Clients Faster with apiexplorer.io and Martini](https://dev.to/lonti-davidb/building-api-clients-faster-with-apiexplorerio-and-martini-21pi)
+- [5 Ways Low Code Platforms Can Improve Business Agility](https://dev.to/lonti-davidb/5-ways-low-code-platforms-can-improve-business-agility-okn)
+- [I Delivered Real Game Dev Infrastructure Solo — Ubisoft’s Partner Program Said “Not Good Enough”](https://dev.to/formantaudio/i-delivered-real-game-dev-infrastructure-solo-ubisofts-partner-program-said-not-good-enough-2pji)
+- [🧠 Understanding `@let` in Angular Templates: A Complete Guide](https://dev.to/vetriselvan_11/understanding-let-in-angular-templates-a-complete-guide-1kio)
+- [My Journey with the Hyperlane Framework（1750036497086900）](https://dev.to/member_b06955cb/my-journey-with-the-hyperlane-framework1750036497086900-a7p)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
