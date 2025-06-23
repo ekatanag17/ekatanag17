@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Ways Low Code Platforms Can Improve Business Agility](https://dev.to/lonti-davidb/5-ways-low-code-platforms-can-improve-business-agility-okn)
-- [I Delivered Real Game Dev Infrastructure Solo — Ubisoft’s Partner Program Said “Not Good Enough”](https://dev.to/formantaudio/i-delivered-real-game-dev-infrastructure-solo-ubisofts-partner-program-said-not-good-enough-2pji)
-- [🧠 Understanding `@let` in Angular Templates: A Complete Guide](https://dev.to/vetriselvan_11/understanding-let-in-angular-templates-a-complete-guide-1kio)
-- [My Journey with the Hyperlane Framework（1750036497086900）](https://dev.to/member_b06955cb/my-journey-with-the-hyperlane-framework1750036497086900-a7p)
+- [Implementing Custom Status Bar in HarmonyOS Next](https://dev.to/flfljh/implementing-custom-status-bar-in-harmonyos-next-2a06)
+- [Border Usage and Individual Direction in HarmonyOS NextSettings](https://dev.to/flfljh/border-usage-and-individual-direction-in-harmonyos-nextsettings-502c)
+- [The AI Revolution: Reshaping the Workforce, Not Necessarily Replacing It Entirely](https://dev.to/dilip_muthuraj/the-ai-revolution-reshaping-the-workforce-not-necessarily-replacing-it-entirely-5ggh)
+- [How to Use Demo APIs to Level Up Your API Testing Skills](https://dev.to/lonti-davidb/how-to-use-demo-apis-to-level-up-your-api-testing-skills-2ke6)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
