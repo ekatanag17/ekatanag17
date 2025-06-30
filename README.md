@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Custom Status Bar in HarmonyOS Next](https://dev.to/flfljh/implementing-custom-status-bar-in-harmonyos-next-2a06)
-- [Border Usage and Individual Direction in HarmonyOS NextSettings](https://dev.to/flfljh/border-usage-and-individual-direction-in-harmonyos-nextsettings-502c)
-- [The AI Revolution: Reshaping the Workforce, Not Necessarily Replacing It Entirely](https://dev.to/dilip_muthuraj/the-ai-revolution-reshaping-the-workforce-not-necessarily-replacing-it-entirely-5ggh)
-- [How to Use Demo APIs to Level Up Your API Testing Skills](https://dev.to/lonti-davidb/how-to-use-demo-apis-to-level-up-your-api-testing-skills-2ke6)
+- [How Fast Can Autosteer Systems Pay for Themselves?](https://dev.to/gnss/how-fast-can-autosteer-systems-pay-for-themselves-1ond)
+- [How I Use Self-Reflection to Stay on Track Daily, Weekly, Monthly, and Yearly](https://dev.to/maxpatiiuk/how-i-use-self-reflection-to-stay-on-track-daily-weekly-monthly-and-yearly-1n1f)
+- [Practical Case of HarmonyOS NEXT Cangjie Development Language: Movie App](https://dev.to/youlanjihua/practical-case-of-harmonyos-next-cangjie-development-language-movie-app-1543)
+- [String in Python &lpar;7&rpar;](https://dev.to/hyperkai/string-in-python-7-p6l)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
