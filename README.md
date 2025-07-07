@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [How Fast Can Autosteer Systems Pay for Themselves?](https://dev.to/gnss/how-fast-can-autosteer-systems-pay-for-themselves-1ond)
-- [How I Use Self-Reflection to Stay on Track Daily, Weekly, Monthly, and Yearly](https://dev.to/maxpatiiuk/how-i-use-self-reflection-to-stay-on-track-daily-weekly-monthly-and-yearly-1n1f)
-- [Practical Case of HarmonyOS NEXT Cangjie Development Language: Movie App](https://dev.to/youlanjihua/practical-case-of-harmonyos-next-cangjie-development-language-movie-app-1543)
-- [String in Python &lpar;7&rpar;](https://dev.to/hyperkai/string-in-python-7-p6l)
+- [Flame Graph Performance Truth Analysis](https://dev.to/member_a07758c4/flame-graph-performance-truth-analysis-4f2e)
+- [The Scariest Threat in Cybersecurity? It Might Be the Person Sitting Next to You](https://dev.to/kaneaht/the-scariest-threat-in-cybersecurity-it-might-be-the-person-sitting-next-to-you-58cj)
+- [Minimalist Programming Philosophy](https://dev.to/member_a07758c4/minimalist-programming-philosophy-2k5g)
+- [When You&#39;re Too Tired to Relax: Just Look at the Sky](https://dev.to/accioprocurement/when-youre-too-tired-to-relax-just-look-at-the-sky-20jk)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
