@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Flame Graph Performance Truth Analysis](https://dev.to/member_a07758c4/flame-graph-performance-truth-analysis-4f2e)
-- [The Scariest Threat in Cybersecurity? It Might Be the Person Sitting Next to You](https://dev.to/kaneaht/the-scariest-threat-in-cybersecurity-it-might-be-the-person-sitting-next-to-you-58cj)
-- [Minimalist Programming Philosophy](https://dev.to/member_a07758c4/minimalist-programming-philosophy-2k5g)
-- [When You&#39;re Too Tired to Relax: Just Look at the Sky](https://dev.to/accioprocurement/when-youre-too-tired-to-relax-just-look-at-the-sky-20jk)
+- [I have a question about AI.](https://dev.to/ybeybeybe/i-have-a-question-about-ai-5987)
+- [အခန်း&lpar;၅&rpar; ThreadPoolExecutor နဲ့ တွဲသုံးတဲ့ Datastructure များ&lpar;Data Structures in Action&rpar;](https://dev.to/zawhtutwin/akhn5-threadpoolexecutor-nai-ttaisunttai-datastructure-maadata-structures-in-action-1lbn)
+- [frontend bug](https://dev.to/kimdonguk93/frontend-bug-536g)
+- [အပိုင်း&lpar;၄&rpar;- HashMap ထဲက Node များအကြောင်း &lpar;Data Structures in Action&rpar;](https://dev.to/zawhtutwin/apiung4-hashmap-thaik-node-maaakeaang-4gmb)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
