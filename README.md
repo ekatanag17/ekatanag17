@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [I have a question about AI.](https://dev.to/ybeybeybe/i-have-a-question-about-ai-5987)
-- [အခန်း&lpar;၅&rpar; ThreadPoolExecutor နဲ့ တွဲသုံးတဲ့ Datastructure များ&lpar;Data Structures in Action&rpar;](https://dev.to/zawhtutwin/akhn5-threadpoolexecutor-nai-ttaisunttai-datastructure-maadata-structures-in-action-1lbn)
-- [frontend bug](https://dev.to/kimdonguk93/frontend-bug-536g)
-- [အပိုင်း&lpar;၄&rpar;- HashMap ထဲက Node များအကြောင်း &lpar;Data Structures in Action&rpar;](https://dev.to/zawhtutwin/apiung4-hashmap-thaik-node-maaakeaang-4gmb)
+- [A beginner&#39;s guide to the Background-Remover model by 851-Labs on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-background-remover-model-by-851-labs-on-replicate-3mm0)
+- [v0.dev là một công cụ phát triển giao diện người dùng &lpar;UI&rpar; dựa trên trí tuệ nhân tạo &lpar;AI&rpar;](https://dev.to/thinnguyenqb/v0dev-la-mot-cong-cu-phat-trien-giao-dien-nguoi-dung-ui-dua-tren-tri-tue-nhan-tao-ai-2o0g)
+- [Fundamentos dos Bancos de Dados: conceitos essenciais para iniciantes](https://dev.to/ryanmarinho/fundamentos-dos-bancos-de-dados-conceitos-essenciais-para-iniciantes-1p11)
+- [Terraform Opened My Eyes](https://dev.to/obeej/terraform-opened-my-eyes-13c7)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
