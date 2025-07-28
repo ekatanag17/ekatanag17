@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [A beginner&#39;s guide to the Background-Remover model by 851-Labs on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-background-remover-model-by-851-labs-on-replicate-3mm0)
-- [v0.dev là một công cụ phát triển giao diện người dùng &lpar;UI&rpar; dựa trên trí tuệ nhân tạo &lpar;AI&rpar;](https://dev.to/thinnguyenqb/v0dev-la-mot-cong-cu-phat-trien-giao-dien-nguoi-dung-ui-dua-tren-tri-tue-nhan-tao-ai-2o0g)
-- [Fundamentos dos Bancos de Dados: conceitos essenciais para iniciantes](https://dev.to/ryanmarinho/fundamentos-dos-bancos-de-dados-conceitos-essenciais-para-iniciantes-1p11)
-- [Terraform Opened My Eyes](https://dev.to/obeej/terraform-opened-my-eyes-13c7)
+- [Controlling API Access to Specific Fields in Dataverse](https://dev.to/nikhildynamicsce/controlling-api-access-to-specific-fields-in-dataverse-2jh3)
+- [SayFight - A Real-Time Voice-Controlled Party Game](https://dev.to/rezelco/sayfight-a-real-time-voice-controlled-party-game-1hgh)
+- [The &quot;SET NOT NULL&quot; Downtime Trap in PostgreSQL](https://dev.to/andrewpsy/the-set-not-null-downtime-trap-in-postgresql-1o71)
+- [How I Designed and Animated a Water Bottle Ad Using CapCut Desktop + AI Tool](https://dev.to/cli_tayo/how-i-designed-and-animated-a-water-bottle-ad-using-capcut-desktop-ai-tool-36lg)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
