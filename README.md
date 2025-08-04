@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Controlling API Access to Specific Fields in Dataverse](https://dev.to/nikhildynamicsce/controlling-api-access-to-specific-fields-in-dataverse-2jh3)
-- [SayFight - A Real-Time Voice-Controlled Party Game](https://dev.to/rezelco/sayfight-a-real-time-voice-controlled-party-game-1hgh)
-- [The &quot;SET NOT NULL&quot; Downtime Trap in PostgreSQL](https://dev.to/andrewpsy/the-set-not-null-downtime-trap-in-postgresql-1o71)
-- [How I Designed and Animated a Water Bottle Ad Using CapCut Desktop + AI Tool](https://dev.to/cli_tayo/how-i-designed-and-animated-a-water-bottle-ad-using-capcut-desktop-ai-tool-36lg)
+- [Alec Steele: Dogmascus Steel.](https://dev.to/maker_youtube/alec-steele-dogmascus-steel-3l9m)
+- [IGN: Lost Soul Aside - Official Weapons Trailer](https://dev.to/gg_news/ign-lost-soul-aside-official-weapons-trailer-3ah5)
+- [Building an AI-Powered Repository Search with Redis 8 Vector Similarity](https://dev.to/kirodotdev/building-an-ai-powered-repository-search-with-redis-8-vector-similarity-50pp)
+- [Here the 3rd part of this series!](https://dev.to/avelez/here-the-3rd-part-of-this-series-1adm)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
