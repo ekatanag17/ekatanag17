@@ -21,10 +21,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Alec Steele: Dogmascus Steel.](https://dev.to/maker_youtube/alec-steele-dogmascus-steel-3l9m)
-- [IGN: Lost Soul Aside - Official Weapons Trailer](https://dev.to/gg_news/ign-lost-soul-aside-official-weapons-trailer-3ah5)
-- [Building an AI-Powered Repository Search with Redis 8 Vector Similarity](https://dev.to/kirodotdev/building-an-ai-powered-repository-search-with-redis-8-vector-similarity-50pp)
-- [Here the 3rd part of this series!](https://dev.to/avelez/here-the-3rd-part-of-this-series-1adm)
+- [React Component Design Patterns for Real-World Projects](https://dev.to/maurya-sachin/react-component-design-patterns-for-real-world-projects-5b04)
+- [A Year Late to My Own Introduction](https://dev.to/donalda/a-year-late-to-my-own-introduction-463f)
+- [Server-Side Events Implementation for Real-Time Applications&lpar;9359&rpar;](https://dev.to/socket-use/server-side-events-implementation-for-real-time-applications9359-5gme)
+- [I made my own SourceMod](https://dev.to/cheese_king_e815378335419/i-made-my-own-sourcemod-1jje)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
