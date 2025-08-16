@@ -4,7 +4,9 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/ekatanag17/ekatanag17/master/wave.gif" width="30px">
 
-My name is Ekata Nagrale and I'm a FrontEnd Developer with handson experience on FrontEnd technologies like HTML, CSS, JavaScript, React JS, Redux, Firebase etc. I'm from India, living in Pune and currently working as a Freelancer on couple of project . You can find me  on [![LinkedIn][3.2]][3].
+🌱 I’m a **Front-End Developer** with practical experience in building responsive and interactive web applications using **React.js, Redux, JavaScript, CSS, HTML, Bootstrap, Material UI and Postman**.
+💼 Currently working as a **Freelancer**, delivering modern and user-friendly solutions for client projects.
+📫 Let’s connect on LinkedIn. [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/HTML-HTML?style=for-the-badge&logo=html5&logoColor=white)
