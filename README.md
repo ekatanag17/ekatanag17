@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [React Component Design Patterns for Real-World Projects](https://dev.to/maurya-sachin/react-component-design-patterns-for-real-world-projects-5b04)
-- [A Year Late to My Own Introduction](https://dev.to/donalda/a-year-late-to-my-own-introduction-463f)
-- [Server-Side Events Implementation for Real-Time Applications&lpar;9359&rpar;](https://dev.to/socket-use/server-side-events-implementation-for-real-time-applications9359-5gme)
-- [I made my own SourceMod](https://dev.to/cheese_king_e815378335419/i-made-my-own-sourcemod-1jje)
+- [Declutter Your JavaScript and TypeScript Projects.](https://dev.to/zxcodes/declutter-your-javascript-and-typescript-projects-34k7)
+- [Simplifying Git: A Practical Guide for Everyday Use.](https://dev.to/zxcodes/simplifying-git-a-practical-guide-for-everyday-use-26np)
+- [Improving Performance of Async Operations in JavaScript.](https://dev.to/zxcodes/improving-performance-of-async-operations-in-javascript-1201)
+- [A React Admin Dashboard Template Built with Vite and Shadcn](https://dev.to/jqueryscript/a-react-admin-dashboard-template-built-with-vite-and-shadcn-4o6a)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
