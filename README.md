@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Declutter Your JavaScript and TypeScript Projects.](https://dev.to/zxcodes/declutter-your-javascript-and-typescript-projects-34k7)
-- [Simplifying Git: A Practical Guide for Everyday Use.](https://dev.to/zxcodes/simplifying-git-a-practical-guide-for-everyday-use-26np)
-- [Improving Performance of Async Operations in JavaScript.](https://dev.to/zxcodes/improving-performance-of-async-operations-in-javascript-1201)
-- [A React Admin Dashboard Template Built with Vite and Shadcn](https://dev.to/jqueryscript/a-react-admin-dashboard-template-built-with-vite-and-shadcn-4o6a)
+- [Day 2: Prompt Engineering Basics with LangChain](https://dev.to/aws-builders/day-2-prompt-engineering-basics-with-langchain-5h8h)
+- [How I Attached and Mounted an EBS Volume to My Ubuntu EC2 Instance](https://dev.to/goldenboy58/how-i-attached-and-mounted-an-ebs-volume-to-my-ubuntu-ec2-instance-12kl)
+- [Rick Beato: Unpacking The Beatles&#39; 1965 Songwriting Blueprint](https://dev.to/music_youtube/rick-beato-unpacking-the-beatles-1965-songwriting-blueprint-2mp)
+- [Day 75: When Work Becomes Mental Survival &lpar;Not Motivation&rpar;](https://dev.to/casperday11/day-75-when-work-becomes-mental-survival-not-motivation-1160)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
