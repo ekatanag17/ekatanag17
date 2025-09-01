@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 2: Prompt Engineering Basics with LangChain](https://dev.to/aws-builders/day-2-prompt-engineering-basics-with-langchain-5h8h)
-- [How I Attached and Mounted an EBS Volume to My Ubuntu EC2 Instance](https://dev.to/goldenboy58/how-i-attached-and-mounted-an-ebs-volume-to-my-ubuntu-ec2-instance-12kl)
-- [Rick Beato: Unpacking The Beatles&#39; 1965 Songwriting Blueprint](https://dev.to/music_youtube/rick-beato-unpacking-the-beatles-1965-songwriting-blueprint-2mp)
-- [Day 75: When Work Becomes Mental Survival &lpar;Not Motivation&rpar;](https://dev.to/casperday11/day-75-when-work-becomes-mental-survival-not-motivation-1160)
+- [Ceylon Journey Partner - Real-Time AI Travel Partner for Sri Lanka](https://dev.to/anfathhifans/ceylon-journey-partner-real-time-ai-travel-partner-for-sri-lanka-4083)
+- [Resume of the day: the skills that employers in tech are looking for rn](https://dev.to/stemonitis/resume-of-the-day-the-skills-that-employers-in-tech-are-looking-for-rn-3a62)
+- [Authentication and authorization : difference](https://dev.to/bibihub99/authentication-and-authorization-difference-hai)
+- [How to Launch a High-Performing Website Fast as a Developer](https://dev.to/mehmet_hakantatlici_b3d7/how-to-launch-a-high-performing-website-fast-as-a-developer-o31)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
