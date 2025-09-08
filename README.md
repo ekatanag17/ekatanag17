@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Ceylon Journey Partner - Real-Time AI Travel Partner for Sri Lanka](https://dev.to/anfathhifans/ceylon-journey-partner-real-time-ai-travel-partner-for-sri-lanka-4083)
-- [Resume of the day: the skills that employers in tech are looking for rn](https://dev.to/stemonitis/resume-of-the-day-the-skills-that-employers-in-tech-are-looking-for-rn-3a62)
-- [Authentication and authorization : difference](https://dev.to/bibihub99/authentication-and-authorization-difference-hai)
-- [How to Launch a High-Performing Website Fast as a Developer](https://dev.to/mehmet_hakantatlici_b3d7/how-to-launch-a-high-performing-website-fast-as-a-developer-o31)
+- [How to Secure Different User Types in Linux: A Guide for IT Teams](https://dev.to/sebos/how-to-secure-different-user-types-in-linux-a-guide-for-it-teams-22a8)
+- [Kiro Workflow for Copilot, Claude &amp; More](https://dev.to/lazypro/kiro-workflow-for-copilot-claude-more-4ihp)
+- [Turbocharge Your Go Microservices: Memory Optimization Made Simple](https://dev.to/jones_charles_ad50858dbc0/turbocharge-your-go-microservices-memory-optimization-made-simple-3jf6)
+- [JavaScript Arrays Explained: Creation, Indexing, and Common Methods](https://dev.to/wisdomudo/javascript-arrays-explained-creation-indexing-and-common-methods-3hlj)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
