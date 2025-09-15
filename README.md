@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Secure Different User Types in Linux: A Guide for IT Teams](https://dev.to/sebos/how-to-secure-different-user-types-in-linux-a-guide-for-it-teams-22a8)
-- [Kiro Workflow for Copilot, Claude &amp; More](https://dev.to/lazypro/kiro-workflow-for-copilot-claude-more-4ihp)
-- [Turbocharge Your Go Microservices: Memory Optimization Made Simple](https://dev.to/jones_charles_ad50858dbc0/turbocharge-your-go-microservices-memory-optimization-made-simple-3jf6)
-- [JavaScript Arrays Explained: Creation, Indexing, and Common Methods](https://dev.to/wisdomudo/javascript-arrays-explained-creation-indexing-and-common-methods-3hlj)
+- [Fullstack Next.js &amp; Cloudflare Template for SaaS MVP](https://dev.to/jqueryscript/fullstack-nextjs-cloudflare-template-for-saas-mvp-3iij)
+- [Securing Sessions in Spring Boot](https://dev.to/dhanush9952/securing-sessions-in-spring-boot-5d0c)
+- [Just more modelling](https://dev.to/magipunk/just-more-modelling-2k8)
+- [Visual Studio 2026 Insider: The Good, The Bad, and The WTF 🤯](https://dev.to/shiva_shanker_k/visual-studio-2026-insider-the-good-the-bad-and-the-wtf-49f7)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
