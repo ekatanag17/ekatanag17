@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Fullstack Next.js &amp; Cloudflare Template for SaaS MVP](https://dev.to/jqueryscript/fullstack-nextjs-cloudflare-template-for-saas-mvp-3iij)
-- [Securing Sessions in Spring Boot](https://dev.to/dhanush9952/securing-sessions-in-spring-boot-5d0c)
-- [Just more modelling](https://dev.to/magipunk/just-more-modelling-2k8)
-- [Visual Studio 2026 Insider: The Good, The Bad, and The WTF 🤯](https://dev.to/shiva_shanker_k/visual-studio-2026-insider-the-good-the-bad-and-the-wtf-49f7)
+- [Angular 20 Interview Questions and Answers &lpar;2025&rpar; – Part 5: PWA, SSR, Zone.js &amp; Optimization](https://dev.to/parthraval01/angular-20-interview-questions-and-answers-2025-part-5-pwa-ssr-zonejs-optimization-2n94)
+- [Why GraphQL is Gaining Adoption](https://dev.to/baraq/why-graphql-is-gaining-adoption-5g25)
+- [Diseñando un Sistema Completo de Smart Cards y RFID: Primeros Pasos y Componentes Clave](https://dev.to/antonio_socorro_95e3ff086/disenando-un-sistema-completo-de-smart-cards-y-rfid-primeros-pasos-y-componentes-clave-3e53)
+- [7 Tips for Securing SSH Key Management on Linux Servers](https://dev.to/ramer2b58cbe46bc8/7-tips-for-securing-ssh-key-management-on-linux-servers-4kjn)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
