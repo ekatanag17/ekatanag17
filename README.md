@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular 20 Interview Questions and Answers &lpar;2025&rpar; – Part 5: PWA, SSR, Zone.js &amp; Optimization](https://dev.to/parthraval01/angular-20-interview-questions-and-answers-2025-part-5-pwa-ssr-zonejs-optimization-2n94)
-- [Why GraphQL is Gaining Adoption](https://dev.to/baraq/why-graphql-is-gaining-adoption-5g25)
-- [Diseñando un Sistema Completo de Smart Cards y RFID: Primeros Pasos y Componentes Clave](https://dev.to/antonio_socorro_95e3ff086/disenando-un-sistema-completo-de-smart-cards-y-rfid-primeros-pasos-y-componentes-clave-3e53)
-- [7 Tips for Securing SSH Key Management on Linux Servers](https://dev.to/ramer2b58cbe46bc8/7-tips-for-securing-ssh-key-management-on-linux-servers-4kjn)
+- [🌤️Weather Forecast Application Utilizing Deferred Background Tasks by HarmonyOS Next](https://dev.to/harmonyos/weather-forecast-application-utilizing-deferred-background-tasks-by-harmonyos-next-2ocg)
+- [Recipe Manager with React &amp; KendoReact – CRUD, Categories, and Dark Mode](https://dev.to/the_duchess_of_hackers/recipe-manager-with-react-kendoreact-crud-categories-and-dark-mode-353n)
+- [Study Bud: AI-Powered Learning Companion](https://dev.to/anurajbhaskar47/study-bud-ai-powered-learning-companion-22io)
+- [What is a Network Topology? &lpar;Explained Like You&#39;re Five… But Cooler&rpar;](https://dev.to/araiznaqvi/what-is-a-network-topology-explained-like-youre-five-but-cooler-3pep)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
