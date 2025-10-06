@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [🌤️Weather Forecast Application Utilizing Deferred Background Tasks by HarmonyOS Next](https://dev.to/harmonyos/weather-forecast-application-utilizing-deferred-background-tasks-by-harmonyos-next-2ocg)
-- [Recipe Manager with React &amp; KendoReact – CRUD, Categories, and Dark Mode](https://dev.to/the_duchess_of_hackers/recipe-manager-with-react-kendoreact-crud-categories-and-dark-mode-353n)
-- [Study Bud: AI-Powered Learning Companion](https://dev.to/anurajbhaskar47/study-bud-ai-powered-learning-companion-22io)
-- [What is a Network Topology? &lpar;Explained Like You&#39;re Five… But Cooler&rpar;](https://dev.to/araiznaqvi/what-is-a-network-topology-explained-like-youre-five-but-cooler-3pep)
+- [Introducing MonkeysMail: A Developer-First Email Platform](https://dev.to/yorchperaza/introducing-monkeysmail-a-developer-first-email-platform-394l)
+- [Creating a CLI Tool with Node.js](https://dev.to/hasan_ashab/creating-a-cli-tool-with-nodejs-5b1k)
+- [Why I Built Things-Kit: A Spring Boot Alternative for Go](https://dev.to/noxymon/why-i-built-things-kit-a-spring-boot-alternative-for-go-3ip4)
+- [How to Activate SSL and Security Headers for WordPress in 2 Clicks](https://dev.to/volixta-plugin/how-to-activate-ssl-and-security-headers-for-wordpress-in-2-clicks-5b44)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
