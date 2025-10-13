@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing MonkeysMail: A Developer-First Email Platform](https://dev.to/yorchperaza/introducing-monkeysmail-a-developer-first-email-platform-394l)
-- [Creating a CLI Tool with Node.js](https://dev.to/hasan_ashab/creating-a-cli-tool-with-nodejs-5b1k)
-- [Why I Built Things-Kit: A Spring Boot Alternative for Go](https://dev.to/noxymon/why-i-built-things-kit-a-spring-boot-alternative-for-go-3ip4)
-- [How to Activate SSL and Security Headers for WordPress in 2 Clicks](https://dev.to/volixta-plugin/how-to-activate-ssl-and-security-headers-for-wordpress-in-2-clicks-5b44)
+- [Hands-On: Deploying a PostgreSQL + Bastion + VPC Stack Using AWS CDK + Python](https://dev.to/chainiz/hands-on-deploying-a-postgresql-bastion-vpc-stack-using-aws-cdk-python-3lm5)
+- [IPS Display in 3D Printers: Enhancing Control and Visualization](https://dev.to/tonyhe8688/ips-display-in-3d-printers-enhancing-control-and-visualization-4hfe)
+- [How I Built a Free AI Learning Resource Hub from Scratch](https://dev.to/boss_324388ee1a85bd1222d0/how-i-built-a-free-ai-learning-resource-hub-from-scratch-19f)
+- [How I Fixed My Own Mistake: The TCJSgame Speed.js Story](https://dev.to/kehinde_owolabi_e2e54567a/how-i-fixed-my-own-mistake-the-tcjsgame-speedjs-story-3noe)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
