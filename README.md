@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Hands-On: Deploying a PostgreSQL + Bastion + VPC Stack Using AWS CDK + Python](https://dev.to/chainiz/hands-on-deploying-a-postgresql-bastion-vpc-stack-using-aws-cdk-python-3lm5)
-- [IPS Display in 3D Printers: Enhancing Control and Visualization](https://dev.to/tonyhe8688/ips-display-in-3d-printers-enhancing-control-and-visualization-4hfe)
-- [How I Built a Free AI Learning Resource Hub from Scratch](https://dev.to/boss_324388ee1a85bd1222d0/how-i-built-a-free-ai-learning-resource-hub-from-scratch-19f)
-- [How I Fixed My Own Mistake: The TCJSgame Speed.js Story](https://dev.to/kehinde_owolabi_e2e54567a/how-i-fixed-my-own-mistake-the-tcjsgame-speedjs-story-3noe)
+- [Probing the Compiler in Autotools](https://dev.to/pauljlucas/probing-the-compiler-in-autotools-576o)
+- [** &quot;Keynote Speaker: The Complete Guide for 2025](https://dev.to/iankhanfuturist/-keynote-speaker-the-complete-guide-for-2025-51d8)
+- [Understanding Strings in Go: Bytes, Runes, and the Truth Behind len](https://dev.to/hugohenrick/understanding-strings-in-go-bytes-runes-and-the-truth-behind-len-3818)
+- [Day 19 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-19-of-100-days-dsa-coding-challenge-42n5)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
