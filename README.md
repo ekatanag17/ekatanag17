@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Probing the Compiler in Autotools](https://dev.to/pauljlucas/probing-the-compiler-in-autotools-576o)
-- [** &quot;Keynote Speaker: The Complete Guide for 2025](https://dev.to/iankhanfuturist/-keynote-speaker-the-complete-guide-for-2025-51d8)
-- [Understanding Strings in Go: Bytes, Runes, and the Truth Behind len](https://dev.to/hugohenrick/understanding-strings-in-go-bytes-runes-and-the-truth-behind-len-3818)
-- [Day 19 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-19-of-100-days-dsa-coding-challenge-42n5)
+- [📰Major Tech News: October 26th, 2025: The Infrastructure of Intelligence](https://dev.to/om_shree_0709/major-tech-news-october-26th-2025-the-infrastructure-of-intelligence-3lbp)
+- [VaultMind: Your AI Calendar Assistant with Auth0-Powered Security](https://dev.to/cuongnp/vaultmind-your-ai-calendar-assistant-with-auth0-powered-security-11m9)
+- [Como construí meu próprio sistema OTA &lpar;Over-the-Air Updates&rpar; para o Nutrilow com ExpressJS e Expo](https://dev.to/bendevoficial/como-construi-meu-proprio-sistema-ota-over-the-air-updates-para-o-nutrilow-com-expressjs-e-expo-38bi)
+- [Automation + Time Travel Agent](https://dev.to/barak_codes/automation-time-travel-agent-37pj)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
