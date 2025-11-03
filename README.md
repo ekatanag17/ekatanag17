@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [📰Major Tech News: October 26th, 2025: The Infrastructure of Intelligence](https://dev.to/om_shree_0709/major-tech-news-october-26th-2025-the-infrastructure-of-intelligence-3lbp)
-- [VaultMind: Your AI Calendar Assistant with Auth0-Powered Security](https://dev.to/cuongnp/vaultmind-your-ai-calendar-assistant-with-auth0-powered-security-11m9)
-- [Como construí meu próprio sistema OTA &lpar;Over-the-Air Updates&rpar; para o Nutrilow com ExpressJS e Expo](https://dev.to/bendevoficial/como-construi-meu-proprio-sistema-ota-over-the-air-updates-para-o-nutrilow-com-expressjs-e-expo-38bi)
-- [Automation + Time Travel Agent](https://dev.to/barak_codes/automation-time-travel-agent-37pj)
+- [Introducing U-HOP — Universal Hardware Optimization Protocol](https://dev.to/dbisina/introducing-u-hop-universal-hardware-optimization-protocol-2m6i)
+- [Infinite Worlds, Perfect Recall: AI&#39;s Leap in Simulated Reality](https://dev.to/arvind_sundararajan/infinite-worlds-perfect-recall-ais-leap-in-simulated-reality-1512)
+- [The Design Innovations of NopGraphQL: From API Protocol to a General-Purpose Information Operation Engine](https://dev.to/canonical/the-design-innovations-of-nopgraphql-from-api-protocol-to-a-general-purpose-information-operation-f5g)
+- [Code, community, and copilot. AI is changing the way we contribute](https://dev.to/mishmanners/code-community-and-copilot-ai-is-changing-the-way-we-contribute-2b3n)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
