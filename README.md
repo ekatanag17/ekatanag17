@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing U-HOP — Universal Hardware Optimization Protocol](https://dev.to/dbisina/introducing-u-hop-universal-hardware-optimization-protocol-2m6i)
-- [Infinite Worlds, Perfect Recall: AI&#39;s Leap in Simulated Reality](https://dev.to/arvind_sundararajan/infinite-worlds-perfect-recall-ais-leap-in-simulated-reality-1512)
-- [The Design Innovations of NopGraphQL: From API Protocol to a General-Purpose Information Operation Engine](https://dev.to/canonical/the-design-innovations-of-nopgraphql-from-api-protocol-to-a-general-purpose-information-operation-f5g)
-- [Code, community, and copilot. AI is changing the way we contribute](https://dev.to/mishmanners/code-community-and-copilot-ai-is-changing-the-way-we-contribute-2b3n)
+- [🛠 Fixing “runsv not running” Error in GitLab CE](https://dev.to/nhisyamj/fixing-runsv-not-running-error-in-gitlab-ce-1cn)
+- [An alt-SAGA Pattern for Microservices](https://dev.to/mapteb/an-alt-saga-pattern-for-microservices-2o6b)
+- [Stop Guessing! AI That Explains Its Algorithm Choices is Finally Here](https://dev.to/arvind_sundararajan/stop-guessing-ai-that-explains-its-algorithm-choices-is-finally-here-16k6)
+- [PyKryptor - open source AxCrypt alternative](https://dev.to/commonwealthrocks/pykryptor-open-source-axcrypt-alternative-4l91)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
