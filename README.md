@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [🛠 Fixing “runsv not running” Error in GitLab CE](https://dev.to/nhisyamj/fixing-runsv-not-running-error-in-gitlab-ce-1cn)
-- [An alt-SAGA Pattern for Microservices](https://dev.to/mapteb/an-alt-saga-pattern-for-microservices-2o6b)
-- [Stop Guessing! AI That Explains Its Algorithm Choices is Finally Here](https://dev.to/arvind_sundararajan/stop-guessing-ai-that-explains-its-algorithm-choices-is-finally-here-16k6)
-- [PyKryptor - open source AxCrypt alternative](https://dev.to/commonwealthrocks/pykryptor-open-source-axcrypt-alternative-4l91)
+- [Turning Your GitHub Repos into Gold: How to Sell Your Code Online](https://dev.to/softwaredeveloperhub01/turning-your-github-repos-into-gold-how-to-sell-your-code-online-187o)
+- [Reclaiming context with claude code CLI](https://dev.to/nick_porter_0cfcbc03e871f/reclaiming-context-with-claude-code-cli-1hic)
+- [Lidando com Concorrência em Java - Lock Pessimista](https://dev.to/alineavila/lidando-com-concorrencia-em-java-lock-pessimista-9o3)
+- [Orchestrating Complex Processes in Node.js with @jescrich/nestjs-workflow](https://dev.to/jose_escrich_7a9e40bdd5e7/orchestrating-complex-processes-in-nodejs-with-jescrichnestjs-workflow-jjb)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
