@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Most Founders Misunderstand What “AI-Enabled” Means](https://dev.to/jaideepparashar/why-most-founders-misunderstand-what-ai-enabled-means-24gi)
-- [Cómo creé una App educativa Open Source con React y Capacitor &lpar;NeuroMind&rpar;.](https://dev.to/dazuncion/como-cree-una-app-educativa-open-source-con-react-y-capacitor-neuromind-d9h)
-- [2025: Why Long-Term Thinking Defines Great Developers](https://dev.to/farhannasirdev/2025-why-long-term-thinking-defines-great-developers-anj)
-- [Flutter Lists &amp; Grids: The Ultimate Scrolling Guide &lpar;2025&rpar;](https://dev.to/srfdeveloper/flutter-lists-grids-the-ultimate-scrolling-guide-2025-1ge4)
+- [A beginner&#39;s guide to the Ideogram-V3-Turbo model by Ideogram-Ai on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-ideogram-v3-turbo-model-by-ideogram-ai-on-replicate-j6c)
+- [A beginner&#39;s guide to the Qwen-Image-Edit-Plus model by Qwen on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-qwen-image-edit-plus-model-by-qwen-on-replicate-56o2)
+- [How LSOLINK Tests Optical Transceivers to Ensure Quality and Compatibility?](https://dev.to/lsolink/how-lsolink-tests-optical-transceivers-to-ensure-quality-and-compatibility-3pmf)
+- [Basic Concepts of C# Numeric Types — From Integers to SIMD, for LLM-Ready Thinking](https://dev.to/cristiansifuentes/basic-concepts-of-c-numeric-types-from-integers-to-simd-for-llm-ready-thinking-1a63)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
