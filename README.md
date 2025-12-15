@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [A beginner&#39;s guide to the Ideogram-V3-Turbo model by Ideogram-Ai on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-ideogram-v3-turbo-model-by-ideogram-ai-on-replicate-j6c)
-- [A beginner&#39;s guide to the Qwen-Image-Edit-Plus model by Qwen on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-qwen-image-edit-plus-model-by-qwen-on-replicate-56o2)
-- [How LSOLINK Tests Optical Transceivers to Ensure Quality and Compatibility?](https://dev.to/lsolink/how-lsolink-tests-optical-transceivers-to-ensure-quality-and-compatibility-3pmf)
-- [Basic Concepts of C# Numeric Types — From Integers to SIMD, for LLM-Ready Thinking](https://dev.to/cristiansifuentes/basic-concepts-of-c-numeric-types-from-integers-to-simd-for-llm-ready-thinking-1a63)
+- [Set up a Docker-based development environment using Hiawatha web server, PHP-FPM, and MySQL](https://dev.to/kingyou/set-up-a-docker-based-development-environment-using-hiawatha-web-server-php-fpm-and-mysql-4p1)
+- [Web Automation Trends in Singapore](https://dev.to/techcontributors/web-automation-trends-in-singapore-37ai)
+- [Why I Built Framework-Agnostic UI Components with Web Components](https://dev.to/dong_gyunseo_117a0f6419d/why-i-built-framework-agnostic-ui-components-with-web-components-hg)
+- [Music Monday Spotify: Open-Source Sync Bot](https://dev.to/mikeydorje/music-monday-spotify-open-source-sync-bot-e86)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
