@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Set up a Docker-based development environment using Hiawatha web server, PHP-FPM, and MySQL](https://dev.to/kingyou/set-up-a-docker-based-development-environment-using-hiawatha-web-server-php-fpm-and-mysql-4p1)
-- [Web Automation Trends in Singapore](https://dev.to/techcontributors/web-automation-trends-in-singapore-37ai)
-- [Why I Built Framework-Agnostic UI Components with Web Components](https://dev.to/dong_gyunseo_117a0f6419d/why-i-built-framework-agnostic-ui-components-with-web-components-hg)
-- [Music Monday Spotify: Open-Source Sync Bot](https://dev.to/mikeydorje/music-monday-spotify-open-source-sync-bot-e86)
+- [AI Sycophancy: Is AI Too Nice?](https://dev.to/evanmorris/ai-sycophancy-is-ai-too-nice-4pda)
+- [Why You Can&#39;t &quot;Manage&quot; Code You Don&#39;t Understand](https://dev.to/ttoss/why-you-cant-manage-code-you-dont-understand-4idd)
+- [Code Mode Doesn&#39;t Replace MCP &lpar;Here&#39;s What It Actually Does&rpar;](https://dev.to/blockopensource/code-mode-doesnt-replace-mcp-heres-what-it-actually-does-3hga)
+- [SwiftUI Rendering Pipeline Explained](https://dev.to/sebastienlato/swiftui-rendering-pipeline-explained-3m5h)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
