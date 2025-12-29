@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Sycophancy: Is AI Too Nice?](https://dev.to/evanmorris/ai-sycophancy-is-ai-too-nice-4pda)
-- [Why You Can&#39;t &quot;Manage&quot; Code You Don&#39;t Understand](https://dev.to/ttoss/why-you-cant-manage-code-you-dont-understand-4idd)
-- [Code Mode Doesn&#39;t Replace MCP &lpar;Here&#39;s What It Actually Does&rpar;](https://dev.to/blockopensource/code-mode-doesnt-replace-mcp-heres-what-it-actually-does-3hga)
-- [SwiftUI Rendering Pipeline Explained](https://dev.to/sebastienlato/swiftui-rendering-pipeline-explained-3m5h)
+- [How I built a pSEO app with Next.js 14 generating 500+ static pages &lpar;Case Study&rpar;](https://dev.to/trinc4/how-i-built-a-pseo-app-with-nextjs-14-generating-500-static-pages-case-study-522e)
+- [Your LED Strip Is a Distributed System &lpar;And That’s Why It Glitches&rpar;](https://dev.to/emma-suntech/your-led-strip-is-a-distributed-system-and-thats-why-it-glitches-1bh4)
+- [Avoid Forcing REST onto Domain-Driven Architectures](https://dev.to/stevenstuartm/avoid-forcing-rest-onto-domain-driven-architectures-2j6k)
+- [From MITM to Agentic Design: Automating Sports Nutrition with Claude, n8n, and Hexis](https://dev.to/emilienmottet/from-mitm-to-agentic-design-automating-sports-nutrition-with-claude-n8n-and-hexis-12gg)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
