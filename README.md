@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [How I built a pSEO app with Next.js 14 generating 500+ static pages &lpar;Case Study&rpar;](https://dev.to/trinc4/how-i-built-a-pseo-app-with-nextjs-14-generating-500-static-pages-case-study-522e)
-- [Your LED Strip Is a Distributed System &lpar;And That’s Why It Glitches&rpar;](https://dev.to/emma-suntech/your-led-strip-is-a-distributed-system-and-thats-why-it-glitches-1bh4)
-- [Avoid Forcing REST onto Domain-Driven Architectures](https://dev.to/stevenstuartm/avoid-forcing-rest-onto-domain-driven-architectures-2j6k)
-- [From MITM to Agentic Design: Automating Sports Nutrition with Claude, n8n, and Hexis](https://dev.to/emilienmottet/from-mitm-to-agentic-design-automating-sports-nutrition-with-claude-n8n-and-hexis-12gg)
+- [Choosing Your Path: Avenger &lpar;Front-End&rpar; vs Men in Black &lpar;Back-End&rpar;](https://dev.to/luigiescalante/choosing-your-path-avenger-front-end-vs-men-in-black-back-end--44em)
+- [I Built a Multi-Agent AI System That Analyzes Your GitHub Like a Technical Interview Panel](https://dev.to/divyasinghdev/i-built-a-multi-agent-ai-system-that-analyzes-your-github-like-a-technical-interview-panel-1hd3)
+- [Awakening Agency Integration](https://dev.to/lisa_girlinghouse_5124a19/awakening-agency-integration-3n58)
+- [The Gaming Analytics Tech Stack: From Ingestion to Insights](https://dev.to/sai_krishnachaitanyachi/the-gaming-analytics-tech-stack-from-ingestion-to-insights-4769)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
