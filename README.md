@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing Your Path: Avenger &lpar;Front-End&rpar; vs Men in Black &lpar;Back-End&rpar;](https://dev.to/luigiescalante/choosing-your-path-avenger-front-end-vs-men-in-black-back-end--44em)
-- [I Built a Multi-Agent AI System That Analyzes Your GitHub Like a Technical Interview Panel](https://dev.to/divyasinghdev/i-built-a-multi-agent-ai-system-that-analyzes-your-github-like-a-technical-interview-panel-1hd3)
-- [Awakening Agency Integration](https://dev.to/lisa_girlinghouse_5124a19/awakening-agency-integration-3n58)
-- [The Gaming Analytics Tech Stack: From Ingestion to Insights](https://dev.to/sai_krishnachaitanyachi/the-gaming-analytics-tech-stack-from-ingestion-to-insights-4769)
+- [Build Network Proxies and Reverse Proxies in Go: A Hands-On Guide](https://dev.to/jones_charles_ad50858dbc0/build-network-proxies-and-reverse-proxies-in-go-a-hands-on-guide-288j)
+- [System.CommandLine with Dependency Injection: A Complete Solution](https://dev.to/rushuiguan/systemcommandline-with-dependency-injection-a-complete-solution-128o)
+- [Why n8n Is Quietly Becoming a Power Tool for DevOps &amp; SRE Teams❓](https://dev.to/saharbat00l/why-n8n-is-quietly-becoming-a-power-tool-for-devops-sre-teams-4j14)
+- [Integration tests in Node.js with Mocha/Chai](https://dev.to/lucaspereiradesouzat/integration-tests-in-nodejs-with-mochachai-jim)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
