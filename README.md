@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Network Proxies and Reverse Proxies in Go: A Hands-On Guide](https://dev.to/jones_charles_ad50858dbc0/build-network-proxies-and-reverse-proxies-in-go-a-hands-on-guide-288j)
-- [System.CommandLine with Dependency Injection: A Complete Solution](https://dev.to/rushuiguan/systemcommandline-with-dependency-injection-a-complete-solution-128o)
-- [Why n8n Is Quietly Becoming a Power Tool for DevOps &amp; SRE Teams❓](https://dev.to/saharbat00l/why-n8n-is-quietly-becoming-a-power-tool-for-devops-sre-teams-4j14)
-- [Integration tests in Node.js with Mocha/Chai](https://dev.to/lucaspereiradesouzat/integration-tests-in-nodejs-with-mochachai-jim)
+- [Automation Without Accountability Is Structurally Unsafe](https://dev.to/yuer/automation-without-accountability-is-structurally-unsafe-1kmk)
+- [Authority, Boundaries, and Final Veto in AI Systems](https://dev.to/yuer/authority-boundaries-and-final-veto-in-ai-systems-18d9)
+- [Building an AI-Powered Authentication System with Temporal.io](https://dev.to/ujja/building-an-ai-powered-authentication-system-with-temporalio-16kd)
+- [Five Non-Negotiable Principles for Controllable AI Systems](https://dev.to/yuer/five-non-negotiable-principles-for-controllable-ai-systems-h7f)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
