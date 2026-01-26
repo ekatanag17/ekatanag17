@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Automation Without Accountability Is Structurally Unsafe](https://dev.to/yuer/automation-without-accountability-is-structurally-unsafe-1kmk)
-- [Authority, Boundaries, and Final Veto in AI Systems](https://dev.to/yuer/authority-boundaries-and-final-veto-in-ai-systems-18d9)
-- [Building an AI-Powered Authentication System with Temporal.io](https://dev.to/ujja/building-an-ai-powered-authentication-system-with-temporalio-16kd)
-- [Five Non-Negotiable Principles for Controllable AI Systems](https://dev.to/yuer/five-non-negotiable-principles-for-controllable-ai-systems-h7f)
+- [How Will the Next Federal Reserve Chair Shape the U.S. Cryptocurrency Regulatory Landscape?](https://dev.to/apnews/how-will-the-next-federal-reserve-chair-shape-the-us-cryptocurrency-regulatory-landscape-2pa0)
+- [ROLLUP vs CUBE: How I Finally Understood SQL Subtotals](https://dev.to/mazinocodes/rollup-vs-cube-how-i-finally-understood-sql-subtotals-4a49)
+- [Hey dev.to 👋](https://dev.to/sanjiv_prabhunandan/hey-devto-4l5o)
+- [Build Your Own AI Story Generator with RAG - Part 3: Generating Stories](https://dev.to/diskcleankit/build-your-own-ai-story-generator-with-rag-part-3-generating-stories-4b1)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
