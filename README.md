@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [How Will the Next Federal Reserve Chair Shape the U.S. Cryptocurrency Regulatory Landscape?](https://dev.to/apnews/how-will-the-next-federal-reserve-chair-shape-the-us-cryptocurrency-regulatory-landscape-2pa0)
-- [ROLLUP vs CUBE: How I Finally Understood SQL Subtotals](https://dev.to/mazinocodes/rollup-vs-cube-how-i-finally-understood-sql-subtotals-4a49)
-- [Hey dev.to 👋](https://dev.to/sanjiv_prabhunandan/hey-devto-4l5o)
-- [Build Your Own AI Story Generator with RAG - Part 3: Generating Stories](https://dev.to/diskcleankit/build-your-own-ai-story-generator-with-rag-part-3-generating-stories-4b1)
+- [Mobile Developer Portfolio](https://dev.to/paul_leung_dcbf90b7c5de1f/mobile-developer-portfolio-1bke)
+- [Building a Design System Part 6](https://dev.to/alon_fibert_2e9056e6a5850/building-a-design-system-part-6-1fd1)
+- [From Product Grids to Personal Stylists: Conversational Upselling with AI](https://dev.to/gervaisamoah/from-product-grids-to-personal-stylists-conversational-upselling-with-ai-3aj1)
+- [Building a personal portfolio using Google AI Studio](https://dev.to/xiaozhen_zhu_5960ffb276e6/building-a-personal-portfolio-using-google-ai-studio-3l6m)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
