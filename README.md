@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Mobile Developer Portfolio](https://dev.to/paul_leung_dcbf90b7c5de1f/mobile-developer-portfolio-1bke)
-- [Building a Design System Part 6](https://dev.to/alon_fibert_2e9056e6a5850/building-a-design-system-part-6-1fd1)
-- [From Product Grids to Personal Stylists: Conversational Upselling with AI](https://dev.to/gervaisamoah/from-product-grids-to-personal-stylists-conversational-upselling-with-ai-3aj1)
-- [Building a personal portfolio using Google AI Studio](https://dev.to/xiaozhen_zhu_5960ffb276e6/building-a-personal-portfolio-using-google-ai-studio-3l6m)
+- [Local-First AI: How SLMs are Fixing the Latency Gap 💻✨](https://dev.to/charanpool/local-first-ai-how-slms-are-fixing-the-latency-gap-3h4g)
+- [Compiling the Vision Encoder: Squeezing 3% More Throughput from Qwen3-VL on Hopper GPUs](https://dev.to/mketkar/compiling-the-vision-encoder-squeezing-3-more-throughput-from-qwen3-vl-on-hopper-gpus-24ma)
+- [5 AI Coding Patterns That Actually Work &lpar;2026 Edition&rpar;](https://dev.to/rakesh1002/5-ai-coding-patterns-that-actually-work-2026-edition-13m5)
+- [Cloud Newbies: Avoid These 5 Costly Pitfalls! | Cloud Cost Optimization](https://dev.to/pennypeinee88/cloud-newbies-avoid-these-5-costly-pitfalls-cloud-cost-optimization-24k8)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
