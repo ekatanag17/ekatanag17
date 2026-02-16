@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Local-First AI: How SLMs are Fixing the Latency Gap 💻✨](https://dev.to/charanpool/local-first-ai-how-slms-are-fixing-the-latency-gap-3h4g)
-- [Compiling the Vision Encoder: Squeezing 3% More Throughput from Qwen3-VL on Hopper GPUs](https://dev.to/mketkar/compiling-the-vision-encoder-squeezing-3-more-throughput-from-qwen3-vl-on-hopper-gpus-24ma)
-- [5 AI Coding Patterns That Actually Work &lpar;2026 Edition&rpar;](https://dev.to/rakesh1002/5-ai-coding-patterns-that-actually-work-2026-edition-13m5)
-- [Cloud Newbies: Avoid These 5 Costly Pitfalls! | Cloud Cost Optimization](https://dev.to/pennypeinee88/cloud-newbies-avoid-these-5-costly-pitfalls-cloud-cost-optimization-24k8)
+- [Beacon — Context-Aware UI Guidance Without Forced Conversation](https://dev.to/dyung/beacon-context-aware-ui-guidance-without-forced-conversation-pm8)
+- [NeuroMode — Cognitive Accessibility Layer for GitHub Copilot](https://dev.to/camilapydata/neuromode-cognitive-accessibility-layer-for-github-copilot-2j21)
+- [Please don&#39;t rely solely on &quot;black-box&quot; security tools.](https://dev.to/zerogru/please-dont-rely-solely-on-black-box-security-tools-5ei2)
+- [I Built Locked In: A Browser Extension to Stay Focused and Break the Dopamine Loop](https://dev.to/jamesrhurtado/i-built-locked-in-a-browser-extension-to-stay-focused-and-break-the-dopamine-loop-52en)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
