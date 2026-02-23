@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Beacon — Context-Aware UI Guidance Without Forced Conversation](https://dev.to/dyung/beacon-context-aware-ui-guidance-without-forced-conversation-pm8)
-- [NeuroMode — Cognitive Accessibility Layer for GitHub Copilot](https://dev.to/camilapydata/neuromode-cognitive-accessibility-layer-for-github-copilot-2j21)
-- [Please don&#39;t rely solely on &quot;black-box&quot; security tools.](https://dev.to/zerogru/please-dont-rely-solely-on-black-box-security-tools-5ei2)
-- [I Built Locked In: A Browser Extension to Stay Focused and Break the Dopamine Loop](https://dev.to/jamesrhurtado/i-built-locked-in-a-browser-extension-to-stay-focused-and-break-the-dopamine-loop-52en)
+- [Por que estou migrando da Roblox para o desenvolvimento web](https://dev.to/cayasde/por-que-estou-migrando-da-roblox-para-o-desenvolvimento-web-48h1)
+- [Bringing Async MCP to Google Cloud Run — Introducing cloudrun-mcp](https://dev.to/raghavachellu/bringing-async-mcp-to-google-cloud-run-introducing-cloudrun-mcp-1g3p)
+- [Scaling Climate Tech: An Introduction to Helpothon Sustainability for Developers](https://dev.to/helpathon/scaling-climate-tech-an-introduction-to-helpothon-sustainability-for-developers-31a8)
+- [Agent Framework Workflows: Beyond Chat — Orchestrating Complex AI Tasks](https://dev.to/bspann/agent-framework-workflows-beyond-chat-orchestrating-complex-ai-tasks-3oba)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
