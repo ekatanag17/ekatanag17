@@ -23,10 +23,12 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Por que estou migrando da Roblox para o desenvolvimento web](https://dev.to/cayasde/por-que-estou-migrando-da-roblox-para-o-desenvolvimento-web-48h1)
-- [Bringing Async MCP to Google Cloud Run — Introducing cloudrun-mcp](https://dev.to/raghavachellu/bringing-async-mcp-to-google-cloud-run-introducing-cloudrun-mcp-1g3p)
-- [Scaling Climate Tech: An Introduction to Helpothon Sustainability for Developers](https://dev.to/helpathon/scaling-climate-tech-an-introduction-to-helpothon-sustainability-for-developers-31a8)
-- [Agent Framework Workflows: Beyond Chat — Orchestrating Complex AI Tasks](https://dev.to/bspann/agent-framework-workflows-beyond-chat-orchestrating-complex-ai-tasks-3oba)
+- [MeraSociety — I Turned My Apartment Society&#39;s WhatsApp Chaos into a Real App](https://dev.to/jackbright/merasociety-i-turned-my-apartment-societys-whatsapp-chaos-into-a-real-app-4o85)
+- [February 2026 AI Roundup: Agents Take the Wheel](https://dev.to/joeljstephen/february-2026-ai-roundup-agents-take-the-wheel-11jo)
+- [The future engineer is not replaced by AI.
+
+They are elevated by it, from someone who writes code to someone who shapes intelligent systems.](https://dev.to/jaideepparashar/the-future-engineer-is-not-replaced-by-ai-they-are-elevated-by-it-from-someone-who-writes-code-410l)
+- [HOME: Dev productivity Extension, bring Arc to chrome](https://dev.to/lutif/home-the-zero-auth-chrome-extension-revolutionizing-your-digital-workspace-2ok5)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
