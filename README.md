@@ -23,12 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [MeraSociety — I Turned My Apartment Society&#39;s WhatsApp Chaos into a Real App](https://dev.to/jackbright/merasociety-i-turned-my-apartment-societys-whatsapp-chaos-into-a-real-app-4o85)
-- [February 2026 AI Roundup: Agents Take the Wheel](https://dev.to/joeljstephen/february-2026-ai-roundup-agents-take-the-wheel-11jo)
-- [The future engineer is not replaced by AI.
-
-They are elevated by it, from someone who writes code to someone who shapes intelligent systems.](https://dev.to/jaideepparashar/the-future-engineer-is-not-replaced-by-ai-they-are-elevated-by-it-from-someone-who-writes-code-410l)
-- [HOME: Dev productivity Extension, bring Arc to chrome](https://dev.to/lutif/home-the-zero-auth-chrome-extension-revolutionizing-your-digital-workspace-2ok5)
+- [Deploying My Headless Ubuntu Server](https://dev.to/priyanshu_khantwal_cf89ff/deploying-my-headless-ubuntu-server-b0i)
+- [The Silent Retry Trap: Why AI Agents Compound Failures in the Dark](https://dev.to/askpatrick/the-silent-retry-trap-why-ai-agents-compound-failures-in-the-dark-3h3g)
+- [Rotating Residential Proxies Validation Lab for Engineers](https://dev.to/gabrielewayner/rotating-residential-proxies-validation-lab-for-engineers-45j5)
+- [What Does Installing OpenClaw Mean for Most People?](https://dev.to/skyguan92/what-does-installing-openclaw-mean-for-most-people-8o1)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
