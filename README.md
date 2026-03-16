@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying My Headless Ubuntu Server](https://dev.to/priyanshu_khantwal_cf89ff/deploying-my-headless-ubuntu-server-b0i)
-- [The Silent Retry Trap: Why AI Agents Compound Failures in the Dark](https://dev.to/askpatrick/the-silent-retry-trap-why-ai-agents-compound-failures-in-the-dark-3h3g)
-- [Rotating Residential Proxies Validation Lab for Engineers](https://dev.to/gabrielewayner/rotating-residential-proxies-validation-lab-for-engineers-45j5)
-- [What Does Installing OpenClaw Mean for Most People?](https://dev.to/skyguan92/what-does-installing-openclaw-mean-for-most-people-8o1)
+- [I Over-Engineered My First Project: Bridging TypeScript and Zig with Bun! 🚀](https://dev.to/owenbellowen/i-over-engineered-my-first-project-bridging-typescript-and-zig-with-bun-2h8n)
+- [Designing Better Spring Boot Applications with Smart Dependency Injection](https://dev.to/manju_george_bca224c066e1/designing-better-spring-boot-applications-with-smart-dependency-injection-4o7m)
+- [15 Minutes to &quot;Ship It&quot;: From Zero to Production with Node.js &lpar;Clean Architecture + REST API + Kafka + Docker &amp; CI/CD&rpar;](https://dev.to/paudang/15-minutes-to-ship-it-from-zero-to-production-with-nodejs-clean-architecture-rest-api--3l7b)
+- [Como Construí um Jogo de Corrida Cyberpunk com Gemini Live AI — e o que aprendi no caminho](https://dev.to/egon_portolani_58b1e2e99e/como-construi-um-jogo-de-corrida-cyberpunk-com-gemini-live-ai-e-o-que-aprendi-no-caminho-20il)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
