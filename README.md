@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [I Over-Engineered My First Project: Bridging TypeScript and Zig with Bun! 🚀](https://dev.to/owenbellowen/i-over-engineered-my-first-project-bridging-typescript-and-zig-with-bun-2h8n)
-- [Designing Better Spring Boot Applications with Smart Dependency Injection](https://dev.to/manju_george_bca224c066e1/designing-better-spring-boot-applications-with-smart-dependency-injection-4o7m)
-- [15 Minutes to &quot;Ship It&quot;: From Zero to Production with Node.js &lpar;Clean Architecture + REST API + Kafka + Docker &amp; CI/CD&rpar;](https://dev.to/paudang/15-minutes-to-ship-it-from-zero-to-production-with-nodejs-clean-architecture-rest-api--3l7b)
-- [Como Construí um Jogo de Corrida Cyberpunk com Gemini Live AI — e o que aprendi no caminho](https://dev.to/egon_portolani_58b1e2e99e/como-construi-um-jogo-de-corrida-cyberpunk-com-gemini-live-ai-e-o-que-aprendi-no-caminho-20il)
+- [AI-Powered Accessibility: From Hype to Real-World Wins](https://dev.to/khushboo_parmar/ai-powered-accessibility-from-hype-to-real-world-wins-c1m)
+- [My AI crew and I worked as a team for countless 17 hour days for a no compromise release. I wouldn&#39;t change a thing. 🖖](https://dev.to/lostbeard/my-ai-crew-and-i-worked-as-a-team-for-countless-17-hours-days-for-a-no-compromise-release-i-5go1)
+- [Canonical Eyes IPO — Ubuntu Proves the Revival of Linux and OSS](https://dev.to/soytuber/canonical-eyes-ipo-ubuntu-proves-the-revival-of-linux-and-oss-kp8)
+- [Data Engineering for Indie Hackers: Arbitrage at Scale](https://dev.to/kazkn/data-engineering-for-indie-hackers-arbitrage-at-scale-37f6)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
