@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tested GPT-5.4 vs Claude Opus 4.6 vs Gemini 3.1 Pro on 5 Real Coding Tasks](https://dev.to/sean_2148a807e8325f444e21/i-tested-gpt-54-vs-claude-opus-46-vs-gemini-31-pro-on-5-real-coding-tasks-15ob)
-- [Recursion](https://dev.to/keerthigap/recursion-2d67)
-- [The Tiny AI Emotion Engine That Makes Your Companion Feel Alive &lpar;Meet DiEmo for LivinGrimoire&rpar;](https://dev.to/owly/the-tiny-ai-emotion-engine-that-makes-your-companion-feel-alive-meet-diemo-for-livingrimoire-2hmo)
-- [Pantry &amp; Plate: An AI Kitchen Assistant That Actually Knows What&#39;s Expiring Tomorrow](https://dev.to/alyssakpratt/pantry-plate-an-ai-kitchen-assistant-that-actually-knows-whats-expiring-tomorrow-80o)
+- [A beginner&#39;s guide to the Nano-Banana-2 model by Google on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-nano-banana-2-model-by-google-on-replicate-jel)
+- [Stop Prompting; Use the Design-Log Method to Build Predictable Tools](https://dev.to/cypheroxide/stop-prompting-use-the-design-log-method-to-build-predictable-tools-2773)
+- [Services no Kubernetes](https://dev.to/deividferraz/services-no-kubernetes-4khc)
+- [Inside the daring mission to rescue a U.S. airman downed in Iran](https://dev.to/chx382/inside-the-daring-mission-to-rescue-a-us-airman-downed-in-iran-42mj)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
