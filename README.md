@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [A beginner&#39;s guide to the Nano-Banana-2 model by Google on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-nano-banana-2-model-by-google-on-replicate-jel)
-- [Stop Prompting; Use the Design-Log Method to Build Predictable Tools](https://dev.to/cypheroxide/stop-prompting-use-the-design-log-method-to-build-predictable-tools-2773)
-- [Services no Kubernetes](https://dev.to/deividferraz/services-no-kubernetes-4khc)
-- [Inside the daring mission to rescue a U.S. airman downed in Iran](https://dev.to/chx382/inside-the-daring-mission-to-rescue-a-us-airman-downed-in-iran-42mj)
+- [Karpathy&#39;s LLM Knowledge Base SEO: I applied the pattern for 12 months and here&#39;s what I learned](https://dev.to/jim_l_efc70c3a738e9f4baa7/karpathys-llm-knowledge-base-x-seo-i-applied-the-pattern-for-12-months-and-heres-what-i-learned-51g9)
+- [Why We Built a Managed Platform for OpenClaw Agents &lpar;And What We Learned&rpar;](https://dev.to/rapidclaw/why-we-built-a-managed-platform-for-openclaw-agents-and-what-we-learned-570l)
+- [Signals, Effects, and the Algebra Between Them](https://dev.to/jasuperior/signals-effects-and-the-algebra-between-them-p71)
+- [How I Secured a Linux Server from Scratch: HNG DevOps Stage 0](https://dev.to/gideonbature/how-i-secured-a-linux-server-from-scratch-hng-devops-stage-0-341b)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
