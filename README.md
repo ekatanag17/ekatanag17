@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Karpathy&#39;s LLM Knowledge Base SEO: I applied the pattern for 12 months and here&#39;s what I learned](https://dev.to/jim_l_efc70c3a738e9f4baa7/karpathys-llm-knowledge-base-x-seo-i-applied-the-pattern-for-12-months-and-heres-what-i-learned-51g9)
-- [Why We Built a Managed Platform for OpenClaw Agents &lpar;And What We Learned&rpar;](https://dev.to/rapidclaw/why-we-built-a-managed-platform-for-openclaw-agents-and-what-we-learned-570l)
-- [Signals, Effects, and the Algebra Between Them](https://dev.to/jasuperior/signals-effects-and-the-algebra-between-them-p71)
-- [How I Secured a Linux Server from Scratch: HNG DevOps Stage 0](https://dev.to/gideonbature/how-i-secured-a-linux-server-from-scratch-hng-devops-stage-0-341b)
+- [I Wrote a Python Interpreter in Python. What I Learned Has Nothing to Do With Python](https://dev.to/jtorchia/i-wrote-a-python-interpreter-in-python-what-i-learned-has-nothing-to-do-with-python-g8k)
+- [Vercel Hack: Why You Need to Rotate Your &quot;Non-Sensitive&quot; Environment Variables Today](https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh)
+- [How We Built Runtime Security for AI Agents](https://dev.to/samueloladjibeep/how-we-built-runtime-security-for-ai-agents-30j8)
+- [Arquitetura Rest](https://dev.to/sophiados_santos/arquitetura-rest-26bk)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
