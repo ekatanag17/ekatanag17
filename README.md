@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [I Wrote a Python Interpreter in Python. What I Learned Has Nothing to Do With Python](https://dev.to/jtorchia/i-wrote-a-python-interpreter-in-python-what-i-learned-has-nothing-to-do-with-python-g8k)
-- [Vercel Hack: Why You Need to Rotate Your &quot;Non-Sensitive&quot; Environment Variables Today](https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh)
-- [How We Built Runtime Security for AI Agents](https://dev.to/samueloladjibeep/how-we-built-runtime-security-for-ai-agents-30j8)
-- [Arquitetura Rest](https://dev.to/sophiados_santos/arquitetura-rest-26bk)
+- [Windows Server Operations in Practice &lpar;Part 1&rpar;: Nginx Load Balancing Configuration &amp; Tuning](https://dev.to/zxfcn/windows-server-operations-in-practice-part-1-nginx-load-balancing-configuration-tuning-599o)
+- [Your Page Is Only as Fast as Your Slowest API: The Case for Streaming SSR](https://dev.to/childrentime/your-page-is-only-as-fast-as-your-slowest-api-the-case-for-streaming-ssr-1obp)
+- [How Emoji Mashups Work — And Why There&#39;s No &quot;Algorithm&quot; Behind Them](https://dev.to/linmingren/how-emoji-mashups-work-and-why-theres-no-algorithm-behind-them-4mj0)
+- [String program](https://dev.to/priya_k_9427a2e692abd3ddb/string-program-m51)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
