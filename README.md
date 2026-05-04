@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows Server Operations in Practice &lpar;Part 1&rpar;: Nginx Load Balancing Configuration &amp; Tuning](https://dev.to/zxfcn/windows-server-operations-in-practice-part-1-nginx-load-balancing-configuration-tuning-599o)
-- [Your Page Is Only as Fast as Your Slowest API: The Case for Streaming SSR](https://dev.to/childrentime/your-page-is-only-as-fast-as-your-slowest-api-the-case-for-streaming-ssr-1obp)
-- [How Emoji Mashups Work — And Why There&#39;s No &quot;Algorithm&quot; Behind Them](https://dev.to/linmingren/how-emoji-mashups-work-and-why-theres-no-algorithm-behind-them-4mj0)
-- [String program](https://dev.to/priya_k_9427a2e692abd3ddb/string-program-m51)
+- [Day 3: Prompting Techniques in AI &lpar;Part 1&rpar;](https://dev.to/suraj_bera/day-3-prompting-techniques-in-ai-part-1-k9g)
+- [Terraform Workflow: Automatiza tu infraestructura desde cero](https://dev.to/8infinitecloud/terraform-workflow-automatiza-tu-infraestructura-desde-cero-22p9)
+- [I Built a Website That Tries to Make People Leave Faster](https://dev.to/myfunny/i-built-a-website-that-tries-to-make-people-leave-faster-eng)
+- [Deep Dive: How Nuxt 4.0’s Hybrid Rendering Works with Vue 3.5 and Nitro 2.9](https://dev.to/johalputt/deep-dive-how-nuxt-40s-hybrid-rendering-works-with-vue-35-and-nitro-29-21cj)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
