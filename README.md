@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 3: Prompting Techniques in AI &lpar;Part 1&rpar;](https://dev.to/suraj_bera/day-3-prompting-techniques-in-ai-part-1-k9g)
-- [Terraform Workflow: Automatiza tu infraestructura desde cero](https://dev.to/8infinitecloud/terraform-workflow-automatiza-tu-infraestructura-desde-cero-22p9)
-- [I Built a Website That Tries to Make People Leave Faster](https://dev.to/myfunny/i-built-a-website-that-tries-to-make-people-leave-faster-eng)
-- [Deep Dive: How Nuxt 4.0’s Hybrid Rendering Works with Vue 3.5 and Nitro 2.9](https://dev.to/johalputt/deep-dive-how-nuxt-40s-hybrid-rendering-works-with-vue-35-and-nitro-29-21cj)
+- [Cómo construí un Morning Briefing con IA que se ejecuta solo cada mañana](https://dev.to/jestebandev/como-construi-un-morning-briefing-con-ia-que-se-ejecuta-solo-cada-manana-bop)
+- [Vague Thinking Stops Being Free](https://dev.to/whetlan/vague-thinking-stops-being-free-3lan)
+- [What Is Agentic Testing? A Practical Guide for QA Teams](https://dev.to/depapp/what-is-agentic-testing-a-practical-guide-for-qa-teams-3j65)
+- [Stop Passing req Everywhere — Express Middleware for Request Context Propagation](https://dev.to/saifuddin_tipu_ba2d0355b0/stop-passing-req-everywhere-express-middleware-for-request-context-propagation-4e00)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
