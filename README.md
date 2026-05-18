@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo construí un Morning Briefing con IA que se ejecuta solo cada mañana](https://dev.to/jestebandev/como-construi-un-morning-briefing-con-ia-que-se-ejecuta-solo-cada-manana-bop)
-- [Vague Thinking Stops Being Free](https://dev.to/whetlan/vague-thinking-stops-being-free-3lan)
-- [What Is Agentic Testing? A Practical Guide for QA Teams](https://dev.to/depapp/what-is-agentic-testing-a-practical-guide-for-qa-teams-3j65)
-- [Stop Passing req Everywhere — Express Middleware for Request Context Propagation](https://dev.to/saifuddin_tipu_ba2d0355b0/stop-passing-req-everywhere-express-middleware-for-request-context-propagation-4e00)
+- [Go Benchmarks That Actually Mean Something Why Your “40% Faster” Optimization Does Nothing in…](https://dev.to/speed_engineer/go-benchmarks-that-actually-mean-something-why-your-40-faster-optimization-does-nothing-in-38kh)
+- [I spent 3 months building an AI motion tool so creators don&#39;t have to hate their workflow anymore](https://dev.to/wplacetool/i-spent-3-months-building-an-ai-motion-tool-so-creators-dont-have-to-hate-their-workflow-anymore-492b)
+- [How I Make DeepSeek Work Closer to Claude Code in Practice](https://dev.to/kunpeng-ai-lab/how-i-make-deepseek-work-closer-to-claude-code-in-practice-5dn5)
+- [Veo 4 Doesn&#39;t Exist Yet, But People Are Already Selling It](https://dev.to/tokenmixai/veo-4-doesnt-exist-yet-but-people-are-already-selling-it-3ch9)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
