@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Go Benchmarks That Actually Mean Something Why Your “40% Faster” Optimization Does Nothing in…](https://dev.to/speed_engineer/go-benchmarks-that-actually-mean-something-why-your-40-faster-optimization-does-nothing-in-38kh)
-- [I spent 3 months building an AI motion tool so creators don&#39;t have to hate their workflow anymore](https://dev.to/wplacetool/i-spent-3-months-building-an-ai-motion-tool-so-creators-dont-have-to-hate-their-workflow-anymore-492b)
-- [How I Make DeepSeek Work Closer to Claude Code in Practice](https://dev.to/kunpeng-ai-lab/how-i-make-deepseek-work-closer-to-claude-code-in-practice-5dn5)
-- [Veo 4 Doesn&#39;t Exist Yet, But People Are Already Selling It](https://dev.to/tokenmixai/veo-4-doesnt-exist-yet-but-people-are-already-selling-it-3ch9)
+- [Claude Code Deleted 92 Images Without Asking. This Happens More Than You Think.](https://dev.to/boucle2026/claude-code-deleted-92-images-without-asking-this-happens-more-than-you-think-4alj)
+- [Method Calling Stack in Java](https://dev.to/buddika_b/method-calling-stack-in-java-25fd)
+- [OIC: From a Working Toast Watcher to a General &quot;Watch It for Me&quot; Agent](https://dev.to/straightly/oic-from-a-working-toast-watcher-to-a-general-watch-it-for-me-agent-2njm)
+- [Memory is two-thirds of what an AI chip costs to build](https://dev.to/thousand_miles_ai/memory-is-two-thirds-of-what-an-ai-chip-costs-to-build-37lh)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
