@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Deleted 92 Images Without Asking. This Happens More Than You Think.](https://dev.to/boucle2026/claude-code-deleted-92-images-without-asking-this-happens-more-than-you-think-4alj)
-- [Method Calling Stack in Java](https://dev.to/buddika_b/method-calling-stack-in-java-25fd)
-- [OIC: From a Working Toast Watcher to a General &quot;Watch It for Me&quot; Agent](https://dev.to/straightly/oic-from-a-working-toast-watcher-to-a-general-watch-it-for-me-agent-2njm)
-- [Memory is two-thirds of what an AI chip costs to build](https://dev.to/thousand_miles_ai/memory-is-two-thirds-of-what-an-ai-chip-costs-to-build-37lh)
+- [Understanding Jenkins CI/CD Using a Tiny Java Project &lpar;A Beginner-Friendly Walkthrough&rpar;](https://dev.to/sanjayghosh/understanding-jenkins-cicd-using-a-tiny-java-project-a-beginner-friendly-walkthrough-6co)
+- [Reflection SDD: Use a Reflection Harness to Level Up Your OpenSpec Workflow](https://dev.to/qtalen/reflection-sdd-use-a-reflection-harness-to-level-up-your-openspec-workflow-15l7)
+- [Using Apache AGE for Graph-Based Video Relationship Queries at Scale](https://dev.to/ahmet_gedik778845/using-apache-age-for-graph-based-video-relationship-queries-at-scale-89o)
+- [Exploring Snowpark While Comparing It with Apache Spark](https://dev.to/datapenguin/exploring-snowpark-while-comparing-it-with-apache-spark-mki)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
