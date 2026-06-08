@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Jenkins CI/CD Using a Tiny Java Project &lpar;A Beginner-Friendly Walkthrough&rpar;](https://dev.to/sanjayghosh/understanding-jenkins-cicd-using-a-tiny-java-project-a-beginner-friendly-walkthrough-6co)
-- [Reflection SDD: Use a Reflection Harness to Level Up Your OpenSpec Workflow](https://dev.to/qtalen/reflection-sdd-use-a-reflection-harness-to-level-up-your-openspec-workflow-15l7)
-- [Using Apache AGE for Graph-Based Video Relationship Queries at Scale](https://dev.to/ahmet_gedik778845/using-apache-age-for-graph-based-video-relationship-queries-at-scale-89o)
-- [Exploring Snowpark While Comparing It with Apache Spark](https://dev.to/datapenguin/exploring-snowpark-while-comparing-it-with-apache-spark-mki)
+- [CDK Deploy-Twice: When Your Infrastructure Needs to Know About Itself](https://dev.to/aws-builders/cdk-deploy-twice-when-your-infrastructure-needs-to-know-about-itself-573g)
+- [Contract Testing: Catch Breaking API Changes Before Your Consumers Do](https://dev.to/apikumo/contract-testing-catch-breaking-api-changes-before-your-consumers-do-13h)
+- [I Built a Quote Generator Because Sometimes Finding the Right Words Is Hard](https://dev.to/bhavin-allinonetools/i-built-a-quote-generator-because-sometimes-finding-the-right-words-is-hard-19k0)
+- [Day 28 — 🔭 Monitoring &amp; Observability Part One](https://dev.to/17j/day-28-monitoring-observability-part-one-1f13)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
