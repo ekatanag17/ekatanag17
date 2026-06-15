@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [CDK Deploy-Twice: When Your Infrastructure Needs to Know About Itself](https://dev.to/aws-builders/cdk-deploy-twice-when-your-infrastructure-needs-to-know-about-itself-573g)
-- [Contract Testing: Catch Breaking API Changes Before Your Consumers Do](https://dev.to/apikumo/contract-testing-catch-breaking-api-changes-before-your-consumers-do-13h)
-- [I Built a Quote Generator Because Sometimes Finding the Right Words Is Hard](https://dev.to/bhavin-allinonetools/i-built-a-quote-generator-because-sometimes-finding-the-right-words-is-hard-19k0)
-- [Day 28 — 🔭 Monitoring &amp; Observability Part One](https://dev.to/17j/day-28-monitoring-observability-part-one-1f13)
+- [[FREE] A self-hosted WordPress analytics plugin where your visitor data never leaves your server](https://dev.to/foxclerec/free-a-self-hosted-wordpress-analytics-plugin-where-your-visitor-data-never-leaves-your-server-4o4a)
+- [How I built a live demo that breaks agent pipelines in 8 different ways - and why every team building on MCP needs one](https://dev.to/harishkotra/how-i-built-a-live-demo-that-breaks-agent-pipelines-in-8-different-ways-and-why-every-team-35bn)
+- [3 Basic JavaScript concepts to start your React Journey: Part 1](https://dev.to/vigneshm220/3-basic-javascript-concepts-to-start-your-react-journey-part-1-4nm7)
+- [The Fee Assumption Quietly Wrong in Most Backtests](https://dev.to/jacktrader/the-fee-assumption-quietly-wrong-in-most-backtests-1jpa)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
