@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [[FREE] A self-hosted WordPress analytics plugin where your visitor data never leaves your server](https://dev.to/foxclerec/free-a-self-hosted-wordpress-analytics-plugin-where-your-visitor-data-never-leaves-your-server-4o4a)
-- [How I built a live demo that breaks agent pipelines in 8 different ways - and why every team building on MCP needs one](https://dev.to/harishkotra/how-i-built-a-live-demo-that-breaks-agent-pipelines-in-8-different-ways-and-why-every-team-35bn)
-- [3 Basic JavaScript concepts to start your React Journey: Part 1](https://dev.to/vigneshm220/3-basic-javascript-concepts-to-start-your-react-journey-part-1-4nm7)
-- [The Fee Assumption Quietly Wrong in Most Backtests](https://dev.to/jacktrader/the-fee-assumption-quietly-wrong-in-most-backtests-1jpa)
+- [Three post-deploy checks I run after every Cloudflare Pages build](https://dev.to/morinaga/three-post-deploy-checks-i-run-after-every-cloudflare-pages-build-48b4)
+- [Why I&#39;m betting on AI-curated directories when Google AI Overviews answer the same queries](https://dev.to/morinaga/why-im-betting-on-ai-curated-directories-when-google-ai-overviews-answer-the-same-queries-1g7k)
+- [The One Tool That Changed How I Think About API Performance](https://dev.to/unni_mana_d760476b6a16eda/the-one-tool-that-changed-how-i-think-about-api-performance-19ei)
+- [Session 5 summary](https://dev.to/hvdineshbabu/session-5-summary-5agg)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
