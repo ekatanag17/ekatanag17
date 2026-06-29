@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Three post-deploy checks I run after every Cloudflare Pages build](https://dev.to/morinaga/three-post-deploy-checks-i-run-after-every-cloudflare-pages-build-48b4)
-- [Why I&#39;m betting on AI-curated directories when Google AI Overviews answer the same queries](https://dev.to/morinaga/why-im-betting-on-ai-curated-directories-when-google-ai-overviews-answer-the-same-queries-1g7k)
-- [The One Tool That Changed How I Think About API Performance](https://dev.to/unni_mana_d760476b6a16eda/the-one-tool-that-changed-how-i-think-about-api-performance-19ei)
-- [Session 5 summary](https://dev.to/hvdineshbabu/session-5-summary-5agg)
+- [The state machine your agent runtime is missing: session state as first-class infrastructure](https://dev.to/aloya/the-state-machine-your-agent-runtime-is-missing-session-state-as-first-class-infrastructure-4g08)
+- [The Predictive Power of Philosophy: Why You Can’t Ask a Gun to Read a Bedtime Story](https://dev.to/mtleadership/the-predictive-power-of-philosophy-why-you-cant-ask-a-gun-to-read-a-bedtime-story-la3)
+- [Your Chatbot&#39;s Deflection Rate Went Up. Customers Just Gave Up.](https://dev.to/tomtokita/your-chatbots-deflection-rate-went-up-customers-just-gave-up-3ldd)
+- [5 MCP Servers That Changed How I Build AI Workflows](https://dev.to/jaideepparashar/5-mcp-servers-that-changed-how-i-build-ai-workflows-16j6)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
