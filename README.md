@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [The state machine your agent runtime is missing: session state as first-class infrastructure](https://dev.to/aloya/the-state-machine-your-agent-runtime-is-missing-session-state-as-first-class-infrastructure-4g08)
-- [The Predictive Power of Philosophy: Why You Can’t Ask a Gun to Read a Bedtime Story](https://dev.to/mtleadership/the-predictive-power-of-philosophy-why-you-cant-ask-a-gun-to-read-a-bedtime-story-la3)
-- [Your Chatbot&#39;s Deflection Rate Went Up. Customers Just Gave Up.](https://dev.to/tomtokita/your-chatbots-deflection-rate-went-up-customers-just-gave-up-3ldd)
-- [5 MCP Servers That Changed How I Build AI Workflows](https://dev.to/jaideepparashar/5-mcp-servers-that-changed-how-i-build-ai-workflows-16j6)
+- [My Fine-Tuned Gemma 4 Loaded Fine, Then Broke on the First Message](https://dev.to/jdshah/my-fine-tuned-gemma-4-loaded-fine-then-broke-on-the-first-message-5eg)
+- [AI&#39;s Water Bill: The Data Center Backlash Is Here](https://dev.to/max_quimby/ais-water-bill-the-data-center-backlash-is-here-18b2)
+- [I Built a NATO Phonetic Alphabet Converter After One Phone Call Changed My Mind](https://dev.to/bhavin-allinonetools/i-built-a-nato-phonetic-alphabet-converter-after-one-phone-call-changed-my-mind-50gf)
+- [I Got Tired of My Portfolio Looking Like a List of Links. So I Built an MCP Server for It.](https://dev.to/ayushsinghtomar/i-got-tired-of-my-portfolio-looking-like-a-list-of-links-so-i-built-an-mcp-server-for-it-440o)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
