@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [My Fine-Tuned Gemma 4 Loaded Fine, Then Broke on the First Message](https://dev.to/jdshah/my-fine-tuned-gemma-4-loaded-fine-then-broke-on-the-first-message-5eg)
-- [AI&#39;s Water Bill: The Data Center Backlash Is Here](https://dev.to/max_quimby/ais-water-bill-the-data-center-backlash-is-here-18b2)
-- [I Built a NATO Phonetic Alphabet Converter After One Phone Call Changed My Mind](https://dev.to/bhavin-allinonetools/i-built-a-nato-phonetic-alphabet-converter-after-one-phone-call-changed-my-mind-50gf)
-- [I Got Tired of My Portfolio Looking Like a List of Links. So I Built an MCP Server for It.](https://dev.to/ayushsinghtomar/i-got-tired-of-my-portfolio-looking-like-a-list-of-links-so-i-built-an-mcp-server-for-it-440o)
+- [DNS Propagation Time: How Long Until Your DNS Change Goes Live?](https://dev.to/reykingers_f513925d3df43/dns-propagation-time-how-long-until-your-dns-change-goes-live-3mcd)
+- [I built an AI commentator that screams about your sourdough like it&#39;s the World Cup final](https://dev.to/arya_koste_5845807df94776/i-built-an-ai-commentator-that-screams-about-your-sourdough-like-its-the-world-cup-final-34o2)
+- [A Voice AI Feature Needs a Permission-Loss Test Plan](https://dev.to/roronoa_/a-voice-ai-feature-needs-a-permission-loss-test-plan-4inm)
+- [Choose a Columnar Format From the Read Path Backward](https://dev.to/robinzzz/choose-a-columnar-format-from-the-read-path-backward-5a2o)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
