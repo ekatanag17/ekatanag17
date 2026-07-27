@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [ADA: an open-source AI data analyst that shows its math](https://dev.to/sainesh_nakra/ada-an-open-source-ai-data-analyst-that-shows-its-math-3ka7)
-- [We built an AI board of directors on Qwen. Then we asked it whether we should migrate to Qwen.](https://dev.to/vincentjulijanto/we-built-an-ai-board-of-directors-on-qwen-then-we-asked-it-whether-we-should-migrate-to-qwen-207j)
-- [FROST 深度：为什么 AI Agent 需要「家族谱系」？](https://dev.to/llimage/frost-shen-du-wei-shi-yao-ai-agent-xu-yao-jia-zu-pu-xi--4204)
-- [Strip Location From Both Halves of an iOS Live Photo Before Upload](https://dev.to/roronoa_/strip-location-from-both-halves-of-an-ios-live-photo-before-upload-4aoa)
+- [Six months of running a GBA emulator](https://dev.to/hamberluo/six-months-of-running-a-gba-emulator-54m5)
+- [React useDeepCompareEffect: Fix useEffect Object Dependencies &lpar;2026&rpar;](https://dev.to/childrentime/react-usedeepcompareeffect-fix-useeffect-object-dependencies-2026-2f91)
+- [CSS Box model](https://dev.to/jaisurya/css-box-model-heb)
+- [Your Knowledge Graph Is Wasting 70% of Its Tokens](https://dev.to/maheshvaikri/your-knowledge-graph-is-wasting-70-of-its-tokens-3c91)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
