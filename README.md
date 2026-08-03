@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Six months of running a GBA emulator](https://dev.to/hamberluo/six-months-of-running-a-gba-emulator-54m5)
-- [React useDeepCompareEffect: Fix useEffect Object Dependencies &lpar;2026&rpar;](https://dev.to/childrentime/react-usedeepcompareeffect-fix-useeffect-object-dependencies-2026-2f91)
-- [CSS Box model](https://dev.to/jaisurya/css-box-model-heb)
-- [Your Knowledge Graph Is Wasting 70% of Its Tokens](https://dev.to/maheshvaikri/your-knowledge-graph-is-wasting-70-of-its-tokens-3c91)
+- [Mastering IEEE Conference Paper References: A Comprehensive Guide](https://dev.to/daya_shankar_cb9dcbcde75c/mastering-ieee-conference-paper-references-a-comprehensive-guide-155o)
+- [Let Claude Desktop and Cursor actually watch videos &lpar;MCP, fully local&rpar;](https://dev.to/huangchihhungleo/let-claude-desktop-and-cursor-actually-watch-videos-mcp-fully-local-2gnf)
+- [RAG Classifications, Architectures: A Field Guide for Production-Grade Systems](https://dev.to/sreeraj-sreenivasan/rag-classifications-architectures-a-field-guide-for-production-grade-systems-p27)
+- [How to make your Next.js site appear in ChatGPT &lpar;and any LLM&rpar;](https://dev.to/gustavo_garcia_dev/how-to-make-your-nextjs-site-appear-in-chatgpt-and-any-llm-3mph)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
