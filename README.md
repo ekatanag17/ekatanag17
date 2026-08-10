@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering IEEE Conference Paper References: A Comprehensive Guide](https://dev.to/daya_shankar_cb9dcbcde75c/mastering-ieee-conference-paper-references-a-comprehensive-guide-155o)
-- [Let Claude Desktop and Cursor actually watch videos &lpar;MCP, fully local&rpar;](https://dev.to/huangchihhungleo/let-claude-desktop-and-cursor-actually-watch-videos-mcp-fully-local-2gnf)
-- [RAG Classifications, Architectures: A Field Guide for Production-Grade Systems](https://dev.to/sreeraj-sreenivasan/rag-classifications-architectures-a-field-guide-for-production-grade-systems-p27)
-- [How to make your Next.js site appear in ChatGPT &lpar;and any LLM&rpar;](https://dev.to/gustavo_garcia_dev/how-to-make-your-nextjs-site-appear-in-chatgpt-and-any-llm-3mph)
+- [[Advanced Rust] 2.8. API Design Principles of Flexibility Pt.4 - Problems with Explicit Destructors and Three Solutions](https://dev.to/someb1oody/advanced-rust-28-api-design-principles-of-flexibility-pt4-problems-with-explicit-destructors-h7k)
+- [How to Set Up an OpenClaw Agent on a VPS &lpar;Step-by-Step&rpar;](https://dev.to/hakiimi_claw/how-to-set-up-an-openclaw-agent-on-a-vps-step-by-step-abo)
+- [How AI Website Builders Actually Work: From Prompt to Production App](https://dev.to/victor_azubuike_cbe29672b/how-ai-website-builders-actually-work-from-prompt-to-production-app-47p2)
+- [I Gave My Agent One Signed Permission It Couldn’t Mint Itself](https://dev.to/kenielzep97/i-gave-my-agent-one-signed-permission-it-couldnt-mint-itself-2lpc)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
