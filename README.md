@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [[Advanced Rust] 2.8. API Design Principles of Flexibility Pt.4 - Problems with Explicit Destructors and Three Solutions](https://dev.to/someb1oody/advanced-rust-28-api-design-principles-of-flexibility-pt4-problems-with-explicit-destructors-h7k)
-- [How to Set Up an OpenClaw Agent on a VPS &lpar;Step-by-Step&rpar;](https://dev.to/hakiimi_claw/how-to-set-up-an-openclaw-agent-on-a-vps-step-by-step-abo)
-- [How AI Website Builders Actually Work: From Prompt to Production App](https://dev.to/victor_azubuike_cbe29672b/how-ai-website-builders-actually-work-from-prompt-to-production-app-47p2)
-- [I Gave My Agent One Signed Permission It Couldn’t Mint Itself](https://dev.to/kenielzep97/i-gave-my-agent-one-signed-permission-it-couldnt-mint-itself-2lpc)
+- [From API to GPU, Week 5: Tensors, the Data Structure Behind Every Model](https://dev.to/dramasamy/from-api-to-gpu-week-5-tensors-the-data-structure-behind-every-model-18gc)
+- [GeekNews Frontend Weekly Deep Dive - 2026-08-17](https://dev.to/ageofclick/geeknews-frontend-weekly-deep-dive-2026-08-17-l5i)
+- [From a 15-Second Walk to a Digital Memory: Building a Canine Cognitive Twin](https://dev.to/prince_panchani_f971a20ec/from-a-15-second-walk-to-a-digital-memory-building-a-canine-cognitive-twin-476c)
+- [AI Agents Yield to Each Other in the &quot;Break Room&quot; — A Month in My DIY Discord Bridge](https://dev.to/ebibibi/ai-agents-yield-to-each-other-in-the-break-room-a-month-in-my-diy-discord-bridge-5gf1)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
