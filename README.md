@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [From API to GPU, Week 5: Tensors, the Data Structure Behind Every Model](https://dev.to/dramasamy/from-api-to-gpu-week-5-tensors-the-data-structure-behind-every-model-18gc)
-- [GeekNews Frontend Weekly Deep Dive - 2026-08-17](https://dev.to/ageofclick/geeknews-frontend-weekly-deep-dive-2026-08-17-l5i)
-- [From a 15-Second Walk to a Digital Memory: Building a Canine Cognitive Twin](https://dev.to/prince_panchani_f971a20ec/from-a-15-second-walk-to-a-digital-memory-building-a-canine-cognitive-twin-476c)
-- [AI Agents Yield to Each Other in the &quot;Break Room&quot; — A Month in My DIY Discord Bridge](https://dev.to/ebibibi/ai-agents-yield-to-each-other-in-the-break-room-a-month-in-my-diy-discord-bridge-5gf1)
+- [Xiaomi&#39;s First NAS Launches at 2,699 RMB: An Industrial Designer Looks at Smart Storage Design](https://dev.to/asher_hu_42c5945e09721211/xiaomis-first-nas-launches-at-2699-rmb-an-industrial-designer-looks-at-smart-storage-design-89e)
+- [The Context Packet: The Right Architectural Coding Agents](https://dev.to/majdizlitni/the-context-packet-the-right-architectural-coding-agents-5agc)
+- [It Passed Every Test. That&#39;s Why It Can&#39;t Ship Yet.](https://dev.to/ramses203/it-passed-every-test-thats-why-it-cant-ship-yet-3dnm)
+- [Our AI reviewer invented a request. Our producer retried 245 times.](https://dev.to/gxcafellc/our-ai-reviewer-invented-a-request-our-producer-retried-245-times-465f)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
