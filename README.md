@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Xiaomi&#39;s First NAS Launches at 2,699 RMB: An Industrial Designer Looks at Smart Storage Design](https://dev.to/asher_hu_42c5945e09721211/xiaomis-first-nas-launches-at-2699-rmb-an-industrial-designer-looks-at-smart-storage-design-89e)
-- [The Context Packet: The Right Architectural Coding Agents](https://dev.to/majdizlitni/the-context-packet-the-right-architectural-coding-agents-5agc)
-- [It Passed Every Test. That&#39;s Why It Can&#39;t Ship Yet.](https://dev.to/ramses203/it-passed-every-test-thats-why-it-cant-ship-yet-3dnm)
-- [Our AI reviewer invented a request. Our producer retried 245 times.](https://dev.to/gxcafellc/our-ai-reviewer-invented-a-request-our-producer-retried-245-times-465f)
+- [Mastering Keycloak: Essential Concepts Every Developer Should Know for Application Security](https://dev.to/hirdo/mastering-keycloak-essential-concepts-every-developer-should-know-for-application-security-1idc)
+- [Codex vs Cursor vs Claude Code: Choosing the Right AI Coding Assistant](https://dev.to/hirdo/codex-vs-cursor-vs-claude-code-choosing-the-right-ai-coding-assistant-5cch)
+- [A Spoken Prompt Should Never Reach Your Voice Companion’s Control Plane](https://dev.to/susiewang/a-spoken-prompt-should-never-reach-your-voice-companions-control-plane-1fgg)
+- [AI Agents in the Economy: How Autonomous Software Is Reshaping Markets, Labor, and Productivity in 2026](https://dev.to/rama_2720/ai-agents-in-the-economy-how-autonomous-software-is-reshaping-markets-labor-and-productivity-in-5aff)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
