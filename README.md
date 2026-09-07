@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Keycloak: Essential Concepts Every Developer Should Know for Application Security](https://dev.to/hirdo/mastering-keycloak-essential-concepts-every-developer-should-know-for-application-security-1idc)
-- [Codex vs Cursor vs Claude Code: Choosing the Right AI Coding Assistant](https://dev.to/hirdo/codex-vs-cursor-vs-claude-code-choosing-the-right-ai-coding-assistant-5cch)
-- [A Spoken Prompt Should Never Reach Your Voice Companion’s Control Plane](https://dev.to/susiewang/a-spoken-prompt-should-never-reach-your-voice-companions-control-plane-1fgg)
-- [AI Agents in the Economy: How Autonomous Software Is Reshaping Markets, Labor, and Productivity in 2026](https://dev.to/rama_2720/ai-agents-in-the-economy-how-autonomous-software-is-reshaping-markets-labor-and-productivity-in-5aff)
+- [This is how I added an in-browser auto captions feature to my YouTube Shorts converter web application using Whisper AI and ffmpeg.wasm](https://dev.to/dhritich20baruah/this-is-how-i-added-an-in-browser-auto-captions-feature-to-my-youtube-shorts-converter-web-41o0)
+- [How to take over a design built in Figma Make and develop it with Claude Code](https://dev.to/uehara/how-to-take-over-a-design-built-in-figma-make-and-develop-it-with-claude-code-2oji)
+- [A counter in process memory is not a guard: 131 restarts proved it](https://dev.to/pm25coder/a-counter-in-process-memory-is-not-a-guard-131-restarts-proved-it-3nmk)
+- [Why Adding an Index Won&#39;t Fix Your Slow COUNT&lpar;*&rpar; in PostgreSQL](https://dev.to/bodanthebackend/why-adding-an-index-wont-fix-your-slow-count-in-postgresql-477a)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
