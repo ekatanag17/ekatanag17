@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [This is how I added an in-browser auto captions feature to my YouTube Shorts converter web application using Whisper AI and ffmpeg.wasm](https://dev.to/dhritich20baruah/this-is-how-i-added-an-in-browser-auto-captions-feature-to-my-youtube-shorts-converter-web-41o0)
-- [How to take over a design built in Figma Make and develop it with Claude Code](https://dev.to/uehara/how-to-take-over-a-design-built-in-figma-make-and-develop-it-with-claude-code-2oji)
-- [A counter in process memory is not a guard: 131 restarts proved it](https://dev.to/pm25coder/a-counter-in-process-memory-is-not-a-guard-131-restarts-proved-it-3nmk)
-- [Why Adding an Index Won&#39;t Fix Your Slow COUNT&lpar;*&rpar; in PostgreSQL](https://dev.to/bodanthebackend/why-adding-an-index-wont-fix-your-slow-count-in-postgresql-477a)
+- [LaunchTower Factor Model Report — 2026-09-14 &lpar;81 US large-caps&rpar;](https://dev.to/penny_penguin_199601ef2a7/launchtower-factor-model-report-2026-09-14-81-us-large-caps-2bbb)
+- [Turning Mermaid ER diagrams into shareable 3D schema tours](https://dev.to/shane11235/turning-mermaid-er-diagrams-into-shareable-3d-schema-tours-nn8)
+- [ChatGPT vs Claude vs Gemini for Small Business: Why Infrastructure Differences Matter More Than Model Size](https://dev.to/shaam_ai/chatgpt-vs-claude-vs-gemini-for-small-business-why-infrastructure-differences-matter-more-than-d3d)
+- [Real-Time Interactive Video: The End of Passive Media and the Rise of Programmable Pixels](https://dev.to/shaam_ai/real-time-interactive-video-the-end-of-passive-media-and-the-rise-of-programmable-pixels-59i)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
