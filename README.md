@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [LaunchTower Factor Model Report — 2026-09-14 &lpar;81 US large-caps&rpar;](https://dev.to/penny_penguin_199601ef2a7/launchtower-factor-model-report-2026-09-14-81-us-large-caps-2bbb)
-- [Turning Mermaid ER diagrams into shareable 3D schema tours](https://dev.to/shane11235/turning-mermaid-er-diagrams-into-shareable-3d-schema-tours-nn8)
-- [ChatGPT vs Claude vs Gemini for Small Business: Why Infrastructure Differences Matter More Than Model Size](https://dev.to/shaam_ai/chatgpt-vs-claude-vs-gemini-for-small-business-why-infrastructure-differences-matter-more-than-d3d)
-- [Real-Time Interactive Video: The End of Passive Media and the Rise of Programmable Pixels](https://dev.to/shaam_ai/real-time-interactive-video-the-end-of-passive-media-and-the-rise-of-programmable-pixels-59i)
+- [A Working CLAUDE.md/AGENTS.md Template You Can Copy Today](https://dev.to/dhrutika_rathod/a-working-claudemdagentsmd-template-you-can-copy-today-2dlh)
+- [IISc Bengaluru BHEEM Habitat: A Moon Base Bigger Than the ISS That Ships as Panels](https://dev.to/shaam_ai/iisc-bengaluru-bheem-habitat-a-moon-base-bigger-than-the-iss-that-ships-as-panels-1k7k)
+- [What people are building with Jev: a look through nine awesome lists](https://dev.to/0xshin0221/what-people-are-building-with-jev-a-look-through-nine-awesome-lists-30nb)
+- [GLM-5.3-Flash Explained: The 320B Open-Weight Model With an 18B Brain and a 1M-Token Memory &lpar;2026&rpar;](https://dev.to/shaam_ai/glm-53-flash-explained-the-320b-open-weight-model-with-an-18b-brain-and-a-1m-token-memory-2026-5cbl)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
