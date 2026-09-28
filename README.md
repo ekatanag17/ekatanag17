@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [A Working CLAUDE.md/AGENTS.md Template You Can Copy Today](https://dev.to/dhrutika_rathod/a-working-claudemdagentsmd-template-you-can-copy-today-2dlh)
-- [IISc Bengaluru BHEEM Habitat: A Moon Base Bigger Than the ISS That Ships as Panels](https://dev.to/shaam_ai/iisc-bengaluru-bheem-habitat-a-moon-base-bigger-than-the-iss-that-ships-as-panels-1k7k)
-- [What people are building with Jev: a look through nine awesome lists](https://dev.to/0xshin0221/what-people-are-building-with-jev-a-look-through-nine-awesome-lists-30nb)
-- [GLM-5.3-Flash Explained: The 320B Open-Weight Model With an 18B Brain and a 1M-Token Memory &lpar;2026&rpar;](https://dev.to/shaam_ai/glm-53-flash-explained-the-320b-open-weight-model-with-an-18b-brain-and-a-1m-token-memory-2026-5cbl)
+- [&#39;No tools listed&#39; should mean deny, not allow-all](https://dev.to/rojaneerdev/no-tools-listed-should-mean-deny-not-allow-all-9e7)
+- [High-Throughput PDF Redaction: Split Chapter Ranges from Parsed Contents Safely](https://dev.to/evanshepherd5623/high-throughput-pdf-redaction-split-chapter-ranges-from-parsed-contents-safely-3mof)
+- [Security Audit Report: Reentrancy &amp; Access Control Review: Gemini](https://dev.to/dannydoes_2abdf9c/security-audit-report-reentrancy-access-control-review-gemini-5d6d)
+- [Don&#39;t Ship Dev Keys! Set Up Production-Ready Google OAuth in React](https://dev.to/auth0/dont-ship-dev-keys-set-up-production-ready-google-oauth-in-react-1fl8)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
