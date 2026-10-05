@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;No tools listed&#39; should mean deny, not allow-all](https://dev.to/rojaneerdev/no-tools-listed-should-mean-deny-not-allow-all-9e7)
-- [High-Throughput PDF Redaction: Split Chapter Ranges from Parsed Contents Safely](https://dev.to/evanshepherd5623/high-throughput-pdf-redaction-split-chapter-ranges-from-parsed-contents-safely-3mof)
-- [Security Audit Report: Reentrancy &amp; Access Control Review: Gemini](https://dev.to/dannydoes_2abdf9c/security-audit-report-reentrancy-access-control-review-gemini-5d6d)
-- [Don&#39;t Ship Dev Keys! Set Up Production-Ready Google OAuth in React](https://dev.to/auth0/dont-ship-dev-keys-set-up-production-ready-google-oauth-in-react-1fl8)
+- [The 10-Millisecond Trick: How Recommenders Search Millions of Items Before You Blink](https://dev.to/danielsamfdo/the-10-millisecond-trick-how-recommenders-search-millions-of-items-before-you-blink-4dkp)
+- [The 16x Context Trick: How Latent Context Models Finally Made Compression Work](https://dev.to/danielsamfdo/the-16x-context-trick-how-latent-context-models-finally-made-compression-work-1b07)
+- [Genuire: An AI-Powered Job Scam Detection Platform](https://dev.to/dasouvik122005/genuire-an-ai-powered-job-scam-detection-platform-2o3i)
+- [DartBox Buddy: Running Flutter On-Device with a Local Gemma 4 AI Tutor for My Friend](https://dev.to/yadneshteli/dartbox-buddy-running-flutter-on-device-with-a-local-gemma-4-ai-tutor-for-my-friend-1g53)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
