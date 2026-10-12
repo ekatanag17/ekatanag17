@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [The 10-Millisecond Trick: How Recommenders Search Millions of Items Before You Blink](https://dev.to/danielsamfdo/the-10-millisecond-trick-how-recommenders-search-millions-of-items-before-you-blink-4dkp)
-- [The 16x Context Trick: How Latent Context Models Finally Made Compression Work](https://dev.to/danielsamfdo/the-16x-context-trick-how-latent-context-models-finally-made-compression-work-1b07)
-- [Genuire: An AI-Powered Job Scam Detection Platform](https://dev.to/dasouvik122005/genuire-an-ai-powered-job-scam-detection-platform-2o3i)
-- [DartBox Buddy: Running Flutter On-Device with a Local Gemma 4 AI Tutor for My Friend](https://dev.to/yadneshteli/dartbox-buddy-running-flutter-on-device-with-a-local-gemma-4-ai-tutor-for-my-friend-1g53)
+- [lost &amp; found!](https://dev.to/vanihba_a25ee1800d72420b9/lost-found-39j7)
+- [lost &amp; found](https://dev.to/vanihba_a25ee1800d72420b9/lost-found-53mh)
+- [Quickstart with Gemini API in Python](https://dev.to/ipsphil_digital/quickstart-with-gemini-api-in-python-2in3)
+- [Girora: Plan Trips with AI and Find People to Travel With](https://dev.to/umeshpawak/girora-plan-trips-with-ai-and-find-people-to-travel-with-4pf0)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
