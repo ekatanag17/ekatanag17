@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [lost &amp; found!](https://dev.to/vanihba_a25ee1800d72420b9/lost-found-39j7)
-- [lost &amp; found](https://dev.to/vanihba_a25ee1800d72420b9/lost-found-53mh)
-- [Quickstart with Gemini API in Python](https://dev.to/ipsphil_digital/quickstart-with-gemini-api-in-python-2in3)
-- [Girora: Plan Trips with AI and Find People to Travel With](https://dev.to/umeshpawak/girora-plan-trips-with-ai-and-find-people-to-travel-with-4pf0)
+- [Hybrid Search for RAG: Why Your Vector Search Misses &quot;TS-999&quot; &lpar;and the 20-Line Fix&rpar;](https://dev.to/m_t_ramkrushna/hybrid-search-for-rag-why-your-vector-search-misses-ts-999-and-the-20-line-fix-koa)
+- [OTA over cellular with 2G fallback — what 130 field loggers taught us](https://dev.to/bhanuka_gamachchige/ota-over-cellular-with-2g-fallback-what-130-field-loggers-taught-us-2c7b)
+- [How to Compress a PDF for Email and Upload Limits &lpar;Without Ruining It&rpar;](https://dev.to/pkdventures/how-to-compress-a-pdf-for-email-and-upload-limits-without-ruining-it-197g)
+- [Detecting Breaking Schema Drift in Schemaless JSON Across Distributed Systems: Architecture and Post-Mortem](https://dev.to/toai/detecting-breaking-schema-drift-in-schemaless-json-across-distributed-systems-architecture-and-55m9)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
