@@ -23,10 +23,10 @@ You can get latest blogs in the technology domain as given below.
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Hybrid Search for RAG: Why Your Vector Search Misses &quot;TS-999&quot; &lpar;and the 20-Line Fix&rpar;](https://dev.to/m_t_ramkrushna/hybrid-search-for-rag-why-your-vector-search-misses-ts-999-and-the-20-line-fix-koa)
-- [OTA over cellular with 2G fallback — what 130 field loggers taught us](https://dev.to/bhanuka_gamachchige/ota-over-cellular-with-2g-fallback-what-130-field-loggers-taught-us-2c7b)
-- [How to Compress a PDF for Email and Upload Limits &lpar;Without Ruining It&rpar;](https://dev.to/pkdventures/how-to-compress-a-pdf-for-email-and-upload-limits-without-ruining-it-197g)
-- [Detecting Breaking Schema Drift in Schemaless JSON Across Distributed Systems: Architecture and Post-Mortem](https://dev.to/toai/detecting-breaking-schema-drift-in-schemaless-json-across-distributed-systems-architecture-and-55m9)
+- [Why a long idle pause costs you: Claude Code&#39;s prompt cache](https://dev.to/samstull9007/why-a-long-idle-pause-costs-you-claude-codes-prompt-cache-3jp4)
+- [Stale Plan Protection in an AI Agent: How FreshCtx Catches Context Drift Before Dispatch](https://dev.to/starebrain/stale-plan-protection-in-an-ai-agent-how-freshctx-catches-context-drift-before-dispatch-2kb0)
+- [Barcode Traceability in Manufacturing](https://dev.to/xinlongiot/barcode-traceability-in-manufacturing-4h2p)
+- [A Pre-Upload Check Workflow for NDIS Bulk Payment Requests: Five Gates, 16 Columns and the Codes Behind Rejected Lines &lpar;2026&rpar;](https://dev.to/rostery/a-pre-upload-check-workflow-for-ndis-bulk-payment-requests-five-gates-16-columns-and-the-codes-19jp)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
